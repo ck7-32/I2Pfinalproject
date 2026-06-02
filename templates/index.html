@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>即時公車導航與步行時間最佳化</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <h1>🚌 即時公車導航</h1>
+    <p class="subtitle">輸入起點與終點，依「步行＋等待＋乘車」總時間排序最快方案</p>
+  </header>
+
+  <main>
+    <!-- 左側：查詢表單 + 方案清單 -->
+    <section class="panel">
+      <form id="search-form">
+        <label>
+          起點
+          <input type="text" id="origin" placeholder="例如：清華大學" required>
+        </label>
+        <label>
+          終點
+          <input type="text" id="dest" placeholder="例如：新竹火車站" required>
+        </label>
+        <button type="submit" id="search-btn">查詢路線</button>
+      </form>
+
+      <div id="status" class="status"></div>
+      <ol id="plans" class="plans"></ol>
+    </section>
+
+    <!-- 右側：Folium 互動地圖（以 iframe 嵌入避免樣式衝突） -->
+    <section class="map-wrap">
+      <iframe id="map-frame" title="路線地圖"></iframe>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

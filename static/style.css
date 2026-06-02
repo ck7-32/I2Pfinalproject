@@ -1,0 +1,180 @@
+/* 即時公車導航 — 介面樣式 */
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
+  color: #1f2933;
+  background: #f5f7fa;
+}
+
+header {
+  padding: 16px 24px;
+  background: #2563eb;
+  color: #fff;
+}
+header h1 { margin: 0; font-size: 1.4rem; }
+header .subtitle { margin: 4px 0 0; font-size: 0.85rem; opacity: 0.9; }
+
+/* 左右兩欄：左側面板 + 右側地圖 */
+main {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  height: calc(100vh - 78px);
+}
+
+.panel {
+  flex: 0 0 380px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.map-wrap { flex: 1; }
+.map-wrap iframe {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #d1d8e0;
+  border-radius: 8px;
+  background: #fff;
+}
+
+/* 查詢表單 */
+#search-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #d1d8e0;
+}
+#search-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  font-weight: 600;
+  gap: 4px;
+}
+#search-form input {
+  padding: 8px 10px;
+  border: 1px solid #cbd2d9;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+#search-btn {
+  padding: 10px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+#search-btn:hover { background: #1d4ed8; }
+#search-btn:disabled { background: #94a3b8; cursor: not-allowed; }
+
+.status {
+  margin: 12px 0;
+  font-size: 0.85rem;
+  color: #52606d;
+  min-height: 1.2em;
+}
+
+/* 方案清單 */
+.plans {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+.plan-card {
+  background: #fff;
+  border: 1px solid #d1d8e0;
+  border-left: 4px solid #2563eb;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background 0.15s, box-shadow 0.15s;
+}
+.plan-card:hover {
+  background: #f0f5ff;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.15);
+}
+/* 被選中的方案：藍底強調，與地圖上顯示的路線對應 */
+.plan-card.selected {
+  background: #e0ecff;
+  border-left-width: 6px;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+}
+.plan-card .rank { color: #2563eb; font-weight: 700; }
+.plan-card .route {
+  display: inline-block;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-left: 6px;
+}
+.plan-card .total { float: right; font-weight: 700; font-size: 1.05rem; }
+.plan-card .stops { margin: 8px 0; font-size: 0.85rem; color: #3e4c59; }
+.plan-card .segments {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  font-size: 0.75rem;
+  color: #52606d;
+}
+.plan-card .segments span {
+  background: #eef2f7;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* 詳細資訊：預設收合，選中卡片時展開（往下彈出） */
+.plan-detail {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+  margin-top: 0;
+}
+.plan-card.expanded .plan-detail {
+  max-height: 600px; /* 足夠容納四段 + 總計 */
+  margin-top: 10px;
+}
+.detail-row {
+  border-top: 1px dashed #d1d8e0;
+  padding: 8px 0;
+}
+.detail-head {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+}
+.detail-icon { font-size: 1rem; }
+.detail-title { font-weight: 600; flex: 1; }
+.detail-time { font-weight: 700; color: #2563eb; }
+.detail-path {
+  font-size: 0.8rem;
+  color: #3e4c59;
+  margin: 2px 0 0 22px;
+}
+.detail-src {
+  font-size: 0.72rem;
+  color: #7b8794;
+  margin: 1px 0 0 22px;
+}
+.detail-total {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 2px solid #2563eb;
+  text-align: right;
+  font-weight: 700;
+  color: #2563eb;
+}

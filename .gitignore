@@ -1,0 +1,16 @@
+# 機敏資訊：TDX 金鑰
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 編輯器 / 系統
+.DS_Store
+.vscode/
+.idea/
+
+# 臨時測試腳本（功能已整合進正式模組）
+test.py

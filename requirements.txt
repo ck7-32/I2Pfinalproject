@@ -1,0 +1,4 @@
+Flask>=3.0
+folium>=0.16
+requests>=2.31
+python-dotenv>=1.0

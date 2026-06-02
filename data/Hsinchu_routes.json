@@ -1,0 +1,272 @@
+[
+  {
+    "route_uid": "HSZ0007",
+    "route_id": "0007",
+    "route_name": "81",
+    "departure_stop": "古奇峰",
+    "destination_stop": "新莊車站",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSZ0008",
+    "route_id": "0008",
+    "route_name": "83",
+    "departure_stop": "成德高中",
+    "destination_stop": "北校門",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSZ0010",
+    "route_id": "0010",
+    "route_name": "藍線1區",
+    "departure_stop": "火車站",
+    "destination_stop": "火車站",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0020",
+    "route_id": "0020",
+    "route_name": "2",
+    "departure_stop": "火車站",
+    "destination_stop": "陽明交大光復校區",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0100",
+    "route_id": "0100",
+    "route_name": "10",
+    "departure_stop": "總站",
+    "destination_stop": "成德高中",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0110",
+    "route_id": "0110",
+    "route_name": "11",
+    "departure_stop": "火車站",
+    "destination_stop": "順天宮",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0113",
+    "route_id": "0113",
+    "route_name": "11甲",
+    "departure_stop": "火車站",
+    "destination_stop": "南華國中",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0120",
+    "route_id": "0120",
+    "route_name": "12",
+    "departure_stop": "總站",
+    "destination_stop": "莊厝",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0150",
+    "route_id": "0150",
+    "route_name": "藍15區",
+    "departure_stop": "火車站",
+    "destination_stop": "南寮",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0160",
+    "route_id": "0160",
+    "route_name": "16",
+    "departure_stop": "火車站",
+    "destination_stop": "台大醫院新竹分院",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0182",
+    "route_id": "0182",
+    "route_name": "182",
+    "departure_stop": "北大橋",
+    "destination_stop": "高鐵新竹站",
+    "operators": [
+      "國光客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0185",
+    "route_id": "0185",
+    "route_name": "先導公車",
+    "departure_stop": "北大橋",
+    "destination_stop": "生技產業大樓",
+    "operators": [
+      "國光客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0200",
+    "route_id": "0200",
+    "route_name": "20",
+    "departure_stop": "總站",
+    "destination_stop": "普天宮",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0230",
+    "route_id": "0230",
+    "route_name": "23",
+    "departure_stop": "火車站",
+    "destination_stop": "玄奘大學",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0270",
+    "route_id": "0270",
+    "route_name": "27",
+    "departure_stop": "火車站",
+    "destination_stop": "火車站",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0310",
+    "route_id": "0310",
+    "route_name": "31",
+    "departure_stop": "火車站",
+    "destination_stop": "火車站",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0500",
+    "route_id": "0500",
+    "route_name": "50",
+    "departure_stop": "香山區公所",
+    "destination_stop": "香山區公所",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0510",
+    "route_id": "0510",
+    "route_name": "51",
+    "departure_stop": "香山區公所",
+    "destination_stop": "香山區公所",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0520",
+    "route_id": "0520",
+    "route_name": "52",
+    "departure_stop": "新莊車站",
+    "destination_stop": "新莊車站",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0530",
+    "route_id": "0530",
+    "route_name": "53",
+    "departure_stop": "新莊車站",
+    "destination_stop": "新莊車站",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0573",
+    "route_id": "0573",
+    "route_name": "世博3號",
+    "departure_stop": "後站(公園路口)",
+    "destination_stop": "後站(公園路口)",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0575",
+    "route_id": "0575",
+    "route_name": "世博5號",
+    "departure_stop": "聖公宮",
+    "destination_stop": "世博台灣館",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0710",
+    "route_id": "0710",
+    "route_name": "71",
+    "departure_stop": "北新竹後站",
+    "destination_stop": "北新竹後站",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSZ0720",
+    "route_id": "0720",
+    "route_name": "72",
+    "departure_stop": "北新竹後站",
+    "destination_stop": "陽明清境",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSZ0730",
+    "route_id": "0730",
+    "route_name": "73",
+    "departure_stop": "北新竹後站",
+    "destination_stop": "花園新城",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSZ0739",
+    "route_id": "0739",
+    "route_name": "綠線",
+    "departure_stop": "經國路口",
+    "destination_stop": "香山轉運站",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "HSZ0743",
+    "route_id": "0743",
+    "route_name": "藍線",
+    "departure_stop": "新竹區漁會",
+    "destination_stop": "竹中",
+    "operators": [
+      "新竹客運"
+    ]
+  }
+]

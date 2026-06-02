@@ -1,0 +1,8300 @@
+[
+  {
+    "stop_uid": "HSZ222237",
+    "stop_id": "222237",
+    "stop_name": "二分局",
+    "position": {
+      "lat": 24.80133317,
+      "lon": 120.9858828
+    }
+  },
+  {
+    "stop_uid": "HSZ291222",
+    "stop_id": "291222",
+    "stop_name": "工研院光復院區",
+    "position": {
+      "lat": 24.80039182,
+      "lon": 120.9887464
+    }
+  },
+  {
+    "stop_uid": "HSZ291223",
+    "stop_id": "291223",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.801166,
+      "lon": 120.97655
+    }
+  },
+  {
+    "stop_uid": "HSZ291224",
+    "stop_id": "291224",
+    "stop_name": "日光燈",
+    "position": {
+      "lat": 24.78385101,
+      "lon": 121.0160677
+    }
+  },
+  {
+    "stop_uid": "HSZ291225",
+    "stop_id": "291225",
+    "stop_name": "水源地",
+    "position": {
+      "lat": 24.79784722,
+      "lon": 120.9858361
+    }
+  },
+  {
+    "stop_uid": "HSZ291226",
+    "stop_id": "291226",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803167,
+      "lon": 120.97187
+    }
+  },
+  {
+    "stop_uid": "HSZ291227",
+    "stop_id": "291227",
+    "stop_name": "世界高中",
+    "position": {
+      "lat": 24.78210329,
+      "lon": 121.0200794
+    }
+  },
+  {
+    "stop_uid": "HSZ291228",
+    "stop_id": "291228",
+    "stop_name": "仙水",
+    "position": {
+      "lat": 24.78284215,
+      "lon": 121.0185001
+    }
+  },
+  {
+    "stop_uid": "HSZ291229",
+    "stop_id": "291229",
+    "stop_name": "光武國中",
+    "position": {
+      "lat": 24.78553661,
+      "lon": 121.0120782
+    }
+  },
+  {
+    "stop_uid": "HSZ291230",
+    "stop_id": "291230",
+    "stop_name": "光復中學",
+    "position": {
+      "lat": 24.79824,
+      "lon": 120.99456
+    }
+  },
+  {
+    "stop_uid": "HSZ291231",
+    "stop_id": "291231",
+    "stop_name": "竹中",
+    "position": {
+      "lat": 24.781215,
+      "lon": 121.031
+    }
+  },
+  {
+    "stop_uid": "HSZ291232",
+    "stop_id": "291232",
+    "stop_name": "竹中口",
+    "position": {
+      "lat": 24.7807872,
+      "lon": 121.0285771
+    }
+  },
+  {
+    "stop_uid": "HSZ291233",
+    "stop_id": "291233",
+    "stop_name": "和平",
+    "position": {
+      "lat": 24.78657602,
+      "lon": 121.0107209
+    }
+  },
+  {
+    "stop_uid": "HSZ291234",
+    "stop_id": "291234",
+    "stop_name": "東山文教院",
+    "position": {
+      "lat": 24.7974216,
+      "lon": 120.9788372
+    }
+  },
+  {
+    "stop_uid": "HSZ291235",
+    "stop_id": "291235",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291236",
+    "stop_id": "291236",
+    "stop_name": "東門國小",
+    "position": {
+      "lat": 24.8062327,
+      "lon": 120.9733205
+    }
+  },
+  {
+    "stop_uid": "HSZ291237",
+    "stop_id": "291237",
+    "stop_name": "金城新村口",
+    "position": {
+      "lat": 24.79371669,
+      "lon": 121.0005388
+    }
+  },
+  {
+    "stop_uid": "HSZ291238",
+    "stop_id": "291238",
+    "stop_name": "科學園區",
+    "position": {
+      "lat": 24.78827896,
+      "lon": 121.0083312
+    }
+  },
+  {
+    "stop_uid": "HSZ291239",
+    "stop_id": "291239",
+    "stop_name": "科學園區別墅",
+    "position": {
+      "lat": 24.784533,
+      "lon": 121.01423
+    }
+  },
+  {
+    "stop_uid": "HSZ291240",
+    "stop_id": "291240",
+    "stop_name": "海軍新村",
+    "position": {
+      "lat": 24.79924913,
+      "lon": 120.9921951
+    }
+  },
+  {
+    "stop_uid": "HSZ291241",
+    "stop_id": "291241",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.79981956,
+      "lon": 120.9904029
+    }
+  },
+  {
+    "stop_uid": "HSZ291242",
+    "stop_id": "291242",
+    "stop_name": "清華大學",
+    "position": {
+      "lat": 24.796259,
+      "lon": 120.997466
+    }
+  },
+  {
+    "stop_uid": "HSZ291243",
+    "stop_id": "291243",
+    "stop_name": "新竹高中",
+    "position": {
+      "lat": 24.7956153,
+      "lon": 120.981185
+    }
+  },
+  {
+    "stop_uid": "HSZ291244",
+    "stop_id": "291244",
+    "stop_name": "新竹高商",
+    "position": {
+      "lat": 24.79684152,
+      "lon": 120.9845572
+    }
+  },
+  {
+    "stop_uid": "HSZ291246",
+    "stop_id": "291246",
+    "stop_name": "學府路口",
+    "position": {
+      "lat": 24.80044104,
+      "lon": 120.9869173
+    }
+  },
+  {
+    "stop_uid": "HSZ291247",
+    "stop_id": "291247",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.79862,
+      "lon": 120.97773
+    }
+  },
+  {
+    "stop_uid": "HSZ291248",
+    "stop_id": "291248",
+    "stop_name": "親仁里",
+    "position": {
+      "lat": 24.80738,
+      "lon": 120.97158
+    }
+  },
+  {
+    "stop_uid": "HSZ291249",
+    "stop_id": "291249",
+    "stop_name": "關東新村",
+    "position": {
+      "lat": 24.78112138,
+      "lon": 121.0255648
+    }
+  },
+  {
+    "stop_uid": "HSZ291250",
+    "stop_id": "291250",
+    "stop_name": "關東橋",
+    "position": {
+      "lat": 24.78139049,
+      "lon": 121.0229651
+    }
+  },
+  {
+    "stop_uid": "HSZ291251",
+    "stop_id": "291251",
+    "stop_name": "工研院光復院區",
+    "position": {
+      "lat": 24.80045948,
+      "lon": 120.9892205
+    }
+  },
+  {
+    "stop_uid": "HSZ291252",
+    "stop_id": "291252",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.802281,
+      "lon": 120.978639
+    }
+  },
+  {
+    "stop_uid": "HSZ291253",
+    "stop_id": "291253",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79532217,
+      "lon": 120.9988371
+    }
+  },
+  {
+    "stop_uid": "HSZ291254",
+    "stop_id": "291254",
+    "stop_name": "日光燈",
+    "position": {
+      "lat": 24.784082,
+      "lon": 121.015705303075
+    }
+  },
+  {
+    "stop_uid": "HSZ291255",
+    "stop_id": "291255",
+    "stop_name": "水源地",
+    "position": {
+      "lat": 24.797806,
+      "lon": 120.985706
+    }
+  },
+  {
+    "stop_uid": "HSZ291256",
+    "stop_id": "291256",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ291257",
+    "stop_id": "291257",
+    "stop_name": "世界高中",
+    "position": {
+      "lat": 24.78225329,
+      "lon": 121.0201493
+    }
+  },
+  {
+    "stop_uid": "HSZ291258",
+    "stop_id": "291258",
+    "stop_name": "仙水",
+    "position": {
+      "lat": 24.78290244,
+      "lon": 121.0185503
+    }
+  },
+  {
+    "stop_uid": "HSZ291260",
+    "stop_id": "291260",
+    "stop_name": "光復中學",
+    "position": {
+      "lat": 24.79834,
+      "lon": 120.99484
+    }
+  },
+  {
+    "stop_uid": "HSZ291261",
+    "stop_id": "291261",
+    "stop_name": "竹中口",
+    "position": {
+      "lat": 24.78092052,
+      "lon": 121.0284702
+    }
+  },
+  {
+    "stop_uid": "HSZ291263",
+    "stop_id": "291263",
+    "stop_name": "和平",
+    "position": {
+      "lat": 24.78664,
+      "lon": 121.01083
+    }
+  },
+  {
+    "stop_uid": "HSZ291264",
+    "stop_id": "291264",
+    "stop_name": "東山文教院",
+    "position": {
+      "lat": 24.79740922,
+      "lon": 120.978937
+    }
+  },
+  {
+    "stop_uid": "HSZ291265",
+    "stop_id": "291265",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.80548657,
+      "lon": 120.9693399
+    }
+  },
+  {
+    "stop_uid": "HSZ291266",
+    "stop_id": "291266",
+    "stop_name": "東門國小",
+    "position": {
+      "lat": 24.806429,
+      "lon": 120.973548
+    }
+  },
+  {
+    "stop_uid": "HSZ291267",
+    "stop_id": "291267",
+    "stop_name": "金城新村口",
+    "position": {
+      "lat": 24.7936413,
+      "lon": 121.000974
+    }
+  },
+  {
+    "stop_uid": "HSZ291268",
+    "stop_id": "291268",
+    "stop_name": "科學園區",
+    "position": {
+      "lat": 24.78877,
+      "lon": 121.00802
+    }
+  },
+  {
+    "stop_uid": "HSZ291269",
+    "stop_id": "291269",
+    "stop_name": "科學園區別墅",
+    "position": {
+      "lat": 24.784735,
+      "lon": 121.01401
+    }
+  },
+  {
+    "stop_uid": "HSZ291270",
+    "stop_id": "291270",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.79961087,
+      "lon": 120.9918559
+    }
+  },
+  {
+    "stop_uid": "HSZ291271",
+    "stop_id": "291271",
+    "stop_name": "清華大學",
+    "position": {
+      "lat": 24.797301,
+      "lon": 120.9963586
+    }
+  },
+  {
+    "stop_uid": "HSZ291272",
+    "stop_id": "291272",
+    "stop_name": "新竹高中",
+    "position": {
+      "lat": 24.79568713,
+      "lon": 120.9809562
+    }
+  },
+  {
+    "stop_uid": "HSZ291273",
+    "stop_id": "291273",
+    "stop_name": "新竹高商",
+    "position": {
+      "lat": 24.79678504,
+      "lon": 120.9841376
+    }
+  },
+  {
+    "stop_uid": "HSZ291274",
+    "stop_id": "291274",
+    "stop_name": "陽明交大光復路",
+    "position": {
+      "lat": 24.79269182,
+      "lon": 121.0023861
+    }
+  },
+  {
+    "stop_uid": "HSZ291275",
+    "stop_id": "291275",
+    "stop_name": "學府路口",
+    "position": {
+      "lat": 24.80023153,
+      "lon": 120.9866928
+    }
+  },
+  {
+    "stop_uid": "HSZ291276",
+    "stop_id": "291276",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.79868,
+      "lon": 120.97799
+    }
+  },
+  {
+    "stop_uid": "HSZ291277",
+    "stop_id": "291277",
+    "stop_name": "親仁里",
+    "position": {
+      "lat": 24.80745,
+      "lon": 120.97168
+    }
+  },
+  {
+    "stop_uid": "HSZ291278",
+    "stop_id": "291278",
+    "stop_name": "關東新村",
+    "position": {
+      "lat": 24.78129513,
+      "lon": 121.0255387
+    }
+  },
+  {
+    "stop_uid": "HSZ291279",
+    "stop_id": "291279",
+    "stop_name": "關東橋",
+    "position": {
+      "lat": 24.78153688,
+      "lon": 121.0231035
+    }
+  },
+  {
+    "stop_uid": "HSZ291280",
+    "stop_id": "291280",
+    "stop_name": "陽明交大光復校區",
+    "position": {
+      "lat": 24.78830452,
+      "lon": 120.999412
+    }
+  },
+  {
+    "stop_uid": "HSZ291281",
+    "stop_id": "291281",
+    "stop_name": "陽明交大博愛校區",
+    "position": {
+      "lat": 24.79853,
+      "lon": 120.98314
+    }
+  },
+  {
+    "stop_uid": "HSZ291283",
+    "stop_id": "291283",
+    "stop_name": "神學院",
+    "position": {
+      "lat": 24.789091,
+      "lon": 121.002395
+    }
+  },
+  {
+    "stop_uid": "HSZ291284",
+    "stop_id": "291284",
+    "stop_name": "梅竹山莊",
+    "position": {
+      "lat": 24.78955,
+      "lon": 121.00047
+    }
+  },
+  {
+    "stop_uid": "HSZ291285",
+    "stop_id": "291285",
+    "stop_name": "博愛街口",
+    "position": {
+      "lat": 24.79932982,
+      "lon": 120.9812925
+    }
+  },
+  {
+    "stop_uid": "HSZ291287",
+    "stop_id": "291287",
+    "stop_name": "陽明交大博愛校區",
+    "position": {
+      "lat": 24.79842,
+      "lon": 120.98382
+    }
+  },
+  {
+    "stop_uid": "HSZ291289",
+    "stop_id": "291289",
+    "stop_name": "神學院",
+    "position": {
+      "lat": 24.788901,
+      "lon": 121.0025
+    }
+  },
+  {
+    "stop_uid": "HSZ291290",
+    "stop_id": "291290",
+    "stop_name": "梅竹山莊",
+    "position": {
+      "lat": 24.78933685,
+      "lon": 121.0004212
+    }
+  },
+  {
+    "stop_uid": "HSZ291291",
+    "stop_id": "291291",
+    "stop_name": "博愛街口",
+    "position": {
+      "lat": 24.79949,
+      "lon": 120.98119
+    }
+  },
+  {
+    "stop_uid": "HSZ291293",
+    "stop_id": "291293",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79667,
+      "lon": 120.99953
+    }
+  },
+  {
+    "stop_uid": "HSZ291294",
+    "stop_id": "291294",
+    "stop_name": "建功公園",
+    "position": {
+      "lat": 24.794147,
+      "lon": 121.002632
+    }
+  },
+  {
+    "stop_uid": "HSZ291295",
+    "stop_id": "291295",
+    "stop_name": "建功高中",
+    "position": {
+      "lat": 24.7969228640346,
+      "lon": 121.000759651451
+    }
+  },
+  {
+    "stop_uid": "HSZ291297",
+    "stop_id": "291297",
+    "stop_name": "三廠",
+    "position": {
+      "lat": 24.80461,
+      "lon": 120.95534
+    }
+  },
+  {
+    "stop_uid": "HSZ291298",
+    "stop_id": "291298",
+    "stop_name": "中和路",
+    "position": {
+      "lat": 24.8012939990715,
+      "lon": 120.956448542327
+    }
+  },
+  {
+    "stop_uid": "HSZ291299",
+    "stop_id": "291299",
+    "stop_name": "天公壇",
+    "position": {
+      "lat": 24.799309,
+      "lon": 120.95721
+    }
+  },
+  {
+    "stop_uid": "HSZ291300",
+    "stop_id": "291300",
+    "stop_name": "新竹監獄",
+    "position": {
+      "lat": 24.803827,
+      "lon": 120.95898
+    }
+  },
+  {
+    "stop_uid": "HSZ291301",
+    "stop_id": "291301",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803445,
+      "lon": 120.971127
+    }
+  },
+  {
+    "stop_uid": "HSZ291302",
+    "stop_id": "291302",
+    "stop_name": "台貿四村",
+    "position": {
+      "lat": 24.8017813037304,
+      "lon": 120.955390233135
+    }
+  },
+  {
+    "stop_uid": "HSZ291303",
+    "stop_id": "291303",
+    "stop_name": "成德高中",
+    "position": {
+      "lat": 24.79319553,
+      "lon": 120.9527688
+    }
+  },
+  {
+    "stop_uid": "HSZ291304",
+    "stop_id": "291304",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.80438,
+      "lon": 120.96385
+    }
+  },
+  {
+    "stop_uid": "HSZ291305",
+    "stop_id": "291305",
+    "stop_name": "服務中心",
+    "position": {
+      "lat": 24.804115,
+      "lon": 120.960665
+    }
+  },
+  {
+    "stop_uid": "HSZ291306",
+    "stop_id": "291306",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291307",
+    "stop_id": "291307",
+    "stop_name": "城隍廟",
+    "position": {
+      "lat": 24.805088,
+      "lon": 120.966176
+    }
+  },
+  {
+    "stop_uid": "HSZ291308",
+    "stop_id": "291308",
+    "stop_name": "棒球場",
+    "position": {
+      "lat": 24.805978,
+      "lon": 120.962020728836
+    }
+  },
+  {
+    "stop_uid": "HSZ291309",
+    "stop_id": "291309",
+    "stop_name": "榮民之家",
+    "position": {
+      "lat": 24.7949073979952,
+      "lon": 120.955458949737
+    }
+  },
+  {
+    "stop_uid": "HSZ291310",
+    "stop_id": "291310",
+    "stop_name": "監獄邊",
+    "position": {
+      "lat": 24.804348,
+      "lon": 120.95726
+    }
+  },
+  {
+    "stop_uid": "HSZ291311",
+    "stop_id": "291311",
+    "stop_name": "總站",
+    "position": {
+      "lat": 24.80140496,
+      "lon": 120.9705745
+    }
+  },
+  {
+    "stop_uid": "HSZ291312",
+    "stop_id": "291312",
+    "stop_name": "警光一村",
+    "position": {
+      "lat": 24.79733,
+      "lon": 120.95605
+    }
+  },
+  {
+    "stop_uid": "HSZ291313",
+    "stop_id": "291313",
+    "stop_name": "三廠",
+    "position": {
+      "lat": 24.8043646085802,
+      "lon": 120.955458396329
+    }
+  },
+  {
+    "stop_uid": "HSZ291314",
+    "stop_id": "291314",
+    "stop_name": "中和路",
+    "position": {
+      "lat": 24.801353,
+      "lon": 120.956479
+    }
+  },
+  {
+    "stop_uid": "HSZ291315",
+    "stop_id": "291315",
+    "stop_name": "天公壇",
+    "position": {
+      "lat": 24.79957,
+      "lon": 120.957524
+    }
+  },
+  {
+    "stop_uid": "HSZ291316",
+    "stop_id": "291316",
+    "stop_name": "新竹監獄",
+    "position": {
+      "lat": 24.80359,
+      "lon": 120.95928
+    }
+  },
+  {
+    "stop_uid": "HSZ291317",
+    "stop_id": "291317",
+    "stop_name": "台貿四村",
+    "position": {
+      "lat": 24.80178,
+      "lon": 120.95541
+    }
+  },
+  {
+    "stop_uid": "HSZ291319",
+    "stop_id": "291319",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.80409,
+      "lon": 120.9639
+    }
+  },
+  {
+    "stop_uid": "HSZ291320",
+    "stop_id": "291320",
+    "stop_name": "服務中心",
+    "position": {
+      "lat": 24.8042639141738,
+      "lon": 120.960845364418
+    }
+  },
+  {
+    "stop_uid": "HSZ291322",
+    "stop_id": "291322",
+    "stop_name": "城隍廟",
+    "position": {
+      "lat": 24.80517,
+      "lon": 120.96647
+    }
+  },
+  {
+    "stop_uid": "HSZ291323",
+    "stop_id": "291323",
+    "stop_name": "棒球場",
+    "position": {
+      "lat": 24.8058087915843,
+      "lon": 120.961980174274
+    }
+  },
+  {
+    "stop_uid": "HSZ291324",
+    "stop_id": "291324",
+    "stop_name": "榮民之家",
+    "position": {
+      "lat": 24.7949221009015,
+      "lon": 120.955587958335
+    }
+  },
+  {
+    "stop_uid": "HSZ291325",
+    "stop_id": "291325",
+    "stop_name": "監獄邊",
+    "position": {
+      "lat": 24.8041864351436,
+      "lon": 120.957264635581
+    }
+  },
+  {
+    "stop_uid": "HSZ291326",
+    "stop_id": "291326",
+    "stop_name": "警光一村",
+    "position": {
+      "lat": 24.79743,
+      "lon": 120.95615
+    }
+  },
+  {
+    "stop_uid": "HSZ291327",
+    "stop_id": "291327",
+    "stop_name": "大鵬二村",
+    "position": {
+      "lat": 24.805093,
+      "lon": 120.946304
+    }
+  },
+  {
+    "stop_uid": "HSZ291328",
+    "stop_id": "291328",
+    "stop_name": "小南勢",
+    "position": {
+      "lat": 24.805602,
+      "lon": 120.937632
+    }
+  },
+  {
+    "stop_uid": "HSZ291329",
+    "stop_id": "291329",
+    "stop_name": "中庄",
+    "position": {
+      "lat": 24.806962,
+      "lon": 120.931798
+    }
+  },
+  {
+    "stop_uid": "HSZ291330",
+    "stop_id": "291330",
+    "stop_name": "太子宮",
+    "position": {
+      "lat": 24.80509,
+      "lon": 120.95312
+    }
+  },
+  {
+    "stop_uid": "HSZ291331",
+    "stop_id": "291331",
+    "stop_name": "瓦厝",
+    "position": {
+      "lat": 24.809824,
+      "lon": 120.924267
+    }
+  },
+  {
+    "stop_uid": "HSZ291332",
+    "stop_id": "291332",
+    "stop_name": "西門口",
+    "position": {
+      "lat": 24.802485,
+      "lon": 120.962152
+    }
+  },
+  {
+    "stop_uid": "HSZ291333",
+    "stop_id": "291333",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.803594,
+      "lon": 120.963874
+    }
+  },
+  {
+    "stop_uid": "HSZ291334",
+    "stop_id": "291334",
+    "stop_name": "西門派出所",
+    "position": {
+      "lat": 24.801607,
+      "lon": 120.960814
+    }
+  },
+  {
+    "stop_uid": "HSZ291335",
+    "stop_id": "291335",
+    "stop_name": "西門國小",
+    "position": {
+      "lat": 24.802337,
+      "lon": 120.960118
+    }
+  },
+  {
+    "stop_uid": "HSZ291336",
+    "stop_id": "291336",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291337",
+    "stop_id": "291337",
+    "stop_name": "虎山",
+    "position": {
+      "lat": 24.80744,
+      "lon": 120.93524
+    }
+  },
+  {
+    "stop_uid": "HSZ291338",
+    "stop_id": "291338",
+    "stop_name": "虎林國小",
+    "position": {
+      "lat": 24.805138,
+      "lon": 120.940758
+    }
+  },
+  {
+    "stop_uid": "HSZ291339",
+    "stop_id": "291339",
+    "stop_name": "虎林新村",
+    "position": {
+      "lat": 24.805113,
+      "lon": 120.942266
+    }
+  },
+  {
+    "stop_uid": "HSZ291340",
+    "stop_id": "291340",
+    "stop_name": "金元寶",
+    "position": {
+      "lat": 24.808079,
+      "lon": 120.922359
+    }
+  },
+  {
+    "stop_uid": "HSZ291341",
+    "stop_id": "291341",
+    "stop_name": "金廈園",
+    "position": {
+      "lat": 24.80627,
+      "lon": 120.92915
+    }
+  },
+  {
+    "stop_uid": "HSZ291342",
+    "stop_id": "291342",
+    "stop_name": "南勢",
+    "position": {
+      "lat": 24.805116,
+      "lon": 120.947952
+    }
+  },
+  {
+    "stop_uid": "HSZ291343",
+    "stop_id": "291343",
+    "stop_name": "南勢化工",
+    "position": {
+      "lat": 24.80509,
+      "lon": 120.951453
+    }
+  },
+  {
+    "stop_uid": "HSZ291344",
+    "stop_id": "291344",
+    "stop_name": "香雅橋",
+    "position": {
+      "lat": 24.804166,
+      "lon": 120.925856
+    }
+  },
+  {
+    "stop_uid": "HSZ291345",
+    "stop_id": "291345",
+    "stop_name": "罟寮",
+    "position": {
+      "lat": 24.80583,
+      "lon": 120.9222
+    }
+  },
+  {
+    "stop_uid": "HSZ291346",
+    "stop_id": "291346",
+    "stop_name": "罟寮一站",
+    "position": {
+      "lat": 24.806813,
+      "lon": 120.921625
+    }
+  },
+  {
+    "stop_uid": "HSZ291347",
+    "stop_id": "291347",
+    "stop_name": "實踐新村",
+    "position": {
+      "lat": 24.805106,
+      "lon": 120.944299
+    }
+  },
+  {
+    "stop_uid": "HSZ291348",
+    "stop_id": "291348",
+    "stop_name": "大鵬二村",
+    "position": {
+      "lat": 24.8049964354936,
+      "lon": 120.9465004957
+    }
+  },
+  {
+    "stop_uid": "HSZ291349",
+    "stop_id": "291349",
+    "stop_name": "小南勢",
+    "position": {
+      "lat": 24.805213,
+      "lon": 120.938394
+    }
+  },
+  {
+    "stop_uid": "HSZ291350",
+    "stop_id": "291350",
+    "stop_name": "中庄",
+    "position": {
+      "lat": 24.806816259595,
+      "lon": 120.931818979167
+    }
+  },
+  {
+    "stop_uid": "HSZ291351",
+    "stop_id": "291351",
+    "stop_name": "太子宮",
+    "position": {
+      "lat": 24.80499,
+      "lon": 120.95329
+    }
+  },
+  {
+    "stop_uid": "HSZ291352",
+    "stop_id": "291352",
+    "stop_name": "瓦厝",
+    "position": {
+      "lat": 24.810008,
+      "lon": 120.924315
+    }
+  },
+  {
+    "stop_uid": "HSZ291353",
+    "stop_id": "291353",
+    "stop_name": "西門口",
+    "position": {
+      "lat": 24.8023725213633,
+      "lon": 120.962131341104
+    }
+  },
+  {
+    "stop_uid": "HSZ291354",
+    "stop_id": "291354",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.8034654785744,
+      "lon": 120.963813031911
+    }
+  },
+  {
+    "stop_uid": "HSZ291355",
+    "stop_id": "291355",
+    "stop_name": "西門派出所",
+    "position": {
+      "lat": 24.80168,
+      "lon": 120.96103
+    }
+  },
+  {
+    "stop_uid": "HSZ291356",
+    "stop_id": "291356",
+    "stop_name": "西門國小",
+    "position": {
+      "lat": 24.8023913039699,
+      "lon": 120.960047434358
+    }
+  },
+  {
+    "stop_uid": "HSZ291357",
+    "stop_id": "291357",
+    "stop_name": "虎山",
+    "position": {
+      "lat": 24.807495652985,
+      "lon": 120.935049504299
+    }
+  },
+  {
+    "stop_uid": "HSZ291358",
+    "stop_id": "291358",
+    "stop_name": "虎林國小",
+    "position": {
+      "lat": 24.80505,
+      "lon": 120.94071
+    }
+  },
+  {
+    "stop_uid": "HSZ291359",
+    "stop_id": "291359",
+    "stop_name": "虎林新村",
+    "position": {
+      "lat": 24.8050066965001,
+      "lon": 120.942214868717
+    }
+  },
+  {
+    "stop_uid": "HSZ291360",
+    "stop_id": "291360",
+    "stop_name": "金元寶",
+    "position": {
+      "lat": 24.808442351438,
+      "lon": 120.922574373016
+    }
+  },
+  {
+    "stop_uid": "HSZ291361",
+    "stop_id": "291361",
+    "stop_name": "金廈園",
+    "position": {
+      "lat": 24.80611,
+      "lon": 120.92911
+    }
+  },
+  {
+    "stop_uid": "HSZ291362",
+    "stop_id": "291362",
+    "stop_name": "南勢",
+    "position": {
+      "lat": 24.8049940007427,
+      "lon": 120.949869766864
+    }
+  },
+  {
+    "stop_uid": "HSZ291363",
+    "stop_id": "291363",
+    "stop_name": "南勢化工",
+    "position": {
+      "lat": 24.8049764354849,
+      "lon": 120.951561720237
+    }
+  },
+  {
+    "stop_uid": "HSZ291364",
+    "stop_id": "291364",
+    "stop_name": "香雅橋",
+    "position": {
+      "lat": 24.80406,
+      "lon": 120.9259
+    }
+  },
+  {
+    "stop_uid": "HSZ291365",
+    "stop_id": "291365",
+    "stop_name": "罟寮",
+    "position": {
+      "lat": 24.805869131673,
+      "lon": 120.921949766864
+    }
+  },
+  {
+    "stop_uid": "HSZ291366",
+    "stop_id": "291366",
+    "stop_name": "罟寮一站",
+    "position": {
+      "lat": 24.80668,
+      "lon": 120.92154
+    }
+  },
+  {
+    "stop_uid": "HSZ291367",
+    "stop_id": "291367",
+    "stop_name": "實踐新村",
+    "position": {
+      "lat": 24.8050213907624,
+      "lon": 120.944477550926
+    }
+  },
+  {
+    "stop_uid": "HSZ291368",
+    "stop_id": "291368",
+    "stop_name": "海口",
+    "position": {
+      "lat": 24.815424,
+      "lon": 120.928955
+    }
+  },
+  {
+    "stop_uid": "HSZ291369",
+    "stop_id": "291369",
+    "stop_name": "海埔地",
+    "position": {
+      "lat": 24.818083,
+      "lon": 120.929077
+    }
+  },
+  {
+    "stop_uid": "HSZ291370",
+    "stop_id": "291370",
+    "stop_name": "營房口",
+    "position": {
+      "lat": 24.813634,
+      "lon": 120.928469
+    }
+  },
+  {
+    "stop_uid": "HSZ291371",
+    "stop_id": "291371",
+    "stop_name": "海口",
+    "position": {
+      "lat": 24.8152893981099,
+      "lon": 120.928823411045
+    }
+  },
+  {
+    "stop_uid": "HSZ291372",
+    "stop_id": "291372",
+    "stop_name": "海埔地",
+    "position": {
+      "lat": 24.817788,
+      "lon": 120.928962
+    }
+  },
+  {
+    "stop_uid": "HSZ291373",
+    "stop_id": "291373",
+    "stop_name": "營房口",
+    "position": {
+      "lat": 24.8137064392575,
+      "lon": 120.928347784061
+    }
+  },
+  {
+    "stop_uid": "HSZ291374",
+    "stop_id": "291374",
+    "stop_name": "十塊寮",
+    "position": {
+      "lat": 24.837438,
+      "lon": 120.931848
+    }
+  },
+  {
+    "stop_uid": "HSZ291375",
+    "stop_id": "291375",
+    "stop_name": "三德",
+    "position": {
+      "lat": 24.831691,
+      "lon": 120.929057
+    }
+  },
+  {
+    "stop_uid": "HSZ291377",
+    "stop_id": "291377",
+    "stop_name": "中寮",
+    "position": {
+      "lat": 24.838388,
+      "lon": 120.932679
+    }
+  },
+  {
+    "stop_uid": "HSZ291378",
+    "stop_id": "291378",
+    "stop_name": "外湖路口",
+    "position": {
+      "lat": 24.828174,
+      "lon": 120.927902
+    }
+  },
+  {
+    "stop_uid": "HSZ291379",
+    "stop_id": "291379",
+    "stop_name": "冠軍廠",
+    "position": {
+      "lat": 24.824236,
+      "lon": 120.927328
+    }
+  },
+  {
+    "stop_uid": "HSZ291380",
+    "stop_id": "291380",
+    "stop_name": "南油車港",
+    "position": {
+      "lat": 24.820395,
+      "lon": 120.927859
+    }
+  },
+  {
+    "stop_uid": "HSZ291381",
+    "stop_id": "291381",
+    "stop_name": "海濱",
+    "position": {
+      "lat": 24.835985,
+      "lon": 120.930872
+    }
+  },
+  {
+    "stop_uid": "HSZ291383",
+    "stop_id": "291383",
+    "stop_name": "草厝",
+    "position": {
+      "lat": 24.833321,
+      "lon": 120.929564
+    }
+  },
+  {
+    "stop_uid": "HSZ291384",
+    "stop_id": "291384",
+    "stop_name": "港北",
+    "position": {
+      "lat": 24.829653,
+      "lon": 120.928325
+    }
+  },
+  {
+    "stop_uid": "HSZ291385",
+    "stop_id": "291385",
+    "stop_name": "港北橋",
+    "position": {
+      "lat": 24.825883,
+      "lon": 120.927491
+    }
+  },
+  {
+    "stop_uid": "HSZ291386",
+    "stop_id": "291386",
+    "stop_name": "港南",
+    "position": {
+      "lat": 24.822236,
+      "lon": 120.927204
+    }
+  },
+  {
+    "stop_uid": "HSZ291388",
+    "stop_id": "291388",
+    "stop_name": "十塊寮",
+    "position": {
+      "lat": 24.837474,
+      "lon": 120.931784
+    }
+  },
+  {
+    "stop_uid": "HSZ291389",
+    "stop_id": "291389",
+    "stop_name": "三德",
+    "position": {
+      "lat": 24.83166,
+      "lon": 120.92897
+    }
+  },
+  {
+    "stop_uid": "HSZ291391",
+    "stop_id": "291391",
+    "stop_name": "中寮",
+    "position": {
+      "lat": 24.83861,
+      "lon": 120.932828
+    }
+  },
+  {
+    "stop_uid": "HSZ291392",
+    "stop_id": "291392",
+    "stop_name": "外湖路口",
+    "position": {
+      "lat": 24.827817,
+      "lon": 120.927742
+    }
+  },
+  {
+    "stop_uid": "HSZ291393",
+    "stop_id": "291393",
+    "stop_name": "冠軍廠",
+    "position": {
+      "lat": 24.82419,
+      "lon": 120.92712
+    }
+  },
+  {
+    "stop_uid": "HSZ291394",
+    "stop_id": "291394",
+    "stop_name": "南油車港",
+    "position": {
+      "lat": 24.820267,
+      "lon": 120.92785
+    }
+  },
+  {
+    "stop_uid": "HSZ291395",
+    "stop_id": "291395",
+    "stop_name": "海濱",
+    "position": {
+      "lat": 24.835968,
+      "lon": 120.930764
+    }
+  },
+  {
+    "stop_uid": "HSZ291396",
+    "stop_id": "291396",
+    "stop_name": "草厝",
+    "position": {
+      "lat": 24.833432,
+      "lon": 120.929514
+    }
+  },
+  {
+    "stop_uid": "HSZ291397",
+    "stop_id": "291397",
+    "stop_name": "港北",
+    "position": {
+      "lat": 24.829641,
+      "lon": 120.928237
+    }
+  },
+  {
+    "stop_uid": "HSZ291398",
+    "stop_id": "291398",
+    "stop_name": "港北橋",
+    "position": {
+      "lat": 24.825793,
+      "lon": 120.927244
+    }
+  },
+  {
+    "stop_uid": "HSZ291399",
+    "stop_id": "291399",
+    "stop_name": "港南",
+    "position": {
+      "lat": 24.822258,
+      "lon": 120.926979
+    }
+  },
+  {
+    "stop_uid": "HSZ291400",
+    "stop_id": "291400",
+    "stop_name": "土地廟",
+    "position": {
+      "lat": 24.82277001,
+      "lon": 120.9767806
+    }
+  },
+  {
+    "stop_uid": "HSZ291401",
+    "stop_id": "291401",
+    "stop_name": "大潤發",
+    "position": {
+      "lat": 24.81761,
+      "lon": 120.97054
+    }
+  },
+  {
+    "stop_uid": "HSZ291402",
+    "stop_id": "291402",
+    "stop_name": "文化中心",
+    "position": {
+      "lat": 24.81193113,
+      "lon": 120.9694061
+    }
+  },
+  {
+    "stop_uid": "HSZ291403",
+    "stop_id": "291403",
+    "stop_name": "水田",
+    "position": {
+      "lat": 24.81551812,
+      "lon": 120.967961
+    }
+  },
+  {
+    "stop_uid": "HSZ291404",
+    "stop_id": "291404",
+    "stop_name": "水田尾",
+    "position": {
+      "lat": 24.81650062,
+      "lon": 120.9691432
+    }
+  },
+  {
+    "stop_uid": "HSZ291405",
+    "stop_id": "291405",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803222,
+      "lon": 120.971186
+    }
+  },
+  {
+    "stop_uid": "HSZ291407",
+    "stop_id": "291407",
+    "stop_name": "北大橋",
+    "position": {
+      "lat": 24.809708,
+      "lon": 120.96822
+    }
+  },
+  {
+    "stop_uid": "HSZ291408",
+    "stop_id": "291408",
+    "stop_name": "北門國小",
+    "position": {
+      "lat": 24.81451,
+      "lon": 120.96712
+    }
+  },
+  {
+    "stop_uid": "HSZ291409",
+    "stop_id": "291409",
+    "stop_name": "地方法院",
+    "position": {
+      "lat": 24.80750417,
+      "lon": 120.967959
+    }
+  },
+  {
+    "stop_uid": "HSZ291410",
+    "stop_id": "291410",
+    "stop_name": "莊厝",
+    "position": {
+      "lat": 24.82976,
+      "lon": 120.98147
+    }
+  },
+  {
+    "stop_uid": "HSZ291411",
+    "stop_id": "291411",
+    "stop_name": "湳雅",
+    "position": {
+      "lat": 24.819369,
+      "lon": 120.97261
+    }
+  },
+  {
+    "stop_uid": "HSZ291412",
+    "stop_id": "291412",
+    "stop_name": "鄭厝",
+    "position": {
+      "lat": 24.821078,
+      "lon": 120.97467
+    }
+  },
+  {
+    "stop_uid": "HSZ291413",
+    "stop_id": "291413",
+    "stop_name": "舊社",
+    "position": {
+      "lat": 24.82323984,
+      "lon": 120.9776692
+    }
+  },
+  {
+    "stop_uid": "HSZ291414",
+    "stop_id": "291414",
+    "stop_name": "土地廟",
+    "position": {
+      "lat": 24.82302,
+      "lon": 120.97685
+    }
+  },
+  {
+    "stop_uid": "HSZ291415",
+    "stop_id": "291415",
+    "stop_name": "大潤發",
+    "position": {
+      "lat": 24.81781294,
+      "lon": 120.9704926
+    }
+  },
+  {
+    "stop_uid": "HSZ291416",
+    "stop_id": "291416",
+    "stop_name": "文化中心",
+    "position": {
+      "lat": 24.81162922,
+      "lon": 120.9690059
+    }
+  },
+  {
+    "stop_uid": "HSZ291417",
+    "stop_id": "291417",
+    "stop_name": "水田",
+    "position": {
+      "lat": 24.81567245,
+      "lon": 120.9678839
+    }
+  },
+  {
+    "stop_uid": "HSZ291418",
+    "stop_id": "291418",
+    "stop_name": "水田尾",
+    "position": {
+      "lat": 24.81632,
+      "lon": 120.96871
+    }
+  },
+  {
+    "stop_uid": "HSZ291420",
+    "stop_id": "291420",
+    "stop_name": "北大橋",
+    "position": {
+      "lat": 24.81034,
+      "lon": 120.96862
+    }
+  },
+  {
+    "stop_uid": "HSZ291421",
+    "stop_id": "291421",
+    "stop_name": "北門國小",
+    "position": {
+      "lat": 24.81429548,
+      "lon": 120.9668284
+    }
+  },
+  {
+    "stop_uid": "HSZ291422",
+    "stop_id": "291422",
+    "stop_name": "地方法院",
+    "position": {
+      "lat": 24.80755,
+      "lon": 120.9678
+    }
+  },
+  {
+    "stop_uid": "HSZ291423",
+    "stop_id": "291423",
+    "stop_name": "莊厝",
+    "position": {
+      "lat": 24.830793,
+      "lon": 120.981806
+    }
+  },
+  {
+    "stop_uid": "HSZ291424",
+    "stop_id": "291424",
+    "stop_name": "湳雅",
+    "position": {
+      "lat": 24.81939756,
+      "lon": 120.9723406
+    }
+  },
+  {
+    "stop_uid": "HSZ291425",
+    "stop_id": "291425",
+    "stop_name": "鄭厝",
+    "position": {
+      "lat": 24.82114,
+      "lon": 120.97455
+    }
+  },
+  {
+    "stop_uid": "HSZ291427",
+    "stop_id": "291427",
+    "stop_name": "舊社",
+    "position": {
+      "lat": 24.82334,
+      "lon": 120.97768
+    }
+  },
+  {
+    "stop_uid": "HSZ291428",
+    "stop_id": "291428",
+    "stop_name": "上南寮",
+    "position": {
+      "lat": 24.844182,
+      "lon": 120.930578
+    }
+  },
+  {
+    "stop_uid": "HSZ291429",
+    "stop_id": "291429",
+    "stop_name": "上糠榔",
+    "position": {
+      "lat": 24.83442,
+      "lon": 120.94647
+    }
+  },
+  {
+    "stop_uid": "HSZ291430",
+    "stop_id": "291430",
+    "stop_name": "牛埔",
+    "position": {
+      "lat": 24.837927,
+      "lon": 120.941511
+    }
+  },
+  {
+    "stop_uid": "HSZ291431",
+    "stop_id": "291431",
+    "stop_name": "古賢里",
+    "position": {
+      "lat": 24.83253,
+      "lon": 120.95252
+    }
+  },
+  {
+    "stop_uid": "HSZ291432",
+    "stop_id": "291432",
+    "stop_name": "冰廠",
+    "position": {
+      "lat": 24.846067,
+      "lon": 120.928896
+    }
+  },
+  {
+    "stop_uid": "HSZ291433",
+    "stop_id": "291433",
+    "stop_name": "吉羊路口",
+    "position": {
+      "lat": 24.82537,
+      "lon": 120.95694
+    }
+  },
+  {
+    "stop_uid": "HSZ291434",
+    "stop_id": "291434",
+    "stop_name": "里辦公處",
+    "position": {
+      "lat": 24.841581,
+      "lon": 120.935702
+    }
+  },
+  {
+    "stop_uid": "HSZ291435",
+    "stop_id": "291435",
+    "stop_name": "武陵路口",
+    "position": {
+      "lat": 24.8179,
+      "lon": 120.963757
+    }
+  },
+  {
+    "stop_uid": "HSZ291436",
+    "stop_id": "291436",
+    "stop_name": "信義新村",
+    "position": {
+      "lat": 24.8427,
+      "lon": 120.93349
+    }
+  },
+  {
+    "stop_uid": "HSZ291437",
+    "stop_id": "291437",
+    "stop_name": "鄭氏家廟",
+    "position": {
+      "lat": 24.81023,
+      "lon": 120.96584
+    }
+  },
+  {
+    "stop_uid": "HSZ291438",
+    "stop_id": "291438",
+    "stop_name": "南寮",
+    "position": {
+      "lat": 24.847096,
+      "lon": 120.928818
+    }
+  },
+  {
+    "stop_uid": "HSZ291439",
+    "stop_id": "291439",
+    "stop_name": "南寮國小",
+    "position": {
+      "lat": 24.839213,
+      "lon": 120.939382
+    }
+  },
+  {
+    "stop_uid": "HSZ291440",
+    "stop_id": "291440",
+    "stop_name": "苦苓腳",
+    "position": {
+      "lat": 24.83368,
+      "lon": 120.94769
+    }
+  },
+  {
+    "stop_uid": "HSZ291441",
+    "stop_id": "291441",
+    "stop_name": "烏瓦厝",
+    "position": {
+      "lat": 24.83043,
+      "lon": 120.95551
+    }
+  },
+  {
+    "stop_uid": "HSZ291442",
+    "stop_id": "291442",
+    "stop_name": "國軍新竹地區醫院",
+    "position": {
+      "lat": 24.8156161,
+      "lon": 120.9626256
+    }
+  },
+  {
+    "stop_uid": "HSZ291443",
+    "stop_id": "291443",
+    "stop_name": "中正經國路口",
+    "position": {
+      "lat": 24.811628,
+      "lon": 120.964902
+    }
+  },
+  {
+    "stop_uid": "HSZ291444",
+    "stop_id": "291444",
+    "stop_name": "郵局",
+    "position": {
+      "lat": 24.820366,
+      "lon": 120.960961
+    }
+  },
+  {
+    "stop_uid": "HSZ291445",
+    "stop_id": "291445",
+    "stop_name": "載熙國小",
+    "position": {
+      "lat": 24.819214,
+      "lon": 120.96243
+    }
+  },
+  {
+    "stop_uid": "HSZ291446",
+    "stop_id": "291446",
+    "stop_name": "中正城北街口",
+    "position": {
+      "lat": 24.81349,
+      "lon": 120.96344
+    }
+  },
+  {
+    "stop_uid": "HSZ291447",
+    "stop_id": "291447",
+    "stop_name": "漁港口",
+    "position": {
+      "lat": 24.844842,
+      "lon": 120.929267
+    }
+  },
+  {
+    "stop_uid": "HSZ291448",
+    "stop_id": "291448",
+    "stop_name": "蝦仔埔",
+    "position": {
+      "lat": 24.843484,
+      "lon": 120.932002
+    }
+  },
+  {
+    "stop_uid": "HSZ291449",
+    "stop_id": "291449",
+    "stop_name": "士林里",
+    "position": {
+      "lat": 24.822975,
+      "lon": 120.95847
+    }
+  },
+  {
+    "stop_uid": "HSZ291450",
+    "stop_id": "291450",
+    "stop_name": "樹林頭",
+    "position": {
+      "lat": 24.821468,
+      "lon": 120.959868
+    }
+  },
+  {
+    "stop_uid": "HSZ291451",
+    "stop_id": "291451",
+    "stop_name": "輕便車站",
+    "position": {
+      "lat": 24.83651,
+      "lon": 120.94368
+    }
+  },
+  {
+    "stop_uid": "HSZ291452",
+    "stop_id": "291452",
+    "stop_name": "糠榔",
+    "position": {
+      "lat": 24.83537,
+      "lon": 120.94529
+    }
+  },
+  {
+    "stop_uid": "HSZ291453",
+    "stop_id": "291453",
+    "stop_name": "富美宮",
+    "position": {
+      "lat": 24.84065,
+      "lon": 120.93735
+    }
+  },
+  {
+    "stop_uid": "HSZ291454",
+    "stop_id": "291454",
+    "stop_name": "上南寮",
+    "position": {
+      "lat": 24.8440715271364,
+      "lon": 120.930632711639
+    }
+  },
+  {
+    "stop_uid": "HSZ291455",
+    "stop_id": "291455",
+    "stop_name": "上糠榔",
+    "position": {
+      "lat": 24.83446375,
+      "lon": 120.9461951
+    }
+  },
+  {
+    "stop_uid": "HSZ291456",
+    "stop_id": "291456",
+    "stop_name": "牛埔",
+    "position": {
+      "lat": 24.83770369,
+      "lon": 120.9416512
+    }
+  },
+  {
+    "stop_uid": "HSZ291457",
+    "stop_id": "291457",
+    "stop_name": "古賢里",
+    "position": {
+      "lat": 24.83251,
+      "lon": 120.95177
+    }
+  },
+  {
+    "stop_uid": "HSZ291458",
+    "stop_id": "291458",
+    "stop_name": "冰廠",
+    "position": {
+      "lat": 24.84659,
+      "lon": 120.928769
+    }
+  },
+  {
+    "stop_uid": "HSZ291459",
+    "stop_id": "291459",
+    "stop_name": "吉羊路口",
+    "position": {
+      "lat": 24.82492,
+      "lon": 120.95712
+    }
+  },
+  {
+    "stop_uid": "HSZ291460",
+    "stop_id": "291460",
+    "stop_name": "竹光新村",
+    "position": {
+      "lat": 24.81478548,
+      "lon": 120.9621742
+    }
+  },
+  {
+    "stop_uid": "HSZ291461",
+    "stop_id": "291461",
+    "stop_name": "里辦公處",
+    "position": {
+      "lat": 24.841265,
+      "lon": 120.936121
+    }
+  },
+  {
+    "stop_uid": "HSZ291462",
+    "stop_id": "291462",
+    "stop_name": "武陵路口",
+    "position": {
+      "lat": 24.81751472,
+      "lon": 120.9636124
+    }
+  },
+  {
+    "stop_uid": "HSZ291463",
+    "stop_id": "291463",
+    "stop_name": "信義新村",
+    "position": {
+      "lat": 24.842649,
+      "lon": 120.933463
+    }
+  },
+  {
+    "stop_uid": "HSZ291464",
+    "stop_id": "291464",
+    "stop_name": "鄭氏家廟",
+    "position": {
+      "lat": 24.809951,
+      "lon": 120.96589
+    }
+  },
+  {
+    "stop_uid": "HSZ291465",
+    "stop_id": "291465",
+    "stop_name": "南寮",
+    "position": {
+      "lat": 24.84743,
+      "lon": 120.928681
+    }
+  },
+  {
+    "stop_uid": "HSZ291466",
+    "stop_id": "291466",
+    "stop_name": "南寮國小",
+    "position": {
+      "lat": 24.83885659,
+      "lon": 120.9397168
+    }
+  },
+  {
+    "stop_uid": "HSZ291467",
+    "stop_id": "291467",
+    "stop_name": "苦苓腳",
+    "position": {
+      "lat": 24.83373,
+      "lon": 120.94743
+    }
+  },
+  {
+    "stop_uid": "HSZ291468",
+    "stop_id": "291468",
+    "stop_name": "烏瓦厝",
+    "position": {
+      "lat": 24.83015,
+      "lon": 120.95508
+    }
+  },
+  {
+    "stop_uid": "HSZ291469",
+    "stop_id": "291469",
+    "stop_name": "國軍新竹地區醫院",
+    "position": {
+      "lat": 24.816433,
+      "lon": 120.96287
+    }
+  },
+  {
+    "stop_uid": "HSZ291470",
+    "stop_id": "291470",
+    "stop_name": "中正經國路口",
+    "position": {
+      "lat": 24.81149897,
+      "lon": 120.964733
+    }
+  },
+  {
+    "stop_uid": "HSZ291471",
+    "stop_id": "291471",
+    "stop_name": "郵局",
+    "position": {
+      "lat": 24.82040506,
+      "lon": 120.9607554
+    }
+  },
+  {
+    "stop_uid": "HSZ291472",
+    "stop_id": "291472",
+    "stop_name": "載熙國小",
+    "position": {
+      "lat": 24.81933524,
+      "lon": 120.9617735
+    }
+  },
+  {
+    "stop_uid": "HSZ291473",
+    "stop_id": "291473",
+    "stop_name": "中正城北街口",
+    "position": {
+      "lat": 24.81335123,
+      "lon": 120.9633354
+    }
+  },
+  {
+    "stop_uid": "HSZ291474",
+    "stop_id": "291474",
+    "stop_name": "漁港口",
+    "position": {
+      "lat": 24.84486,
+      "lon": 120.92903
+    }
+  },
+  {
+    "stop_uid": "HSZ291475",
+    "stop_id": "291475",
+    "stop_name": "蝦仔埔",
+    "position": {
+      "lat": 24.8434182,
+      "lon": 120.9319638
+    }
+  },
+  {
+    "stop_uid": "HSZ291476",
+    "stop_id": "291476",
+    "stop_name": "士林里",
+    "position": {
+      "lat": 24.82318888,
+      "lon": 120.9582239
+    }
+  },
+  {
+    "stop_uid": "HSZ291477",
+    "stop_id": "291477",
+    "stop_name": "樹林頭",
+    "position": {
+      "lat": 24.82124169,
+      "lon": 120.9599312
+    }
+  },
+  {
+    "stop_uid": "HSZ291478",
+    "stop_id": "291478",
+    "stop_name": "輕便車站",
+    "position": {
+      "lat": 24.83615375,
+      "lon": 120.9440122
+    }
+  },
+  {
+    "stop_uid": "HSZ291479",
+    "stop_id": "291479",
+    "stop_name": "糠榔",
+    "position": {
+      "lat": 24.83534,
+      "lon": 120.94515
+    }
+  },
+  {
+    "stop_uid": "HSZ291480",
+    "stop_id": "291480",
+    "stop_name": "富美宮",
+    "position": {
+      "lat": 24.840479,
+      "lon": 120.937466
+    }
+  },
+  {
+    "stop_uid": "HSZ291484",
+    "stop_id": "291484",
+    "stop_name": "水利局",
+    "position": {
+      "lat": 24.81129,
+      "lon": 120.97019
+    }
+  },
+  {
+    "stop_uid": "HSZ291486",
+    "stop_id": "291486",
+    "stop_name": "北區區公所",
+    "position": {
+      "lat": 24.81686723,
+      "lon": 120.9712383
+    }
+  },
+  {
+    "stop_uid": "HSZ291487",
+    "stop_id": "291487",
+    "stop_name": "台大醫院新竹分院",
+    "position": {
+      "lat": 24.81566,
+      "lon": 120.98053
+    }
+  },
+  {
+    "stop_uid": "HSZ291488",
+    "stop_id": "291488",
+    "stop_name": "田美一站",
+    "position": {
+      "lat": 24.81326176,
+      "lon": 120.9738772
+    }
+  },
+  {
+    "stop_uid": "HSZ291489",
+    "stop_id": "291489",
+    "stop_name": "田美二站",
+    "position": {
+      "lat": 24.81511,
+      "lon": 120.97421
+    }
+  },
+  {
+    "stop_uid": "HSZ291490",
+    "stop_id": "291490",
+    "stop_name": "光華國中",
+    "position": {
+      "lat": 24.81782724,
+      "lon": 120.9742204
+    }
+  },
+  {
+    "stop_uid": "HSZ291492",
+    "stop_id": "291492",
+    "stop_name": "地政事務所",
+    "position": {
+      "lat": 24.816977,
+      "lon": 120.975997
+    }
+  },
+  {
+    "stop_uid": "HSZ291493",
+    "stop_id": "291493",
+    "stop_name": "金華二站",
+    "position": {
+      "lat": 24.816248,
+      "lon": 120.978752
+    }
+  },
+  {
+    "stop_uid": "HSZ291494",
+    "stop_id": "291494",
+    "stop_name": "金華大樓",
+    "position": {
+      "lat": 24.81667912,
+      "lon": 120.9729532
+    }
+  },
+  {
+    "stop_uid": "HSZ291495",
+    "stop_id": "291495",
+    "stop_name": "曙光女中",
+    "position": {
+      "lat": 24.81231,
+      "lon": 120.97228
+    }
+  },
+  {
+    "stop_uid": "HSZ291496",
+    "stop_id": "291496",
+    "stop_name": "水利局",
+    "position": {
+      "lat": 24.81129,
+      "lon": 120.97019
+    }
+  },
+  {
+    "stop_uid": "HSZ291498",
+    "stop_id": "291498",
+    "stop_name": "北區區公所",
+    "position": {
+      "lat": 24.817328,
+      "lon": 120.971559
+    }
+  },
+  {
+    "stop_uid": "HSZ291499",
+    "stop_id": "291499",
+    "stop_name": "田美一站",
+    "position": {
+      "lat": 24.81324,
+      "lon": 120.97356
+    }
+  },
+  {
+    "stop_uid": "HSZ291500",
+    "stop_id": "291500",
+    "stop_name": "田美二站",
+    "position": {
+      "lat": 24.81518,
+      "lon": 120.974135
+    }
+  },
+  {
+    "stop_uid": "HSZ291501",
+    "stop_id": "291501",
+    "stop_name": "光華國中",
+    "position": {
+      "lat": 24.81788389,
+      "lon": 120.9736607
+    }
+  },
+  {
+    "stop_uid": "HSZ291503",
+    "stop_id": "291503",
+    "stop_name": "地政事務所",
+    "position": {
+      "lat": 24.8172,
+      "lon": 120.97607
+    }
+  },
+  {
+    "stop_uid": "HSZ291504",
+    "stop_id": "291504",
+    "stop_name": "金華二站",
+    "position": {
+      "lat": 24.815673,
+      "lon": 120.97944
+    }
+  },
+  {
+    "stop_uid": "HSZ291505",
+    "stop_id": "291505",
+    "stop_name": "金華大樓",
+    "position": {
+      "lat": 24.816524,
+      "lon": 120.972203
+    }
+  },
+  {
+    "stop_uid": "HSZ291506",
+    "stop_id": "291506",
+    "stop_name": "曙光女中",
+    "position": {
+      "lat": 24.81265,
+      "lon": 120.97247
+    }
+  },
+  {
+    "stop_uid": "HSZ291507",
+    "stop_id": "291507",
+    "stop_name": "下路北",
+    "position": {
+      "lat": 24.78171,
+      "lon": 120.98783
+    }
+  },
+  {
+    "stop_uid": "HSZ291508",
+    "stop_id": "291508",
+    "stop_name": "土雞城",
+    "position": {
+      "lat": 24.77855,
+      "lon": 120.98229
+    }
+  },
+  {
+    "stop_uid": "HSZ291509",
+    "stop_id": "291509",
+    "stop_name": "介壽山口",
+    "position": {
+      "lat": 24.792084,
+      "lon": 120.97547
+    }
+  },
+  {
+    "stop_uid": "HSZ291510",
+    "stop_id": "291510",
+    "stop_name": "竹泰社區",
+    "position": {
+      "lat": 24.77883,
+      "lon": 120.98534
+    }
+  },
+  {
+    "stop_uid": "HSZ291511",
+    "stop_id": "291511",
+    "stop_name": "竹蓮市場",
+    "position": {
+      "lat": 24.79344198,
+      "lon": 120.9739038
+    }
+  },
+  {
+    "stop_uid": "HSZ291512",
+    "stop_id": "291512",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.80318348,
+      "lon": 120.9645796
+    }
+  },
+  {
+    "stop_uid": "HSZ291514",
+    "stop_id": "291514",
+    "stop_name": "青峰路口",
+    "position": {
+      "lat": 24.77958,
+      "lon": 120.98144
+    }
+  },
+  {
+    "stop_uid": "HSZ291515",
+    "stop_id": "291515",
+    "stop_name": "南大路口",
+    "position": {
+      "lat": 24.79691477,
+      "lon": 120.9695051
+    }
+  },
+  {
+    "stop_uid": "HSZ291516",
+    "stop_id": "291516",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.801,
+      "lon": 120.96627
+    }
+  },
+  {
+    "stop_uid": "HSZ291517",
+    "stop_id": "291517",
+    "stop_name": "高峰植物園",
+    "position": {
+      "lat": 24.788346,
+      "lon": 120.98195
+    }
+  },
+  {
+    "stop_uid": "HSZ291518",
+    "stop_id": "291518",
+    "stop_name": "高峰",
+    "position": {
+      "lat": 24.77763,
+      "lon": 120.98307
+    }
+  },
+  {
+    "stop_uid": "HSZ291519",
+    "stop_id": "291519",
+    "stop_name": "高峰路口",
+    "position": {
+      "lat": 24.79423182,
+      "lon": 120.9730313
+    }
+  },
+  {
+    "stop_uid": "HSZ291520",
+    "stop_id": "291520",
+    "stop_name": "高翠",
+    "position": {
+      "lat": 24.780263,
+      "lon": 120.987042
+    }
+  },
+  {
+    "stop_uid": "HSZ291521",
+    "stop_id": "291521",
+    "stop_name": "普天宮",
+    "position": {
+      "lat": 24.78118501,
+      "lon": 120.9805774
+    }
+  },
+  {
+    "stop_uid": "HSZ291522",
+    "stop_id": "291522",
+    "stop_name": "新竹青果",
+    "position": {
+      "lat": 24.79631,
+      "lon": 120.9705
+    }
+  },
+  {
+    "stop_uid": "HSZ291523",
+    "stop_id": "291523",
+    "stop_name": "萬佛寺",
+    "position": {
+      "lat": 24.790132,
+      "lon": 120.97728
+    }
+  },
+  {
+    "stop_uid": "HSZ291524",
+    "stop_id": "291524",
+    "stop_name": "翠壁岩寺",
+    "position": {
+      "lat": 24.78569,
+      "lon": 120.98804
+    }
+  },
+  {
+    "stop_uid": "HSZ291525",
+    "stop_id": "291525",
+    "stop_name": "雞蛋面",
+    "position": {
+      "lat": 24.78700765,
+      "lon": 120.9863279
+    }
+  },
+  {
+    "stop_uid": "HSZ291526",
+    "stop_id": "291526",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.80114,
+      "lon": 120.96632
+    }
+  },
+  {
+    "stop_uid": "HSZ291527",
+    "stop_id": "291527",
+    "stop_name": "建華國中",
+    "position": {
+      "lat": 24.794295,
+      "lon": 120.976229
+    }
+  },
+  {
+    "stop_uid": "HSZ291528",
+    "stop_id": "291528",
+    "stop_name": "土地公廟",
+    "position": {
+      "lat": 24.779328,
+      "lon": 120.93593
+    }
+  },
+  {
+    "stop_uid": "HSZ291530",
+    "stop_id": "291530",
+    "stop_name": "中埔口",
+    "position": {
+      "lat": 24.7938,
+      "lon": 120.94534
+    }
+  },
+  {
+    "stop_uid": "HSZ291531",
+    "stop_id": "291531",
+    "stop_name": "元培科技大學",
+    "position": {
+      "lat": 24.77811,
+      "lon": 120.94012
+    }
+  },
+  {
+    "stop_uid": "HSZ291532",
+    "stop_id": "291532",
+    "stop_name": "牛埔口",
+    "position": {
+      "lat": 24.79255,
+      "lon": 120.94212
+    }
+  },
+  {
+    "stop_uid": "HSZ291533",
+    "stop_id": "291533",
+    "stop_name": "台灣玻璃",
+    "position": {
+      "lat": 24.79111,
+      "lon": 120.9374
+    }
+  },
+  {
+    "stop_uid": "HSZ291534",
+    "stop_id": "291534",
+    "stop_name": "玄奘大學",
+    "position": {
+      "lat": 24.77458,
+      "lon": 120.94432
+    }
+  },
+  {
+    "stop_uid": "HSZ291535",
+    "stop_id": "291535",
+    "stop_name": "林森路口",
+    "position": {
+      "lat": 24.79689505,
+      "lon": 120.9614323
+    }
+  },
+  {
+    "stop_uid": "HSZ291536",
+    "stop_id": "291536",
+    "stop_name": "金山園",
+    "position": {
+      "lat": 24.7905,
+      "lon": 120.93392
+    }
+  },
+  {
+    "stop_uid": "HSZ291537",
+    "stop_id": "291537",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.799326,
+      "lon": 120.966937
+    }
+  },
+  {
+    "stop_uid": "HSZ291538",
+    "stop_id": "291538",
+    "stop_name": "香山坑",
+    "position": {
+      "lat": 24.77837694,
+      "lon": 120.938117
+    }
+  },
+  {
+    "stop_uid": "HSZ291539",
+    "stop_id": "291539",
+    "stop_name": "香山高中",
+    "position": {
+      "lat": 24.784828,
+      "lon": 120.93074
+    }
+  },
+  {
+    "stop_uid": "HSZ291543",
+    "stop_id": "291543",
+    "stop_name": "隘口",
+    "position": {
+      "lat": 24.782483,
+      "lon": 120.93301
+    }
+  },
+  {
+    "stop_uid": "HSZ291544",
+    "stop_id": "291544",
+    "stop_name": "土地公廟",
+    "position": {
+      "lat": 24.77955,
+      "lon": 120.93582
+    }
+  },
+  {
+    "stop_uid": "HSZ291546",
+    "stop_id": "291546",
+    "stop_name": "中埔口",
+    "position": {
+      "lat": 24.79362,
+      "lon": 120.94552
+    }
+  },
+  {
+    "stop_uid": "HSZ291547",
+    "stop_id": "291547",
+    "stop_name": "元培科技大學",
+    "position": {
+      "lat": 24.778,
+      "lon": 120.94049
+    }
+  },
+  {
+    "stop_uid": "HSZ291548",
+    "stop_id": "291548",
+    "stop_name": "牛埔口",
+    "position": {
+      "lat": 24.79215,
+      "lon": 120.94171
+    }
+  },
+  {
+    "stop_uid": "HSZ291549",
+    "stop_id": "291549",
+    "stop_name": "台灣玻璃",
+    "position": {
+      "lat": 24.790908,
+      "lon": 120.93825
+    }
+  },
+  {
+    "stop_uid": "HSZ291550",
+    "stop_id": "291550",
+    "stop_name": "玄奘大學",
+    "position": {
+      "lat": 24.7746,
+      "lon": 120.94434
+    }
+  },
+  {
+    "stop_uid": "HSZ291551",
+    "stop_id": "291551",
+    "stop_name": "林森路口",
+    "position": {
+      "lat": 24.7967886,
+      "lon": 120.9618295
+    }
+  },
+  {
+    "stop_uid": "HSZ291552",
+    "stop_id": "291552",
+    "stop_name": "金山園",
+    "position": {
+      "lat": 24.790463,
+      "lon": 120.93396
+    }
+  },
+  {
+    "stop_uid": "HSZ291553",
+    "stop_id": "291553",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.7994903,
+      "lon": 120.9676729
+    }
+  },
+  {
+    "stop_uid": "HSZ291554",
+    "stop_id": "291554",
+    "stop_name": "香山坑",
+    "position": {
+      "lat": 24.778494,
+      "lon": 120.93811
+    }
+  },
+  {
+    "stop_uid": "HSZ291555",
+    "stop_id": "291555",
+    "stop_name": "香山高中",
+    "position": {
+      "lat": 24.78518,
+      "lon": 120.9306
+    }
+  },
+  {
+    "stop_uid": "HSZ291556",
+    "stop_id": "291556",
+    "stop_name": "國泰醫院",
+    "position": {
+      "lat": 24.798032,
+      "lon": 120.965193
+    }
+  },
+  {
+    "stop_uid": "HSZ291559",
+    "stop_id": "291559",
+    "stop_name": "隘口",
+    "position": {
+      "lat": 24.78274,
+      "lon": 120.93298
+    }
+  },
+  {
+    "stop_uid": "HSZ291560",
+    "stop_id": "291560",
+    "stop_name": "三姓橋一站",
+    "position": {
+      "lat": 24.78890773,
+      "lon": 120.9282821
+    }
+  },
+  {
+    "stop_uid": "HSZ291561",
+    "stop_id": "291561",
+    "stop_name": "大同磁器",
+    "position": {
+      "lat": 24.79012216,
+      "lon": 120.9272521
+    }
+  },
+  {
+    "stop_uid": "HSZ291562",
+    "stop_id": "291562",
+    "stop_name": "大庄里",
+    "position": {
+      "lat": 24.79165721,
+      "lon": 120.9270464
+    }
+  },
+  {
+    "stop_uid": "HSZ291563",
+    "stop_id": "291563",
+    "stop_name": "牛埔店仔口",
+    "position": {
+      "lat": 24.79716,
+      "lon": 120.9421
+    }
+  },
+  {
+    "stop_uid": "HSZ291566",
+    "stop_id": "291566",
+    "stop_name": "和平橋",
+    "position": {
+      "lat": 24.80112756,
+      "lon": 120.9540314
+    }
+  },
+  {
+    "stop_uid": "HSZ291568",
+    "stop_id": "291568",
+    "stop_name": "明月香榭",
+    "position": {
+      "lat": 24.79896,
+      "lon": 120.94476
+    }
+  },
+  {
+    "stop_uid": "HSZ291570",
+    "stop_id": "291570",
+    "stop_name": "重義橋",
+    "position": {
+      "lat": 24.79795,
+      "lon": 120.94368
+    }
+  },
+  {
+    "stop_uid": "HSZ291571",
+    "stop_id": "291571",
+    "stop_name": "埔羌圍",
+    "position": {
+      "lat": 24.80005,
+      "lon": 120.95062
+    }
+  },
+  {
+    "stop_uid": "HSZ291573",
+    "stop_id": "291573",
+    "stop_name": "頂埔社區",
+    "position": {
+      "lat": 24.79968,
+      "lon": 120.9527
+    }
+  },
+  {
+    "stop_uid": "HSZ291575",
+    "stop_id": "291575",
+    "stop_name": "新東藥廠",
+    "position": {
+      "lat": 24.79998156,
+      "lon": 120.9466173
+    }
+  },
+  {
+    "stop_uid": "HSZ291576",
+    "stop_id": "291576",
+    "stop_name": "綜合運動場",
+    "position": {
+      "lat": 24.79231799,
+      "lon": 120.9301642
+    }
+  },
+  {
+    "stop_uid": "HSZ291578",
+    "stop_id": "291578",
+    "stop_name": "三姓橋一站",
+    "position": {
+      "lat": 24.78909,
+      "lon": 120.92833
+    }
+  },
+  {
+    "stop_uid": "HSZ291580",
+    "stop_id": "291580",
+    "stop_name": "大同磁器",
+    "position": {
+      "lat": 24.79042,
+      "lon": 120.92719
+    }
+  },
+  {
+    "stop_uid": "HSZ291581",
+    "stop_id": "291581",
+    "stop_name": "牛埔店仔口",
+    "position": {
+      "lat": 24.79700795,
+      "lon": 120.9421919
+    }
+  },
+  {
+    "stop_uid": "HSZ291582",
+    "stop_id": "291582",
+    "stop_name": "吉悌",
+    "position": {
+      "lat": 24.79429887,
+      "lon": 120.9325336
+    }
+  },
+  {
+    "stop_uid": "HSZ291583",
+    "stop_id": "291583",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.80409,
+      "lon": 120.9639
+    }
+  },
+  {
+    "stop_uid": "HSZ291584",
+    "stop_id": "291584",
+    "stop_name": "和平橋",
+    "position": {
+      "lat": 24.80139009,
+      "lon": 120.9544534
+    }
+  },
+  {
+    "stop_uid": "HSZ291585",
+    "stop_id": "291585",
+    "stop_name": "店子口",
+    "position": {
+      "lat": 24.79619026,
+      "lon": 120.9405754
+    }
+  },
+  {
+    "stop_uid": "HSZ291586",
+    "stop_id": "291586",
+    "stop_name": "明月香榭",
+    "position": {
+      "lat": 24.79858599,
+      "lon": 120.9448241
+    }
+  },
+  {
+    "stop_uid": "HSZ291587",
+    "stop_id": "291587",
+    "stop_name": "重義橋",
+    "position": {
+      "lat": 24.79777216,
+      "lon": 120.9436523
+    }
+  },
+  {
+    "stop_uid": "HSZ291588",
+    "stop_id": "291588",
+    "stop_name": "埔羌圍",
+    "position": {
+      "lat": 24.79982965,
+      "lon": 120.950912
+    }
+  },
+  {
+    "stop_uid": "HSZ291589",
+    "stop_id": "291589",
+    "stop_name": "埔前",
+    "position": {
+      "lat": 24.79638426,
+      "lon": 120.9378254
+    }
+  },
+  {
+    "stop_uid": "HSZ291591",
+    "stop_id": "291591",
+    "stop_name": "新東藥廠",
+    "position": {
+      "lat": 24.79990521,
+      "lon": 120.9467948
+    }
+  },
+  {
+    "stop_uid": "HSZ291592",
+    "stop_id": "291592",
+    "stop_name": "綜合運動場",
+    "position": {
+      "lat": 24.79222016,
+      "lon": 120.930111
+    }
+  },
+  {
+    "stop_uid": "HSZ291593",
+    "stop_id": "291593",
+    "stop_name": "德和",
+    "position": {
+      "lat": 24.79584017,
+      "lon": 120.9346256
+    }
+  },
+  {
+    "stop_uid": "HSZ291594",
+    "stop_id": "291594",
+    "stop_name": "文雅新村",
+    "position": {
+      "lat": 24.81166835,
+      "lon": 120.9556672
+    }
+  },
+  {
+    "stop_uid": "HSZ291597",
+    "stop_id": "291597",
+    "stop_name": "竹光1站",
+    "position": {
+      "lat": 24.813972,
+      "lon": 120.96067
+    }
+  },
+  {
+    "stop_uid": "HSZ291598",
+    "stop_id": "291598",
+    "stop_name": "竹光2站",
+    "position": {
+      "lat": 24.812668,
+      "lon": 120.95896
+    }
+  },
+  {
+    "stop_uid": "HSZ291599",
+    "stop_id": "291599",
+    "stop_name": "竹光3站",
+    "position": {
+      "lat": 24.81172384,
+      "lon": 120.9577276
+    }
+  },
+  {
+    "stop_uid": "HSZ291600",
+    "stop_id": "291600",
+    "stop_name": "沙崙",
+    "position": {
+      "lat": 24.81278637,
+      "lon": 120.9541943
+    }
+  },
+  {
+    "stop_uid": "HSZ291601",
+    "stop_id": "291601",
+    "stop_name": "武陵社區",
+    "position": {
+      "lat": 24.81772455,
+      "lon": 120.9655789
+    }
+  },
+  {
+    "stop_uid": "HSZ291602",
+    "stop_id": "291602",
+    "stop_name": "金竹路",
+    "position": {
+      "lat": 24.82401,
+      "lon": 120.97213
+    }
+  },
+  {
+    "stop_uid": "HSZ291603",
+    "stop_id": "291603",
+    "stop_name": "長壽會館",
+    "position": {
+      "lat": 24.8235,
+      "lon": 120.97063
+    }
+  },
+  {
+    "stop_uid": "HSZ291605",
+    "stop_id": "291605",
+    "stop_name": "荷蘭村",
+    "position": {
+      "lat": 24.82203,
+      "lon": 120.96945
+    }
+  },
+  {
+    "stop_uid": "HSZ291606",
+    "stop_id": "291606",
+    "stop_name": "湳中街口",
+    "position": {
+      "lat": 24.81878,
+      "lon": 120.96714
+    }
+  },
+  {
+    "stop_uid": "HSZ291608",
+    "stop_id": "291608",
+    "stop_name": "湳雅公園(大潤發)",
+    "position": {
+      "lat": 24.81893843,
+      "lon": 120.9695141
+    }
+  },
+  {
+    "stop_uid": "HSZ291609",
+    "stop_id": "291609",
+    "stop_name": "舊社國小",
+    "position": {
+      "lat": 24.82233,
+      "lon": 120.97482
+    }
+  },
+  {
+    "stop_uid": "HSZ291611",
+    "stop_id": "291611",
+    "stop_name": "如意新村",
+    "position": {
+      "lat": 24.816017,
+      "lon": 120.959301
+    }
+  },
+  {
+    "stop_uid": "HSZ291612",
+    "stop_id": "291612",
+    "stop_name": "成功路口",
+    "position": {
+      "lat": 24.814926,
+      "lon": 120.955719
+    }
+  },
+  {
+    "stop_uid": "HSZ291615",
+    "stop_id": "291615",
+    "stop_name": "變電所",
+    "position": {
+      "lat": 24.815694,
+      "lon": 120.960822
+    }
+  },
+  {
+    "stop_uid": "HSZ291616",
+    "stop_id": "291616",
+    "stop_name": "土地廟",
+    "position": {
+      "lat": 24.78138155,
+      "lon": 121.0094826
+    }
+  },
+  {
+    "stop_uid": "HSZ291617",
+    "stop_id": "291617",
+    "stop_name": "民有二街",
+    "position": {
+      "lat": 24.78070928,
+      "lon": 121.0097143
+    }
+  },
+  {
+    "stop_uid": "HSZ291618",
+    "stop_id": "291618",
+    "stop_name": "民享一站",
+    "position": {
+      "lat": 24.78496,
+      "lon": 121.00893
+    }
+  },
+  {
+    "stop_uid": "HSZ291619",
+    "stop_id": "291619",
+    "stop_name": "民享二站",
+    "position": {
+      "lat": 24.78364858,
+      "lon": 121.0093548
+    }
+  },
+  {
+    "stop_uid": "HSZ291620",
+    "stop_id": "291620",
+    "stop_name": "科學一站",
+    "position": {
+      "lat": 24.780762,
+      "lon": 121.01138
+    }
+  },
+  {
+    "stop_uid": "HSZ291621",
+    "stop_id": "291621",
+    "stop_name": "龍山社區口",
+    "position": {
+      "lat": 24.78602451,
+      "lon": 121.0100343
+    }
+  },
+  {
+    "stop_uid": "HSZ291626",
+    "stop_id": "291626",
+    "stop_name": "龍山社區口",
+    "position": {
+      "lat": 24.784859,
+      "lon": 121.01077
+    }
+  },
+  {
+    "stop_uid": "HSZ291628",
+    "stop_id": "291628",
+    "stop_name": "中山路",
+    "position": {
+      "lat": 24.80095,
+      "lon": 120.95938
+    }
+  },
+  {
+    "stop_uid": "HSZ291629",
+    "stop_id": "291629",
+    "stop_name": "中和路",
+    "position": {
+      "lat": 24.8013808,
+      "lon": 120.9564865
+    }
+  },
+  {
+    "stop_uid": "HSZ291630",
+    "stop_id": "291630",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.8024,
+      "lon": 120.97239
+    }
+  },
+  {
+    "stop_uid": "HSZ291631",
+    "stop_id": "291631",
+    "stop_name": "台大新竹分院",
+    "position": {
+      "lat": 24.81568,
+      "lon": 120.98003
+    }
+  },
+  {
+    "stop_uid": "HSZ291632",
+    "stop_id": "291632",
+    "stop_name": "民生中央路口",
+    "position": {
+      "lat": 24.81017,
+      "lon": 120.97708
+    }
+  },
+  {
+    "stop_uid": "HSZ291633",
+    "stop_id": "291633",
+    "stop_name": "民生民族路口",
+    "position": {
+      "lat": 24.80881,
+      "lon": 120.97815
+    }
+  },
+  {
+    "stop_uid": "HSZ291634",
+    "stop_id": "291634",
+    "stop_name": "民富國小",
+    "position": {
+      "lat": 24.80817,
+      "lon": 120.96069
+    }
+  },
+  {
+    "stop_uid": "HSZ291635",
+    "stop_id": "291635",
+    "stop_name": "光華國中",
+    "position": {
+      "lat": 24.81786,
+      "lon": 120.97366
+    }
+  },
+  {
+    "stop_uid": "HSZ291636",
+    "stop_id": "291636",
+    "stop_name": "西門口",
+    "position": {
+      "lat": 24.80251,
+      "lon": 120.96213
+    }
+  },
+  {
+    "stop_uid": "HSZ291637",
+    "stop_id": "291637",
+    "stop_name": "果菜市場",
+    "position": {
+      "lat": 24.81455,
+      "lon": 120.97826
+    }
+  },
+  {
+    "stop_uid": "HSZ291639",
+    "stop_id": "291639",
+    "stop_name": "武陵社區",
+    "position": {
+      "lat": 24.81811,
+      "lon": 120.96565
+    }
+  },
+  {
+    "stop_uid": "HSZ291640",
+    "stop_id": "291640",
+    "stop_name": "金華里",
+    "position": {
+      "lat": 24.81872,
+      "lon": 120.97672
+    }
+  },
+  {
+    "stop_uid": "HSZ291641",
+    "stop_id": "291641",
+    "stop_name": "信義幼稚園",
+    "position": {
+      "lat": 24.79859,
+      "lon": 120.95499
+    }
+  },
+  {
+    "stop_uid": "HSZ291643",
+    "stop_id": "291643",
+    "stop_name": "香山區公所",
+    "position": {
+      "lat": 24.79705,
+      "lon": 120.94215
+    }
+  },
+  {
+    "stop_uid": "HSZ291647",
+    "stop_id": "291647",
+    "stop_name": "國軍新竹地區醫院",
+    "position": {
+      "lat": 24.81642,
+      "lon": 120.96288
+    }
+  },
+  {
+    "stop_uid": "HSZ291649",
+    "stop_id": "291649",
+    "stop_name": "國賓大飯店",
+    "position": {
+      "lat": 24.80627,
+      "lon": 120.97866
+    }
+  },
+  {
+    "stop_uid": "HSZ291650",
+    "stop_id": "291650",
+    "stop_name": "頂埔社區",
+    "position": {
+      "lat": 24.799388,
+      "lon": 120.952683
+    }
+  },
+  {
+    "stop_uid": "HSZ291651",
+    "stop_id": "291651",
+    "stop_name": "湳中街口",
+    "position": {
+      "lat": 24.819887,
+      "lon": 120.967188
+    }
+  },
+  {
+    "stop_uid": "HSZ291652",
+    "stop_id": "291652",
+    "stop_name": "新竹女中",
+    "position": {
+      "lat": 24.80481,
+      "lon": 120.97633
+    }
+  },
+  {
+    "stop_uid": "HSZ291653",
+    "stop_id": "291653",
+    "stop_name": "經國北大路口",
+    "position": {
+      "lat": 24.81418,
+      "lon": 120.97486
+    }
+  },
+  {
+    "stop_uid": "HSZ291654",
+    "stop_id": "291654",
+    "stop_name": "聖德宮",
+    "position": {
+      "lat": 24.79759,
+      "lon": 120.94782
+    }
+  },
+  {
+    "stop_uid": "HSZ291655",
+    "stop_id": "291655",
+    "stop_name": "聖德宮",
+    "position": {
+      "lat": 24.79771,
+      "lon": 120.94778
+    }
+  },
+  {
+    "stop_uid": "HSZ291656",
+    "stop_id": "291656",
+    "stop_name": "警光路",
+    "position": {
+      "lat": 24.79721,
+      "lon": 120.95719
+    }
+  },
+  {
+    "stop_uid": "HSZ291657",
+    "stop_id": "291657",
+    "stop_name": "大鵬新城",
+    "position": {
+      "lat": 24.80329,
+      "lon": 120.9538
+    }
+  },
+  {
+    "stop_uid": "HSZ291659",
+    "stop_id": "291659",
+    "stop_name": "天公壇",
+    "position": {
+      "lat": 24.80053,
+      "lon": 120.95755
+    }
+  },
+  {
+    "stop_uid": "HSZ291660",
+    "stop_id": "291660",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.80279,
+      "lon": 120.97277
+    }
+  },
+  {
+    "stop_uid": "HSZ291661",
+    "stop_id": "291661",
+    "stop_name": "台大新竹分院",
+    "position": {
+      "lat": 24.81562,
+      "lon": 120.97989
+    }
+  },
+  {
+    "stop_uid": "HSZ291662",
+    "stop_id": "291662",
+    "stop_name": "民生中央路口",
+    "position": {
+      "lat": 24.81032,
+      "lon": 120.97688
+    }
+  },
+  {
+    "stop_uid": "HSZ291663",
+    "stop_id": "291663",
+    "stop_name": "民生民族路口",
+    "position": {
+      "lat": 24.80838,
+      "lon": 120.97834
+    }
+  },
+  {
+    "stop_uid": "HSZ291664",
+    "stop_id": "291664",
+    "stop_name": "光華國中",
+    "position": {
+      "lat": 24.81777,
+      "lon": 120.97347
+    }
+  },
+  {
+    "stop_uid": "HSZ291665",
+    "stop_id": "291665",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.80438,
+      "lon": 120.96385
+    }
+  },
+  {
+    "stop_uid": "HSZ291666",
+    "stop_id": "291666",
+    "stop_name": "果菜市場",
+    "position": {
+      "lat": 24.81469,
+      "lon": 120.97886
+    }
+  },
+  {
+    "stop_uid": "HSZ291668",
+    "stop_id": "291668",
+    "stop_name": "金華里",
+    "position": {
+      "lat": 24.8186,
+      "lon": 120.97661
+    }
+  },
+  {
+    "stop_uid": "HSZ291672",
+    "stop_id": "291672",
+    "stop_name": "國軍新竹地區醫院",
+    "position": {
+      "lat": 24.8156161,
+      "lon": 120.962625
+    }
+  },
+  {
+    "stop_uid": "HSZ291673",
+    "stop_id": "291673",
+    "stop_name": "國賓大飯店",
+    "position": {
+      "lat": 24.80582,
+      "lon": 120.97778
+    }
+  },
+  {
+    "stop_uid": "HSZ291674",
+    "stop_id": "291674",
+    "stop_name": "湳中街口",
+    "position": {
+      "lat": 24.81878,
+      "lon": 120.96714
+    }
+  },
+  {
+    "stop_uid": "HSZ291675",
+    "stop_id": "291675",
+    "stop_name": "新竹女中",
+    "position": {
+      "lat": 24.80514,
+      "lon": 120.97631
+    }
+  },
+  {
+    "stop_uid": "HSZ291676",
+    "stop_id": "291676",
+    "stop_name": "經國北大路口",
+    "position": {
+      "lat": 24.81435,
+      "lon": 120.9748
+    }
+  },
+  {
+    "stop_uid": "HSZ291677",
+    "stop_id": "291677",
+    "stop_name": "警光路",
+    "position": {
+      "lat": 24.79751,
+      "lon": 120.95713
+    }
+  },
+  {
+    "stop_uid": "HSZ291678",
+    "stop_id": "291678",
+    "stop_name": "二分局",
+    "position": {
+      "lat": 24.80346,
+      "lon": 120.98686
+    }
+  },
+  {
+    "stop_uid": "HSZ291679",
+    "stop_id": "291679",
+    "stop_name": "二分局",
+    "position": {
+      "lat": 24.80313,
+      "lon": 120.98693
+    }
+  },
+  {
+    "stop_uid": "HSZ291680",
+    "stop_id": "291680",
+    "stop_name": "三民國中",
+    "position": {
+      "lat": 24.81141,
+      "lon": 120.97955
+    }
+  },
+  {
+    "stop_uid": "HSZ291682",
+    "stop_id": "291682",
+    "stop_name": "公學新城",
+    "position": {
+      "lat": 24.80156,
+      "lon": 120.99615
+    }
+  },
+  {
+    "stop_uid": "HSZ291686",
+    "stop_id": "291686",
+    "stop_name": "巨城購物",
+    "position": {
+      "lat": 24.80922,
+      "lon": 120.97569
+    }
+  },
+  {
+    "stop_uid": "HSZ291688",
+    "stop_id": "291688",
+    "stop_name": "好市多",
+    "position": {
+      "lat": 24.79422,
+      "lon": 121.01198
+    }
+  },
+  {
+    "stop_uid": "HSZ291689",
+    "stop_id": "291689",
+    "stop_name": "好市多",
+    "position": {
+      "lat": 24.79418,
+      "lon": 121.01199
+    }
+  },
+  {
+    "stop_uid": "HSZ291690",
+    "stop_id": "291690",
+    "stop_name": "新莊車站",
+    "position": {
+      "lat": 24.78806,
+      "lon": 121.02145
+    }
+  },
+  {
+    "stop_uid": "HSZ291692",
+    "stop_id": "291692",
+    "stop_name": "孟竹國宅",
+    "position": {
+      "lat": 24.79953,
+      "lon": 120.99739
+    }
+  },
+  {
+    "stop_uid": "HSZ291693",
+    "stop_id": "291693",
+    "stop_name": "孟竹國宅",
+    "position": {
+      "lat": 24.79993687,
+      "lon": 120.9973916
+    }
+  },
+  {
+    "stop_uid": "HSZ291694",
+    "stop_id": "291694",
+    "stop_name": "忠貞新村",
+    "position": {
+      "lat": 24.79696,
+      "lon": 120.99823
+    }
+  },
+  {
+    "stop_uid": "HSZ291695",
+    "stop_id": "291695",
+    "stop_name": "忠貞新村",
+    "position": {
+      "lat": 24.79701,
+      "lon": 120.99817
+    }
+  },
+  {
+    "stop_uid": "HSZ291696",
+    "stop_id": "291696",
+    "stop_name": "東光忠孝路口",
+    "position": {
+      "lat": 24.8047,
+      "lon": 120.9867512
+    }
+  },
+  {
+    "stop_uid": "HSZ291697",
+    "stop_id": "291697",
+    "stop_name": "東光忠孝路口",
+    "position": {
+      "lat": 24.804598,
+      "lon": 120.986794
+    }
+  },
+  {
+    "stop_uid": "HSZ291700",
+    "stop_id": "291700",
+    "stop_name": "建功高中",
+    "position": {
+      "lat": 24.796945,
+      "lon": 121.000783
+    }
+  },
+  {
+    "stop_uid": "HSZ291701",
+    "stop_id": "291701",
+    "stop_name": "美術館",
+    "position": {
+      "lat": 24.806398,
+      "lon": 120.969916
+    }
+  },
+  {
+    "stop_uid": "HSZ291702",
+    "stop_id": "291702",
+    "stop_name": "埔頂庄",
+    "position": {
+      "lat": 24.79463,
+      "lon": 121.00898
+    }
+  },
+  {
+    "stop_uid": "HSZ291703",
+    "stop_id": "291703",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.80034,
+      "lon": 120.99131
+    }
+  },
+  {
+    "stop_uid": "HSZ291704",
+    "stop_id": "291704",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.80043,
+      "lon": 120.99141
+    }
+  },
+  {
+    "stop_uid": "HSZ291705",
+    "stop_id": "291705",
+    "stop_name": "國華街口",
+    "position": {
+      "lat": 24.81406,
+      "lon": 120.97038
+    }
+  },
+  {
+    "stop_uid": "HSZ291706",
+    "stop_id": "291706",
+    "stop_name": "華夏金城",
+    "position": {
+      "lat": 24.79499,
+      "lon": 121.00412
+    }
+  },
+  {
+    "stop_uid": "HSZ291707",
+    "stop_id": "291707",
+    "stop_name": "華夏金城",
+    "position": {
+      "lat": 24.79507,
+      "lon": 121.00447
+    }
+  },
+  {
+    "stop_uid": "HSZ291709",
+    "stop_id": "291709",
+    "stop_name": "慈濟路口",
+    "position": {
+      "lat": 24.79331,
+      "lon": 121.01519
+    }
+  },
+  {
+    "stop_uid": "HSZ291710",
+    "stop_id": "291710",
+    "stop_name": "愛買1站",
+    "position": {
+      "lat": 24.802916,
+      "lon": 120.99388
+    }
+  },
+  {
+    "stop_uid": "HSZ291711",
+    "stop_id": "291711",
+    "stop_name": "愛買1站",
+    "position": {
+      "lat": 24.802779,
+      "lon": 120.99385
+    }
+  },
+  {
+    "stop_uid": "HSZ291713",
+    "stop_id": "291713",
+    "stop_name": "監理站",
+    "position": {
+      "lat": 24.8114,
+      "lon": 120.98225
+    }
+  },
+  {
+    "stop_uid": "HSZ291714",
+    "stop_id": "291714",
+    "stop_name": "監理站",
+    "position": {
+      "lat": 24.81152,
+      "lon": 120.982
+    }
+  },
+  {
+    "stop_uid": "HSZ291716",
+    "stop_id": "291716",
+    "stop_name": "關埔公園",
+    "position": {
+      "lat": 24.7913,
+      "lon": 121.01777
+    }
+  },
+  {
+    "stop_uid": "HSZ291718",
+    "stop_id": "291718",
+    "stop_name": "九甲埔",
+    "position": {
+      "lat": 24.80723,
+      "lon": 121.00814
+    }
+  },
+  {
+    "stop_uid": "HSZ291719",
+    "stop_id": "291719",
+    "stop_name": "九甲埔",
+    "position": {
+      "lat": 24.80724,
+      "lon": 121.00798
+    }
+  },
+  {
+    "stop_uid": "HSZ291720",
+    "stop_id": "291720",
+    "stop_name": "水利路",
+    "position": {
+      "lat": 24.80286,
+      "lon": 121.00548
+    }
+  },
+  {
+    "stop_uid": "HSZ291721",
+    "stop_id": "291721",
+    "stop_name": "水利路",
+    "position": {
+      "lat": 24.80253,
+      "lon": 121.00542
+    }
+  },
+  {
+    "stop_uid": "HSZ291722",
+    "stop_id": "291722",
+    "stop_name": "水源",
+    "position": {
+      "lat": 24.80665,
+      "lon": 120.99865
+    }
+  },
+  {
+    "stop_uid": "HSZ291723",
+    "stop_id": "291723",
+    "stop_name": "水源",
+    "position": {
+      "lat": 24.80668,
+      "lon": 120.99864
+    }
+  },
+  {
+    "stop_uid": "HSZ291725",
+    "stop_id": "291725",
+    "stop_name": "千甲車站",
+    "position": {
+      "lat": 24.8072,
+      "lon": 121.00137
+    }
+  },
+  {
+    "stop_uid": "HSZ291726",
+    "stop_id": "291726",
+    "stop_name": "交流道口",
+    "position": {
+      "lat": 24.79895,
+      "lon": 121.00631
+    }
+  },
+  {
+    "stop_uid": "HSZ291728",
+    "stop_id": "291728",
+    "stop_name": "旭家經貿",
+    "position": {
+      "lat": 24.80416,
+      "lon": 121.00623
+    }
+  },
+  {
+    "stop_uid": "HSZ291729",
+    "stop_id": "291729",
+    "stop_name": "旭家經貿",
+    "position": {
+      "lat": 24.80377,
+      "lon": 121.00616
+    }
+  },
+  {
+    "stop_uid": "HSZ291732",
+    "stop_id": "291732",
+    "stop_name": "東美路",
+    "position": {
+      "lat": 24.80162,
+      "lon": 121.00307
+    }
+  },
+  {
+    "stop_uid": "HSZ291733",
+    "stop_id": "291733",
+    "stop_name": "東美路",
+    "position": {
+      "lat": 24.8016,
+      "lon": 121.00353
+    }
+  },
+  {
+    "stop_uid": "HSZ291734",
+    "stop_id": "291734",
+    "stop_name": "原興路口",
+    "position": {
+      "lat": 24.80774,
+      "lon": 121.00539
+    }
+  },
+  {
+    "stop_uid": "HSZ291735",
+    "stop_id": "291735",
+    "stop_name": "原興路口",
+    "position": {
+      "lat": 24.80782,
+      "lon": 121.0052
+    }
+  },
+  {
+    "stop_uid": "HSZ291736",
+    "stop_id": "291736",
+    "stop_name": "愛買2站",
+    "position": {
+      "lat": 24.80404,
+      "lon": 120.9936
+    }
+  },
+  {
+    "stop_uid": "HSZ291737",
+    "stop_id": "291737",
+    "stop_name": "愛買2站",
+    "position": {
+      "lat": 24.80417,
+      "lon": 120.9935
+    }
+  },
+  {
+    "stop_uid": "HSZ291740",
+    "stop_id": "291740",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803743,
+      "lon": 120.9709932
+    }
+  },
+  {
+    "stop_uid": "HSZ291741",
+    "stop_id": "291741",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291742",
+    "stop_id": "291742",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291743",
+    "stop_id": "291743",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805299,
+      "lon": 120.969717
+    }
+  },
+  {
+    "stop_uid": "HSZ291744",
+    "stop_id": "291744",
+    "stop_name": "台貿四村",
+    "position": {
+      "lat": 24.8018299119516,
+      "lon": 120.955449766864
+    }
+  },
+  {
+    "stop_uid": "HSZ291745",
+    "stop_id": "291745",
+    "stop_name": "台貿四村",
+    "position": {
+      "lat": 24.801922,
+      "lon": 120.955485
+    }
+  },
+  {
+    "stop_uid": "HSZ291746",
+    "stop_id": "291746",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ291747",
+    "stop_id": "291747",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ291748",
+    "stop_id": "291748",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ291752",
+    "stop_id": "291752",
+    "stop_name": "國泰醫院",
+    "position": {
+      "lat": 24.797996,
+      "lon": 120.965044
+    }
+  },
+  {
+    "stop_uid": "HSZ291753",
+    "stop_id": "291753",
+    "stop_name": "頂埔社區",
+    "position": {
+      "lat": 24.7993,
+      "lon": 120.95263
+    }
+  },
+  {
+    "stop_uid": "HSZ291755",
+    "stop_id": "291755",
+    "stop_name": "信義幼稚園",
+    "position": {
+      "lat": 24.79888,
+      "lon": 120.95496
+    }
+  },
+  {
+    "stop_uid": "HSZ291756",
+    "stop_id": "291756",
+    "stop_name": "民富國小",
+    "position": {
+      "lat": 24.80828,
+      "lon": 120.96079
+    }
+  },
+  {
+    "stop_uid": "HSZ291757",
+    "stop_id": "291757",
+    "stop_name": "中山路",
+    "position": {
+      "lat": 24.80081,
+      "lon": 120.95943
+    }
+  },
+  {
+    "stop_uid": "HSZ291758",
+    "stop_id": "291758",
+    "stop_name": "香山國小",
+    "position": {
+      "lat": 24.79618,
+      "lon": 120.94418
+    }
+  },
+  {
+    "stop_uid": "HSZ291759",
+    "stop_id": "291759",
+    "stop_name": "西門口",
+    "position": {
+      "lat": 24.802448,
+      "lon": 120.962188
+    }
+  },
+  {
+    "stop_uid": "HSZ291760",
+    "stop_id": "291760",
+    "stop_name": "武陵社區",
+    "position": {
+      "lat": 24.81773,
+      "lon": 120.96557
+    }
+  },
+  {
+    "stop_uid": "HSZ291761",
+    "stop_id": "291761",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803311,
+      "lon": 120.971912
+    }
+  },
+  {
+    "stop_uid": "HSZ291763",
+    "stop_id": "291763",
+    "stop_name": "親仁里",
+    "position": {
+      "lat": 24.807418220117,
+      "lon": 120.971544
+    }
+  },
+  {
+    "stop_uid": "HSZ291764",
+    "stop_id": "291764",
+    "stop_name": "新竹高商",
+    "position": {
+      "lat": 24.7968412,
+      "lon": 120.9845588
+    }
+  },
+  {
+    "stop_uid": "HSZ291767",
+    "stop_id": "291767",
+    "stop_name": "學府路口",
+    "position": {
+      "lat": 24.800231,
+      "lon": 120.986692
+    }
+  },
+  {
+    "stop_uid": "HSZ291768",
+    "stop_id": "291768",
+    "stop_name": "水源地",
+    "position": {
+      "lat": 24.79782548,
+      "lon": 120.9856229
+    }
+  },
+  {
+    "stop_uid": "HSZ291769",
+    "stop_id": "291769",
+    "stop_name": "新竹高商",
+    "position": {
+      "lat": 24.796859,
+      "lon": 120.984171
+    }
+  },
+  {
+    "stop_uid": "HSZ291770",
+    "stop_id": "291770",
+    "stop_name": "新竹高中",
+    "position": {
+      "lat": 24.79563843,
+      "lon": 120.9810005
+    }
+  },
+  {
+    "stop_uid": "HSZ291772",
+    "stop_id": "291772",
+    "stop_name": "親仁里",
+    "position": {
+      "lat": 24.80759108,
+      "lon": 120.9715624
+    }
+  },
+  {
+    "stop_uid": "HSZ291780",
+    "stop_id": "291780",
+    "stop_name": "建功高中",
+    "position": {
+      "lat": 24.79692191,
+      "lon": 121.0017011
+    }
+  },
+  {
+    "stop_uid": "HSZ291782",
+    "stop_id": "291782",
+    "stop_name": "建功公園",
+    "position": {
+      "lat": 24.794108,
+      "lon": 121.002559
+    }
+  },
+  {
+    "stop_uid": "HSZ291837",
+    "stop_id": "291837",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79671,
+      "lon": 120.999276
+    }
+  },
+  {
+    "stop_uid": "HSZ291841",
+    "stop_id": "291841",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.796723,
+      "lon": 120.99921
+    }
+  },
+  {
+    "stop_uid": "HSZ291842",
+    "stop_id": "291842",
+    "stop_name": "建功高中",
+    "position": {
+      "lat": 24.797065,
+      "lon": 121.001682
+    }
+  },
+  {
+    "stop_uid": "HSZ291844",
+    "stop_id": "291844",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79672,
+      "lon": 120.99957
+    }
+  },
+  {
+    "stop_uid": "HSZ291845",
+    "stop_id": "291845",
+    "stop_name": "頂埔社區",
+    "position": {
+      "lat": 24.799333,
+      "lon": 120.952638
+    }
+  },
+  {
+    "stop_uid": "HSZ291846",
+    "stop_id": "291846",
+    "stop_name": "大庄里",
+    "position": {
+      "lat": 24.79135848,
+      "lon": 120.9268234
+    }
+  },
+  {
+    "stop_uid": "HSZ291848",
+    "stop_id": "291848",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.799784,
+      "lon": 120.990374
+    }
+  },
+  {
+    "stop_uid": "HSZ291857",
+    "stop_id": "291857",
+    "stop_name": "西門市場",
+    "position": {
+      "lat": 24.8031,
+      "lon": 120.96478
+    }
+  },
+  {
+    "stop_uid": "HSZ291858",
+    "stop_id": "291858",
+    "stop_name": "南大路口",
+    "position": {
+      "lat": 24.796813,
+      "lon": 120.969891
+    }
+  },
+  {
+    "stop_uid": "HSZ291859",
+    "stop_id": "291859",
+    "stop_name": "新竹青果",
+    "position": {
+      "lat": 24.79635,
+      "lon": 120.97065
+    }
+  },
+  {
+    "stop_uid": "HSZ291860",
+    "stop_id": "291860",
+    "stop_name": "高峰路口",
+    "position": {
+      "lat": 24.795348,
+      "lon": 120.971918
+    }
+  },
+  {
+    "stop_uid": "HSZ291861",
+    "stop_id": "291861",
+    "stop_name": "竹蓮市場",
+    "position": {
+      "lat": 24.79399,
+      "lon": 120.97346
+    }
+  },
+  {
+    "stop_uid": "HSZ291862",
+    "stop_id": "291862",
+    "stop_name": "介壽山口",
+    "position": {
+      "lat": 24.79218,
+      "lon": 120.97562
+    }
+  },
+  {
+    "stop_uid": "HSZ291863",
+    "stop_id": "291863",
+    "stop_name": "萬佛寺",
+    "position": {
+      "lat": 24.79053,
+      "lon": 120.97695
+    }
+  },
+  {
+    "stop_uid": "HSZ291864",
+    "stop_id": "291864",
+    "stop_name": "高峰植物園",
+    "position": {
+      "lat": 24.78865,
+      "lon": 120.98193
+    }
+  },
+  {
+    "stop_uid": "HSZ291865",
+    "stop_id": "291865",
+    "stop_name": "雞蛋面",
+    "position": {
+      "lat": 24.78739,
+      "lon": 120.98592
+    }
+  },
+  {
+    "stop_uid": "HSZ291866",
+    "stop_id": "291866",
+    "stop_name": "翠壁岩寺",
+    "position": {
+      "lat": 24.795348,
+      "lon": 120.971918
+    }
+  },
+  {
+    "stop_uid": "HSZ291867",
+    "stop_id": "291867",
+    "stop_name": "下路北",
+    "position": {
+      "lat": 24.78156,
+      "lon": 120.98808
+    }
+  },
+  {
+    "stop_uid": "HSZ291868",
+    "stop_id": "291868",
+    "stop_name": "高翠",
+    "position": {
+      "lat": 24.77990935,
+      "lon": 120.9869552
+    }
+  },
+  {
+    "stop_uid": "HSZ291869",
+    "stop_id": "291869",
+    "stop_name": "竹泰社區",
+    "position": {
+      "lat": 24.77876,
+      "lon": 120.98553
+    }
+  },
+  {
+    "stop_uid": "HSZ291870",
+    "stop_id": "291870",
+    "stop_name": "高峰",
+    "position": {
+      "lat": 24.77738694,
+      "lon": 120.9830463
+    }
+  },
+  {
+    "stop_uid": "HSZ291871",
+    "stop_id": "291871",
+    "stop_name": "土雞城",
+    "position": {
+      "lat": 24.77859,
+      "lon": 120.9821
+    }
+  },
+  {
+    "stop_uid": "HSZ291872",
+    "stop_id": "291872",
+    "stop_name": "青峰路口",
+    "position": {
+      "lat": 24.77963731,
+      "lon": 120.98133
+    }
+  },
+  {
+    "stop_uid": "HSZ291879",
+    "stop_id": "291879",
+    "stop_name": "埔頂庄",
+    "position": {
+      "lat": 24.79462,
+      "lon": 121.00902
+    }
+  },
+  {
+    "stop_uid": "HSZ291881",
+    "stop_id": "291881",
+    "stop_name": "市政府",
+    "position": {
+      "lat": 24.80734,
+      "lon": 120.96799
+    }
+  },
+  {
+    "stop_uid": "HSZ291888",
+    "stop_id": "291888",
+    "stop_name": "鄭氏家廟",
+    "position": {
+      "lat": 24.810238,
+      "lon": 120.965835
+    }
+  },
+  {
+    "stop_uid": "HSZ291889",
+    "stop_id": "291889",
+    "stop_name": "中正經國路口",
+    "position": {
+      "lat": 24.81152,
+      "lon": 120.96476
+    }
+  },
+  {
+    "stop_uid": "HSZ291905",
+    "stop_id": "291905",
+    "stop_name": "鄭氏家廟",
+    "position": {
+      "lat": 24.809988,
+      "lon": 120.966001
+    }
+  },
+  {
+    "stop_uid": "HSZ291906",
+    "stop_id": "291906",
+    "stop_name": "中正經國路口",
+    "position": {
+      "lat": 24.81152,
+      "lon": 120.96476
+    }
+  },
+  {
+    "stop_uid": "HSZ291927",
+    "stop_id": "291927",
+    "stop_name": "武陵社區",
+    "position": {
+      "lat": 24.818125,
+      "lon": 120.965695
+    }
+  },
+  {
+    "stop_uid": "HSZ291930",
+    "stop_id": "291930",
+    "stop_name": "湳中街口",
+    "position": {
+      "lat": 24.819911,
+      "lon": 120.967054
+    }
+  },
+  {
+    "stop_uid": "HSZ292080",
+    "stop_id": "292080",
+    "stop_name": "地方法院",
+    "position": {
+      "lat": 24.80753,
+      "lon": 120.96799
+    }
+  },
+  {
+    "stop_uid": "HSZ292082",
+    "stop_id": "292082",
+    "stop_name": "交流道口",
+    "position": {
+      "lat": 24.79906,
+      "lon": 121.0063
+    }
+  },
+  {
+    "stop_uid": "HSZ292083",
+    "stop_id": "292083",
+    "stop_name": "慈濟路口",
+    "position": {
+      "lat": 24.79342,
+      "lon": 121.01506
+    }
+  },
+  {
+    "stop_uid": "HSZ292084",
+    "stop_id": "292084",
+    "stop_name": "關埔公園",
+    "position": {
+      "lat": 24.79127,
+      "lon": 121.01785
+    }
+  },
+  {
+    "stop_uid": "HSZ293645",
+    "stop_id": "293645",
+    "stop_name": "世博台灣館",
+    "position": {
+      "lat": 24.80494,
+      "lon": 120.99335
+    }
+  },
+  {
+    "stop_uid": "HSZ293655",
+    "stop_id": "293655",
+    "stop_name": "新光路口",
+    "position": {
+      "lat": 24.80435304,
+      "lon": 120.9906701
+    }
+  },
+  {
+    "stop_uid": "HSZ293656",
+    "stop_id": "293656",
+    "stop_name": "新光路口",
+    "position": {
+      "lat": 24.80442444,
+      "lon": 120.9904059
+    }
+  },
+  {
+    "stop_uid": "HSZ293661",
+    "stop_id": "293661",
+    "stop_name": "大潤發1站",
+    "position": {
+      "lat": 24.80416687,
+      "lon": 120.984605
+    }
+  },
+  {
+    "stop_uid": "HSZ293663",
+    "stop_id": "293663",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79661747,
+      "lon": 120.9995979
+    }
+  },
+  {
+    "stop_uid": "HSZ293669",
+    "stop_id": "293669",
+    "stop_name": "孟竹國宅",
+    "position": {
+      "lat": 24.79950283,
+      "lon": 120.9974262
+    }
+  },
+  {
+    "stop_uid": "HSZ293671",
+    "stop_id": "293671",
+    "stop_name": "金山八街",
+    "position": {
+      "lat": 24.77801647,
+      "lon": 121.0202193
+    }
+  },
+  {
+    "stop_uid": "HSZ293672",
+    "stop_id": "293672",
+    "stop_name": "金山公園",
+    "position": {
+      "lat": 24.77637795,
+      "lon": 121.0248372
+    }
+  },
+  {
+    "stop_uid": "HSZ293673",
+    "stop_id": "293673",
+    "stop_name": "建功高中",
+    "position": {
+      "lat": 24.79685103,
+      "lon": 121.0007952
+    }
+  },
+  {
+    "stop_uid": "HSZ293674",
+    "stop_id": "293674",
+    "stop_name": "後站(公園路口)",
+    "position": {
+      "lat": 24.80146,
+      "lon": 120.97575
+    }
+  },
+  {
+    "stop_uid": "HSZ293675",
+    "stop_id": "293675",
+    "stop_name": "科學園區",
+    "position": {
+      "lat": 24.788278,
+      "lon": 121.008331
+    }
+  },
+  {
+    "stop_uid": "HSZ293676",
+    "stop_id": "293676",
+    "stop_name": "華清社區",
+    "position": {
+      "lat": 24.77809337,
+      "lon": 121.0253622
+    }
+  },
+  {
+    "stop_uid": "HSZ293677",
+    "stop_id": "293677",
+    "stop_name": "集福宮",
+    "position": {
+      "lat": 24.77755544,
+      "lon": 121.0223693
+    }
+  },
+  {
+    "stop_uid": "HSZ293678",
+    "stop_id": "293678",
+    "stop_name": "愛買1站",
+    "position": {
+      "lat": 24.802746,
+      "lon": 120.9938415
+    }
+  },
+  {
+    "stop_uid": "HSZ293679",
+    "stop_id": "293679",
+    "stop_name": "愛買2站",
+    "position": {
+      "lat": 24.80408078,
+      "lon": 120.9934554
+    }
+  },
+  {
+    "stop_uid": "HSZ293680",
+    "stop_id": "293680",
+    "stop_name": "新科國中",
+    "position": {
+      "lat": 24.7803587,
+      "lon": 121.0243492
+    }
+  },
+  {
+    "stop_uid": "HSZ293681",
+    "stop_id": "293681",
+    "stop_name": "陽明交大光復路",
+    "position": {
+      "lat": 24.79179192,
+      "lon": 121.0032595
+    }
+  },
+  {
+    "stop_uid": "HSZ293682",
+    "stop_id": "293682",
+    "stop_name": "體育場",
+    "position": {
+      "lat": 24.8014,
+      "lon": 120.98286
+    }
+  },
+  {
+    "stop_uid": "HSZ293683",
+    "stop_id": "293683",
+    "stop_name": "體育館",
+    "position": {
+      "lat": 24.79918,
+      "lon": 120.97969
+    }
+  },
+  {
+    "stop_uid": "HSZ293686",
+    "stop_id": "293686",
+    "stop_name": "中埔",
+    "position": {
+      "lat": 24.79535617,
+      "lon": 120.9495622
+    }
+  },
+  {
+    "stop_uid": "HSZ293687",
+    "stop_id": "293687",
+    "stop_name": "中埔里",
+    "position": {
+      "lat": 24.79758461,
+      "lon": 120.9449132
+    }
+  },
+  {
+    "stop_uid": "HSZ293688",
+    "stop_id": "293688",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.802281,
+      "lon": 120.978639
+    }
+  },
+  {
+    "stop_uid": "HSZ293693",
+    "stop_id": "293693",
+    "stop_name": "明烈宮",
+    "position": {
+      "lat": 24.79292645,
+      "lon": 120.9230345
+    }
+  },
+  {
+    "stop_uid": "HSZ293694",
+    "stop_id": "293694",
+    "stop_name": "東區區公所",
+    "position": {
+      "lat": 24.80525696,
+      "lon": 120.9731224
+    }
+  },
+  {
+    "stop_uid": "HSZ293695",
+    "stop_id": "293695",
+    "stop_name": "東華路",
+    "position": {
+      "lat": 24.79442,
+      "lon": 120.9453
+    }
+  },
+  {
+    "stop_uid": "HSZ293696",
+    "stop_id": "293696",
+    "stop_name": "林森路口",
+    "position": {
+      "lat": 24.796797,
+      "lon": 120.961821
+    }
+  },
+  {
+    "stop_uid": "HSZ293697",
+    "stop_id": "293697",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.79951774,
+      "lon": 120.9676609
+    }
+  },
+  {
+    "stop_uid": "HSZ293698",
+    "stop_id": "293698",
+    "stop_name": "美森街口",
+    "position": {
+      "lat": 24.792324,
+      "lon": 120.925202
+    }
+  },
+  {
+    "stop_uid": "HSZ293699",
+    "stop_id": "293699",
+    "stop_name": "牛埔店仔口",
+    "position": {
+      "lat": 24.79700795,
+      "lon": 120.9421919
+    }
+  },
+  {
+    "stop_uid": "HSZ293702",
+    "stop_id": "293702",
+    "stop_name": "國泰醫院",
+    "position": {
+      "lat": 24.79796304,
+      "lon": 120.9651712
+    }
+  },
+  {
+    "stop_uid": "HSZ293703",
+    "stop_id": "293703",
+    "stop_name": "瑞光街口",
+    "position": {
+      "lat": 24.792974,
+      "lon": 120.923291
+    }
+  },
+  {
+    "stop_uid": "HSZ293704",
+    "stop_id": "293704",
+    "stop_name": "農會",
+    "position": {
+      "lat": 24.79649721,
+      "lon": 120.9545673
+    }
+  },
+  {
+    "stop_uid": "HSZ293709",
+    "stop_id": "293709",
+    "stop_name": "中埔",
+    "position": {
+      "lat": 24.794899,
+      "lon": 120.948095
+    }
+  },
+  {
+    "stop_uid": "HSZ293710",
+    "stop_id": "293710",
+    "stop_name": "中埔里",
+    "position": {
+      "lat": 24.79755522,
+      "lon": 120.9449822
+    }
+  },
+  {
+    "stop_uid": "HSZ293711",
+    "stop_id": "293711",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ293712",
+    "stop_id": "293712",
+    "stop_name": "吉悌",
+    "position": {
+      "lat": 24.79429426,
+      "lon": 120.9324624
+    }
+  },
+  {
+    "stop_uid": "HSZ293713",
+    "stop_id": "293713",
+    "stop_name": "店子口",
+    "position": {
+      "lat": 24.79626417,
+      "lon": 120.9404642
+    }
+  },
+  {
+    "stop_uid": "HSZ293715",
+    "stop_id": "293715",
+    "stop_name": "東區區公所",
+    "position": {
+      "lat": 24.80525139,
+      "lon": 120.9729964
+    }
+  },
+  {
+    "stop_uid": "HSZ293716",
+    "stop_id": "293716",
+    "stop_name": "東華路",
+    "position": {
+      "lat": 24.79448,
+      "lon": 120.94536
+    }
+  },
+  {
+    "stop_uid": "HSZ293717",
+    "stop_id": "293717",
+    "stop_name": "林森路口",
+    "position": {
+      "lat": 24.796835,
+      "lon": 120.961468
+    }
+  },
+  {
+    "stop_uid": "HSZ293718",
+    "stop_id": "293718",
+    "stop_name": "南門市場",
+    "position": {
+      "lat": 24.79966583,
+      "lon": 120.9677504
+    }
+  },
+  {
+    "stop_uid": "HSZ293719",
+    "stop_id": "293719",
+    "stop_name": "美森街口",
+    "position": {
+      "lat": 24.79222906,
+      "lon": 120.925433
+    }
+  },
+  {
+    "stop_uid": "HSZ293720",
+    "stop_id": "293720",
+    "stop_name": "牛埔店仔口",
+    "position": {
+      "lat": 24.79716,
+      "lon": 120.9421
+    }
+  },
+  {
+    "stop_uid": "HSZ293721",
+    "stop_id": "293721",
+    "stop_name": "埔前",
+    "position": {
+      "lat": 24.79647312,
+      "lon": 120.9376197
+    }
+  },
+  {
+    "stop_uid": "HSZ293723",
+    "stop_id": "293723",
+    "stop_name": "國泰醫院",
+    "position": {
+      "lat": 24.79800148,
+      "lon": 120.9650767
+    }
+  },
+  {
+    "stop_uid": "HSZ293725",
+    "stop_id": "293725",
+    "stop_name": "瑞光街口",
+    "position": {
+      "lat": 24.793047,
+      "lon": 120.923325
+    }
+  },
+  {
+    "stop_uid": "HSZ293726",
+    "stop_id": "293726",
+    "stop_name": "農會",
+    "position": {
+      "lat": 24.79668,
+      "lon": 120.95457
+    }
+  },
+  {
+    "stop_uid": "HSZ293728",
+    "stop_id": "293728",
+    "stop_name": "德和",
+    "position": {
+      "lat": 24.79590312,
+      "lon": 120.9345839
+    }
+  },
+  {
+    "stop_uid": "HSZ293777",
+    "stop_id": "293777",
+    "stop_name": "體育館",
+    "position": {
+      "lat": 24.79922,
+      "lon": 120.97952
+    }
+  },
+  {
+    "stop_uid": "HSZ293778",
+    "stop_id": "293778",
+    "stop_name": "體育場",
+    "position": {
+      "lat": 24.80149,
+      "lon": 120.98273
+    }
+  },
+  {
+    "stop_uid": "HSZ293779",
+    "stop_id": "293779",
+    "stop_name": "大潤發1站",
+    "position": {
+      "lat": 24.80421583,
+      "lon": 120.984345
+    }
+  },
+  {
+    "stop_uid": "HSZ293782",
+    "stop_id": "293782",
+    "stop_name": "愛買2站",
+    "position": {
+      "lat": 24.80394113,
+      "lon": 120.9935595
+    }
+  },
+  {
+    "stop_uid": "HSZ293784",
+    "stop_id": "293784",
+    "stop_name": "公學新城",
+    "position": {
+      "lat": 24.80184678,
+      "lon": 120.9960005
+    }
+  },
+  {
+    "stop_uid": "HSZ293789",
+    "stop_id": "293789",
+    "stop_name": "陽明交大光復路",
+    "position": {
+      "lat": 24.792691,
+      "lon": 121.002386
+    }
+  },
+  {
+    "stop_uid": "HSZ293791",
+    "stop_id": "293791",
+    "stop_name": "光武國中",
+    "position": {
+      "lat": 24.78568086,
+      "lon": 121.0120255
+    }
+  },
+  {
+    "stop_uid": "HSZ293792",
+    "stop_id": "293792",
+    "stop_name": "日光燈",
+    "position": {
+      "lat": 24.784082,
+      "lon": 121.015705
+    }
+  },
+  {
+    "stop_uid": "HSZ293793",
+    "stop_id": "293793",
+    "stop_name": "仙水",
+    "position": {
+      "lat": 24.782911,
+      "lon": 121.018551
+    }
+  },
+  {
+    "stop_uid": "HSZ294408",
+    "stop_id": "294408",
+    "stop_name": "新莊車站",
+    "position": {
+      "lat": 24.78798406,
+      "lon": 121.0210493
+    }
+  },
+  {
+    "stop_uid": "HSZ294531",
+    "stop_id": "294531",
+    "stop_name": "竹光1站",
+    "position": {
+      "lat": 24.81406,
+      "lon": 120.96033
+    }
+  },
+  {
+    "stop_uid": "HSZ294532",
+    "stop_id": "294532",
+    "stop_name": "竹光2站",
+    "position": {
+      "lat": 24.81321,
+      "lon": 120.9593
+    }
+  },
+  {
+    "stop_uid": "HSZ294533",
+    "stop_id": "294533",
+    "stop_name": "竹光3站",
+    "position": {
+      "lat": 24.81229,
+      "lon": 120.95808
+    }
+  },
+  {
+    "stop_uid": "HSZ294558",
+    "stop_id": "294558",
+    "stop_name": "聖公宮",
+    "position": {
+      "lat": 24.785256,
+      "lon": 120.918234
+    }
+  },
+  {
+    "stop_uid": "HSZ294640",
+    "stop_id": "294640",
+    "stop_name": "蟹仔埔",
+    "position": {
+      "lat": 24.839566,
+      "lon": 120.930665
+    }
+  },
+  {
+    "stop_uid": "HSZ295420",
+    "stop_id": "295420",
+    "stop_name": "下路北",
+    "position": {
+      "lat": 24.78171,
+      "lon": 120.98783
+    }
+  },
+  {
+    "stop_uid": "HSZ295421",
+    "stop_id": "295421",
+    "stop_name": "土雞城",
+    "position": {
+      "lat": 24.77855,
+      "lon": 120.98229
+    }
+  },
+  {
+    "stop_uid": "HSZ295422",
+    "stop_id": "295422",
+    "stop_name": "仙宮里活動中心",
+    "position": {
+      "lat": 24.78350257,
+      "lon": 120.989825
+    }
+  },
+  {
+    "stop_uid": "HSZ295423",
+    "stop_id": "295423",
+    "stop_name": "竹泰社區",
+    "position": {
+      "lat": 24.77886409,
+      "lon": 120.985458
+    }
+  },
+  {
+    "stop_uid": "HSZ295424",
+    "stop_id": "295424",
+    "stop_name": "竹蓮國小",
+    "position": {
+      "lat": 24.79619852,
+      "lon": 120.9745727
+    }
+  },
+  {
+    "stop_uid": "HSZ295425",
+    "stop_id": "295425",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.79752315,
+      "lon": 120.9741724
+    }
+  },
+  {
+    "stop_uid": "HSZ295426",
+    "stop_id": "295426",
+    "stop_name": "青峰路口",
+    "position": {
+      "lat": 24.7796287,
+      "lon": 120.9814507
+    }
+  },
+  {
+    "stop_uid": "HSZ295427",
+    "stop_id": "295427",
+    "stop_name": "後站",
+    "position": {
+      "lat": 24.80145304,
+      "lon": 120.9757631
+    }
+  },
+  {
+    "stop_uid": "HSZ295428",
+    "stop_id": "295428",
+    "stop_name": "財神廟",
+    "position": {
+      "lat": 24.78603329,
+      "lon": 120.9768044
+    }
+  },
+  {
+    "stop_uid": "HSZ295429",
+    "stop_id": "295429",
+    "stop_name": "高峰",
+    "position": {
+      "lat": 24.77763,
+      "lon": 120.98307
+    }
+  },
+  {
+    "stop_uid": "HSZ295430",
+    "stop_id": "295430",
+    "stop_name": "高峰社區",
+    "position": {
+      "lat": 24.79135781,
+      "lon": 120.9754863
+    }
+  },
+  {
+    "stop_uid": "HSZ295431",
+    "stop_id": "295431",
+    "stop_name": "高峰植物園",
+    "position": {
+      "lat": 24.78836078,
+      "lon": 120.9819649
+    }
+  },
+  {
+    "stop_uid": "HSZ295432",
+    "stop_id": "295432",
+    "stop_name": "高翠",
+    "position": {
+      "lat": 24.78031026,
+      "lon": 120.9870817
+    }
+  },
+  {
+    "stop_uid": "HSZ295433",
+    "stop_id": "295433",
+    "stop_name": "普天宮",
+    "position": {
+      "lat": 24.7810672,
+      "lon": 120.9806039
+    }
+  },
+  {
+    "stop_uid": "HSZ295434",
+    "stop_id": "295434",
+    "stop_name": "聖經書院",
+    "position": {
+      "lat": 24.79267053,
+      "lon": 120.9733959
+    }
+  },
+  {
+    "stop_uid": "HSZ295435",
+    "stop_id": "295435",
+    "stop_name": "雞蛋面",
+    "position": {
+      "lat": 24.78700156,
+      "lon": 120.9863456
+    }
+  },
+  {
+    "stop_uid": "HSZ295436",
+    "stop_id": "295436",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.8007701,
+      "lon": 120.9746245
+    }
+  },
+  {
+    "stop_uid": "HSZ295441",
+    "stop_id": "295441",
+    "stop_name": "竹蓮國小",
+    "position": {
+      "lat": 24.79608207,
+      "lon": 120.9747085
+    }
+  },
+  {
+    "stop_uid": "HSZ295442",
+    "stop_id": "295442",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.7983832,
+      "lon": 120.9736592
+    }
+  },
+  {
+    "stop_uid": "HSZ295449",
+    "stop_id": "295449",
+    "stop_name": "聖經書院",
+    "position": {
+      "lat": 24.7927964,
+      "lon": 120.973449
+    }
+  },
+  {
+    "stop_uid": "HSZ295451",
+    "stop_id": "295451",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.80046252,
+      "lon": 120.9744721
+    }
+  },
+  {
+    "stop_uid": "HSZ295452",
+    "stop_id": "295452",
+    "stop_name": "後站",
+    "position": {
+      "lat": 24.80131261,
+      "lon": 120.9758
+    }
+  },
+  {
+    "stop_uid": "HSZ295453",
+    "stop_id": "295453",
+    "stop_name": "大潤發2站",
+    "position": {
+      "lat": 24.805729,
+      "lon": 120.983587
+    }
+  },
+  {
+    "stop_uid": "HSZ295454",
+    "stop_id": "295454",
+    "stop_name": "中興橋",
+    "position": {
+      "lat": 24.782730518498,
+      "lon": 120.967161982803
+    }
+  },
+  {
+    "stop_uid": "HSZ295456",
+    "stop_id": "295456",
+    "stop_name": "日月光飯店",
+    "position": {
+      "lat": 24.76915622,
+      "lon": 120.9569089
+    }
+  },
+  {
+    "stop_uid": "HSZ295457",
+    "stop_id": "295457",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.7978793881934,
+      "lon": 120.970085860118
+    }
+  },
+  {
+    "stop_uid": "HSZ295459",
+    "stop_id": "295459",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.7969316465886,
+      "lon": 120.968576588954
+    }
+  },
+  {
+    "stop_uid": "HSZ295460",
+    "stop_id": "295460",
+    "stop_name": "育賢國中",
+    "position": {
+      "lat": 24.789337,
+      "lon": 120.966071
+    }
+  },
+  {
+    "stop_uid": "HSZ295461",
+    "stop_id": "295461",
+    "stop_name": "忠孝社區",
+    "position": {
+      "lat": 24.79141227,
+      "lon": 120.9640796
+    }
+  },
+  {
+    "stop_uid": "HSZ295462",
+    "stop_id": "295462",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.79945,
+      "lon": 120.97261
+    }
+  },
+  {
+    "stop_uid": "HSZ295463",
+    "stop_id": "295463",
+    "stop_name": "南光新村",
+    "position": {
+      "lat": 24.787182447132,
+      "lon": 120.967443703041
+    }
+  },
+  {
+    "stop_uid": "HSZ295464",
+    "stop_id": "295464",
+    "stop_name": "客運補習班",
+    "position": {
+      "lat": 24.7802739895816,
+      "lon": 120.967219533729
+    }
+  },
+  {
+    "stop_uid": "HSZ295465",
+    "stop_id": "295465",
+    "stop_name": "後站(公園路口)",
+    "position": {
+      "lat": 24.8014274768401,
+      "lon": 120.975777900629
+    }
+  },
+  {
+    "stop_uid": "HSZ295466",
+    "stop_id": "295466",
+    "stop_name": "柴橋",
+    "position": {
+      "lat": 24.7736460549254,
+      "lon": 120.966449504299
+    }
+  },
+  {
+    "stop_uid": "HSZ295467",
+    "stop_id": "295467",
+    "stop_name": "御史崎",
+    "position": {
+      "lat": 24.7851323349623,
+      "lon": 120.967514169311
+    }
+  },
+  {
+    "stop_uid": "HSZ295468",
+    "stop_id": "295468",
+    "stop_name": "清大南大校區",
+    "position": {
+      "lat": 24.7940248272816,
+      "lon": 120.963936046627
+    }
+  },
+  {
+    "stop_uid": "HSZ295469",
+    "stop_id": "295469",
+    "stop_name": "深湖",
+    "position": {
+      "lat": 24.77006358,
+      "lon": 120.9659748
+    }
+  },
+  {
+    "stop_uid": "HSZ295470",
+    "stop_id": "295470",
+    "stop_name": "富群花園",
+    "position": {
+      "lat": 24.768719,
+      "lon": 120.958109
+    }
+  },
+  {
+    "stop_uid": "HSZ295471",
+    "stop_id": "295471",
+    "stop_name": "富群街口",
+    "position": {
+      "lat": 24.767433467685,
+      "lon": 120.9607488
+    }
+  },
+  {
+    "stop_uid": "HSZ295472",
+    "stop_id": "295472",
+    "stop_name": "景湖別墅",
+    "position": {
+      "lat": 24.7770645057507,
+      "lon": 120.967322186508
+    }
+  },
+  {
+    "stop_uid": "HSZ295473",
+    "stop_id": "295473",
+    "stop_name": "陽明清境",
+    "position": {
+      "lat": 24.77945,
+      "lon": 120.9596
+    }
+  },
+  {
+    "stop_uid": "HSZ295474",
+    "stop_id": "295474",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.7953470574137,
+      "lon": 120.96593895568
+    }
+  },
+  {
+    "stop_uid": "HSZ295475",
+    "stop_id": "295475",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.800232,
+      "lon": 120.973903
+    }
+  },
+  {
+    "stop_uid": "HSZ295476",
+    "stop_id": "295476",
+    "stop_name": "觀日大地",
+    "position": {
+      "lat": 24.77684476,
+      "lon": 120.9609637
+    }
+  },
+  {
+    "stop_uid": "HSZ295477",
+    "stop_id": "295477",
+    "stop_name": "中興橋",
+    "position": {
+      "lat": 24.7827189277071,
+      "lon": 120.967284228172
+    }
+  },
+  {
+    "stop_uid": "HSZ295479",
+    "stop_id": "295479",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.7974145962166,
+      "lon": 120.969530233135
+    }
+  },
+  {
+    "stop_uid": "HSZ295481",
+    "stop_id": "295481",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.796885643678,
+      "lon": 120.968603061342
+    }
+  },
+  {
+    "stop_uid": "HSZ295482",
+    "stop_id": "295482",
+    "stop_name": "育賢國中",
+    "position": {
+      "lat": 24.7897743504992,
+      "lon": 120.965793148479
+    }
+  },
+  {
+    "stop_uid": "HSZ295483",
+    "stop_id": "295483",
+    "stop_name": "忠孝社區",
+    "position": {
+      "lat": 24.79150115,
+      "lon": 120.9641762
+    }
+  },
+  {
+    "stop_uid": "HSZ295484",
+    "stop_id": "295484",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.799351473527,
+      "lon": 120.972656326389
+    }
+  },
+  {
+    "stop_uid": "HSZ295485",
+    "stop_id": "295485",
+    "stop_name": "南光新村",
+    "position": {
+      "lat": 24.787234610598,
+      "lon": 120.967548017196
+    }
+  },
+  {
+    "stop_uid": "HSZ295486",
+    "stop_id": "295486",
+    "stop_name": "客運補習班",
+    "position": {
+      "lat": 24.7804156476688,
+      "lon": 120.967237784061
+    }
+  },
+  {
+    "stop_uid": "HSZ295487",
+    "stop_id": "295487",
+    "stop_name": "後站(公園路口)",
+    "position": {
+      "lat": 24.8013442598088,
+      "lon": 120.975793294477
+    }
+  },
+  {
+    "stop_uid": "HSZ295488",
+    "stop_id": "295488",
+    "stop_name": "柴橋",
+    "position": {
+      "lat": 24.7735173,
+      "lon": 120.9664957
+    }
+  },
+  {
+    "stop_uid": "HSZ295489",
+    "stop_id": "295489",
+    "stop_name": "御史崎",
+    "position": {
+      "lat": 24.785379310481,
+      "lon": 120.967640203704
+    }
+  },
+  {
+    "stop_uid": "HSZ295490",
+    "stop_id": "295490",
+    "stop_name": "清大南大校區",
+    "position": {
+      "lat": 24.79364,
+      "lon": 120.963514
+    }
+  },
+  {
+    "stop_uid": "HSZ295491",
+    "stop_id": "295491",
+    "stop_name": "深湖",
+    "position": {
+      "lat": 24.77037232,
+      "lon": 120.96591
+    }
+  },
+  {
+    "stop_uid": "HSZ295492",
+    "stop_id": "295492",
+    "stop_name": "富群街口",
+    "position": {
+      "lat": 24.76742269,
+      "lon": 120.9606415
+    }
+  },
+  {
+    "stop_uid": "HSZ295493",
+    "stop_id": "295493",
+    "stop_name": "景湖別墅",
+    "position": {
+      "lat": 24.7772282647205,
+      "lon": 120.96736682209
+    }
+  },
+  {
+    "stop_uid": "HSZ295494",
+    "stop_id": "295494",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.7958859866687,
+      "lon": 120.967016063823
+    }
+  },
+  {
+    "stop_uid": "HSZ295495",
+    "stop_id": "295495",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.80051,
+      "lon": 120.974456
+    }
+  },
+  {
+    "stop_uid": "HSZ295496",
+    "stop_id": "295496",
+    "stop_name": "觀日大地",
+    "position": {
+      "lat": 24.77690922,
+      "lon": 120.9608993
+    }
+  },
+  {
+    "stop_uid": "HSZ295497",
+    "stop_id": "295497",
+    "stop_name": "亞美佳社區",
+    "position": {
+      "lat": 24.7689405416287,
+      "lon": 120.977220063476
+    }
+  },
+  {
+    "stop_uid": "HSZ295498",
+    "stop_id": "295498",
+    "stop_name": "花園新城",
+    "position": {
+      "lat": 24.7675732,
+      "lon": 120.9790345
+    }
+  },
+  {
+    "stop_uid": "HSZ295499",
+    "stop_id": "295499",
+    "stop_name": "青草湖",
+    "position": {
+      "lat": 24.7706651291508,
+      "lon": 120.973185131282
+    }
+  },
+  {
+    "stop_uid": "HSZ295500",
+    "stop_id": "295500",
+    "stop_name": "美麗家園",
+    "position": {
+      "lat": 24.7716132105364,
+      "lon": 120.968146355819
+    }
+  },
+  {
+    "stop_uid": "HSZ295501",
+    "stop_id": "295501",
+    "stop_name": "黃帝神宮",
+    "position": {
+      "lat": 24.7710369375012,
+      "lon": 120.971184635581
+    }
+  },
+  {
+    "stop_uid": "HSZ295502",
+    "stop_id": "295502",
+    "stop_name": "亞美佳社區",
+    "position": {
+      "lat": 24.7690255335834,
+      "lon": 120.97729367361
+    }
+  },
+  {
+    "stop_uid": "HSZ295503",
+    "stop_id": "295503",
+    "stop_name": "青草湖",
+    "position": {
+      "lat": 24.7707325831056,
+      "lon": 120.973243906745
+    }
+  },
+  {
+    "stop_uid": "HSZ295504",
+    "stop_id": "295504",
+    "stop_name": "美麗家園",
+    "position": {
+      "lat": 24.7717671963249,
+      "lon": 120.968081457672
+    }
+  },
+  {
+    "stop_uid": "HSZ295505",
+    "stop_id": "295505",
+    "stop_name": "黃帝神宮",
+    "position": {
+      "lat": 24.771143210435,
+      "lon": 120.97115046627
+    }
+  },
+  {
+    "stop_uid": "HSZ295506",
+    "stop_id": "295506",
+    "stop_name": "大潤發2站",
+    "position": {
+      "lat": 24.805897,
+      "lon": 120.983924
+    }
+  },
+  {
+    "stop_uid": "HSZ295507",
+    "stop_id": "295507",
+    "stop_name": "花園新城",
+    "position": {
+      "lat": 24.76794038,
+      "lon": 120.9787275
+    }
+  },
+  {
+    "stop_uid": "HSZ295572",
+    "stop_id": "295572",
+    "stop_name": "前溪社區",
+    "position": {
+      "lat": 24.81521,
+      "lon": 120.98657
+    }
+  },
+  {
+    "stop_uid": "HSZ295578",
+    "stop_id": "295578",
+    "stop_name": "經國路口",
+    "position": {
+      "lat": 24.81766,
+      "lon": 120.99453
+    }
+  },
+  {
+    "stop_uid": "HSZ295584",
+    "stop_id": "295584",
+    "stop_name": "溪埔",
+    "position": {
+      "lat": 24.81527,
+      "lon": 120.98987
+    }
+  },
+  {
+    "stop_uid": "HSZ295606",
+    "stop_id": "295606",
+    "stop_name": "香山高中",
+    "position": {
+      "lat": 24.785,
+      "lon": 120.93081
+    }
+  },
+  {
+    "stop_uid": "HSZ295615",
+    "stop_id": "295615",
+    "stop_name": "獅頭橋",
+    "position": {
+      "lat": 24.77622,
+      "lon": 120.94392
+    }
+  },
+  {
+    "stop_uid": "HSZ295638",
+    "stop_id": "295638",
+    "stop_name": "獅頭橋",
+    "position": {
+      "lat": 24.776184,
+      "lon": 120.94353
+    }
+  },
+  {
+    "stop_uid": "HSZ295766",
+    "stop_id": "295766",
+    "stop_name": "同步輻射中心",
+    "position": {
+      "lat": 24.783593,
+      "lon": 120.994394
+    }
+  },
+  {
+    "stop_uid": "HSZ295780",
+    "stop_id": "295780",
+    "stop_name": "同步輻射中心",
+    "position": {
+      "lat": 24.783795,
+      "lon": 120.994465
+    }
+  },
+  {
+    "stop_uid": "HSZ295845",
+    "stop_id": "295845",
+    "stop_name": "中興橋",
+    "position": {
+      "lat": 24.7827378240616,
+      "lon": 120.967184781579
+    }
+  },
+  {
+    "stop_uid": "HSZ295847",
+    "stop_id": "295847",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.79795,
+      "lon": 120.97011
+    }
+  },
+  {
+    "stop_uid": "HSZ295849",
+    "stop_id": "295849",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.7969620829497,
+      "lon": 120.9685471
+    }
+  },
+  {
+    "stop_uid": "HSZ295850",
+    "stop_id": "295850",
+    "stop_name": "育賢國中",
+    "position": {
+      "lat": 24.789337,
+      "lon": 120.966071
+    }
+  },
+  {
+    "stop_uid": "HSZ295851",
+    "stop_id": "295851",
+    "stop_name": "忠孝社區",
+    "position": {
+      "lat": 24.7913860171986,
+      "lon": 120.964037351837
+    }
+  },
+  {
+    "stop_uid": "HSZ295852",
+    "stop_id": "295852",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.79945,
+      "lon": 120.97261
+    }
+  },
+  {
+    "stop_uid": "HSZ295853",
+    "stop_id": "295853",
+    "stop_name": "南光新村",
+    "position": {
+      "lat": 24.787182447132,
+      "lon": 120.967443703041
+    }
+  },
+  {
+    "stop_uid": "HSZ295854",
+    "stop_id": "295854",
+    "stop_name": "客運補習班",
+    "position": {
+      "lat": 24.78026668,
+      "lon": 120.9672034
+    }
+  },
+  {
+    "stop_uid": "HSZ295855",
+    "stop_id": "295855",
+    "stop_name": "後站(公園路口)",
+    "position": {
+      "lat": 24.801437,
+      "lon": 120.975766
+    }
+  },
+  {
+    "stop_uid": "HSZ295856",
+    "stop_id": "295856",
+    "stop_name": "柴橋",
+    "position": {
+      "lat": 24.7736217,
+      "lon": 120.9664549
+    }
+  },
+  {
+    "stop_uid": "HSZ295857",
+    "stop_id": "295857",
+    "stop_name": "御史崎",
+    "position": {
+      "lat": 24.78518834,
+      "lon": 120.9675249
+    }
+  },
+  {
+    "stop_uid": "HSZ295859",
+    "stop_id": "295859",
+    "stop_name": "景湖別墅",
+    "position": {
+      "lat": 24.77714,
+      "lon": 120.96729
+    }
+  },
+  {
+    "stop_uid": "HSZ295860",
+    "stop_id": "295860",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.7953300128304,
+      "lon": 120.965922862426
+    }
+  },
+  {
+    "stop_uid": "HSZ295861",
+    "stop_id": "295861",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.800232,
+      "lon": 120.973903
+    }
+  },
+  {
+    "stop_uid": "HSZ295862",
+    "stop_id": "295862",
+    "stop_name": "中興橋",
+    "position": {
+      "lat": 24.782734,
+      "lon": 120.967274
+    }
+  },
+  {
+    "stop_uid": "HSZ295864",
+    "stop_id": "295864",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.7973999868175,
+      "lon": 120.969500728836
+    }
+  },
+  {
+    "stop_uid": "HSZ295866",
+    "stop_id": "295866",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.7968600771195,
+      "lon": 120.9686151
+    }
+  },
+  {
+    "stop_uid": "HSZ295867",
+    "stop_id": "295867",
+    "stop_name": "育賢國中",
+    "position": {
+      "lat": 24.78977435,
+      "lon": 120.9657851
+    }
+  },
+  {
+    "stop_uid": "HSZ295868",
+    "stop_id": "295868",
+    "stop_name": "忠孝社區",
+    "position": {
+      "lat": 24.7914607798044,
+      "lon": 120.96411682209
+    }
+  },
+  {
+    "stop_uid": "HSZ295869",
+    "stop_id": "295869",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.79935391,
+      "lon": 120.972672419643
+    }
+  },
+  {
+    "stop_uid": "HSZ295870",
+    "stop_id": "295870",
+    "stop_name": "南光新村",
+    "position": {
+      "lat": 24.78724435,
+      "lon": 120.9675319
+    }
+  },
+  {
+    "stop_uid": "HSZ295871",
+    "stop_id": "295871",
+    "stop_name": "客運補習班",
+    "position": {
+      "lat": 24.78041808,
+      "lon": 120.967219
+    }
+  },
+  {
+    "stop_uid": "HSZ295872",
+    "stop_id": "295872",
+    "stop_name": "後站(公園路口)",
+    "position": {
+      "lat": 24.801325,
+      "lon": 120.9758
+    }
+  },
+  {
+    "stop_uid": "HSZ295873",
+    "stop_id": "295873",
+    "stop_name": "柴橋",
+    "position": {
+      "lat": 24.7735173,
+      "lon": 120.9664957
+    }
+  },
+  {
+    "stop_uid": "HSZ295874",
+    "stop_id": "295874",
+    "stop_name": "御史崎",
+    "position": {
+      "lat": 24.78542071,
+      "lon": 120.9676402
+    }
+  },
+  {
+    "stop_uid": "HSZ295876",
+    "stop_id": "295876",
+    "stop_name": "景湖別墅",
+    "position": {
+      "lat": 24.77721,
+      "lon": 120.96734
+    }
+  },
+  {
+    "stop_uid": "HSZ295877",
+    "stop_id": "295877",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.7958981613167,
+      "lon": 120.967021428241
+    }
+  },
+  {
+    "stop_uid": "HSZ295878",
+    "stop_id": "295878",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.80051,
+      "lon": 120.974456
+    }
+  },
+  {
+    "stop_uid": "HSZ296965",
+    "stop_id": "296965",
+    "stop_name": "北大橋",
+    "position": {
+      "lat": 24.81033,
+      "lon": 120.96865
+    }
+  },
+  {
+    "stop_uid": "HSZ296966",
+    "stop_id": "296966",
+    "stop_name": "北大橋",
+    "position": {
+      "lat": 24.80984,
+      "lon": 120.96848
+    }
+  },
+  {
+    "stop_uid": "HSZ296967",
+    "stop_id": "296967",
+    "stop_name": "地方法院",
+    "position": {
+      "lat": 24.80757,
+      "lon": 120.96778
+    }
+  },
+  {
+    "stop_uid": "HSZ296968",
+    "stop_id": "296968",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.80524,
+      "lon": 120.9695
+    }
+  },
+  {
+    "stop_uid": "HSZ296969",
+    "stop_id": "296969",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805335,
+      "lon": 120.96969
+    }
+  },
+  {
+    "stop_uid": "HSZ296970",
+    "stop_id": "296970",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.80332,
+      "lon": 120.9711
+    }
+  },
+  {
+    "stop_uid": "HSZ296971",
+    "stop_id": "296971",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.80324,
+      "lon": 120.97124
+    }
+  },
+  {
+    "stop_uid": "HSZ296972",
+    "stop_id": "296972",
+    "stop_name": "東區區公所",
+    "position": {
+      "lat": 24.80529,
+      "lon": 120.9732
+    }
+  },
+  {
+    "stop_uid": "HSZ296974",
+    "stop_id": "296974",
+    "stop_name": "東區區公所",
+    "position": {
+      "lat": 24.80531,
+      "lon": 120.97301
+    }
+  },
+  {
+    "stop_uid": "HSZ296975",
+    "stop_id": "296975",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.802238,
+      "lon": 120.97866
+    }
+  },
+  {
+    "stop_uid": "HSZ296977",
+    "stop_id": "296977",
+    "stop_name": "二分局",
+    "position": {
+      "lat": 24.80127,
+      "lon": 120.9859
+    }
+  },
+  {
+    "stop_uid": "HSZ296978",
+    "stop_id": "296978",
+    "stop_name": "二分局",
+    "position": {
+      "lat": 24.80171,
+      "lon": 120.98553
+    }
+  },
+  {
+    "stop_uid": "HSZ296979",
+    "stop_id": "296979",
+    "stop_name": "工研院光復院區",
+    "position": {
+      "lat": 24.80039,
+      "lon": 120.988751
+    }
+  },
+  {
+    "stop_uid": "HSZ296980",
+    "stop_id": "296980",
+    "stop_name": "工研院光復院區",
+    "position": {
+      "lat": 24.80069,
+      "lon": 120.98866
+    }
+  },
+  {
+    "stop_uid": "HSZ296981",
+    "stop_id": "296981",
+    "stop_name": "馬偕醫院",
+    "position": {
+      "lat": 24.79962,
+      "lon": 120.99183
+    }
+  },
+  {
+    "stop_uid": "HSZ296982",
+    "stop_id": "296982",
+    "stop_name": "海軍新村",
+    "position": {
+      "lat": 24.79924,
+      "lon": 120.992243
+    }
+  },
+  {
+    "stop_uid": "HSZ296983",
+    "stop_id": "296983",
+    "stop_name": "光復中學",
+    "position": {
+      "lat": 24.79816,
+      "lon": 120.99456
+    }
+  },
+  {
+    "stop_uid": "HSZ296984",
+    "stop_id": "296984",
+    "stop_name": "光復中學",
+    "position": {
+      "lat": 24.79833,
+      "lon": 120.99481
+    }
+  },
+  {
+    "stop_uid": "HSZ296985",
+    "stop_id": "296985",
+    "stop_name": "清華大學",
+    "position": {
+      "lat": 24.79695,
+      "lon": 120.996603
+    }
+  },
+  {
+    "stop_uid": "HSZ296986",
+    "stop_id": "296986",
+    "stop_name": "清華大學",
+    "position": {
+      "lat": 24.797098,
+      "lon": 120.996645
+    }
+  },
+  {
+    "stop_uid": "HSZ296987",
+    "stop_id": "296987",
+    "stop_name": "金城新村口",
+    "position": {
+      "lat": 24.79382,
+      "lon": 121.00045
+    }
+  },
+  {
+    "stop_uid": "HSZ296988",
+    "stop_id": "296988",
+    "stop_name": "金城新村口",
+    "position": {
+      "lat": 24.79372,
+      "lon": 121.00094
+    }
+  },
+  {
+    "stop_uid": "HSZ296989",
+    "stop_id": "296989",
+    "stop_name": "陽明交大光復路",
+    "position": {
+      "lat": 24.79176,
+      "lon": 121.00324
+    }
+  },
+  {
+    "stop_uid": "HSZ296990",
+    "stop_id": "296990",
+    "stop_name": "陽明交大光復路",
+    "position": {
+      "lat": 24.79256,
+      "lon": 121.00263
+    }
+  },
+  {
+    "stop_uid": "HSZ296991",
+    "stop_id": "296991",
+    "stop_name": "科學園區",
+    "position": {
+      "lat": 24.78819,
+      "lon": 121.00837
+    }
+  },
+  {
+    "stop_uid": "HSZ296992",
+    "stop_id": "296992",
+    "stop_name": "科學園區",
+    "position": {
+      "lat": 24.78885,
+      "lon": 121.00801
+    }
+  },
+  {
+    "stop_uid": "HSZ296997",
+    "stop_id": "296997",
+    "stop_name": "慈雲埔頂二路口",
+    "position": {
+      "lat": 24.7909,
+      "lon": 121.0121
+    }
+  },
+  {
+    "stop_uid": "HSZ296998",
+    "stop_id": "296998",
+    "stop_name": "慈雲埔頂二路口",
+    "position": {
+      "lat": 24.79111,
+      "lon": 121.01186
+    }
+  },
+  {
+    "stop_uid": "HSZ296999",
+    "stop_id": "296999",
+    "stop_name": "文教新村",
+    "position": {
+      "lat": 24.79542,
+      "lon": 120.99878
+    }
+  },
+  {
+    "stop_uid": "HSZ297000",
+    "stop_id": "297000",
+    "stop_name": "好市多",
+    "position": {
+      "lat": 24.79254,
+      "lon": 121.01266
+    }
+  },
+  {
+    "stop_uid": "HSZ297001",
+    "stop_id": "297001",
+    "stop_name": "好市多",
+    "position": {
+      "lat": 24.79351,
+      "lon": 121.01262
+    }
+  },
+  {
+    "stop_uid": "HSZ297003",
+    "stop_id": "297003",
+    "stop_name": "文興嘉興路口",
+    "position": {
+      "lat": 24.81279,
+      "lon": 121.02379
+    }
+  },
+  {
+    "stop_uid": "HSZ297004",
+    "stop_id": "297004",
+    "stop_name": "文興嘉興路口",
+    "position": {
+      "lat": 24.812466,
+      "lon": 121.02487
+    }
+  },
+  {
+    "stop_uid": "HSZ297007",
+    "stop_id": "297007",
+    "stop_name": "新瓦屋(文興路)",
+    "position": {
+      "lat": 24.81115,
+      "lon": 121.02693
+    }
+  },
+  {
+    "stop_uid": "HSZ297008",
+    "stop_id": "297008",
+    "stop_name": "新瓦屋(文興路)",
+    "position": {
+      "lat": 24.8114,
+      "lon": 121.02694
+    }
+  },
+  {
+    "stop_uid": "HSZ297010",
+    "stop_id": "297010",
+    "stop_name": "哈洛德(嘉豐十一路)",
+    "position": {
+      "lat": 24.808466,
+      "lon": 121.035722
+    }
+  },
+  {
+    "stop_uid": "HSZ297011",
+    "stop_id": "297011",
+    "stop_name": "哈洛德(文興路)",
+    "position": {
+      "lat": 24.8078,
+      "lon": 121.03477
+    }
+  },
+  {
+    "stop_uid": "HSZ297013",
+    "stop_id": "297013",
+    "stop_name": "高鐵新竹站",
+    "position": {
+      "lat": 24.80714,
+      "lon": 121.04048
+    }
+  },
+  {
+    "stop_uid": "HSZ297014",
+    "stop_id": "297014",
+    "stop_name": "文興嘉豐南路口",
+    "position": {
+      "lat": 24.80876,
+      "lon": 121.03186
+    }
+  },
+  {
+    "stop_uid": "HSZ297015",
+    "stop_id": "297015",
+    "stop_name": "文興嘉豐南路口",
+    "position": {
+      "lat": 24.808771,
+      "lon": 121.032142
+    }
+  },
+  {
+    "stop_uid": "HSZ298886",
+    "stop_id": "298886",
+    "stop_name": "經國路口",
+    "position": {
+      "lat": 24.81648,
+      "lon": 120.99384
+    }
+  },
+  {
+    "stop_uid": "HSZ298887",
+    "stop_id": "298887",
+    "stop_name": "溪埔",
+    "position": {
+      "lat": 24.81539,
+      "lon": 120.98982
+    }
+  },
+  {
+    "stop_uid": "HSZ298888",
+    "stop_id": "298888",
+    "stop_name": "前溪社區",
+    "position": {
+      "lat": 24.81514,
+      "lon": 120.98695
+    }
+  },
+  {
+    "stop_uid": "HSZ298889",
+    "stop_id": "298889",
+    "stop_name": "自由經國路口",
+    "position": {
+      "lat": 24.81407,
+      "lon": 120.97989
+    }
+  },
+  {
+    "stop_uid": "HSZ298890",
+    "stop_id": "298890",
+    "stop_name": "自由經國路口",
+    "position": {
+      "lat": 24.81405,
+      "lon": 120.98008
+    }
+  },
+  {
+    "stop_uid": "HSZ298891",
+    "stop_id": "298891",
+    "stop_name": "三民國中",
+    "position": {
+      "lat": 24.811661,
+      "lon": 120.980237
+    }
+  },
+  {
+    "stop_uid": "HSZ298892",
+    "stop_id": "298892",
+    "stop_name": "巨城購物",
+    "position": {
+      "lat": 24.80922,
+      "lon": 120.97569
+    }
+  },
+  {
+    "stop_uid": "HSZ298893",
+    "stop_id": "298893",
+    "stop_name": "美術館",
+    "position": {
+      "lat": 24.80638,
+      "lon": 120.96968
+    }
+  },
+  {
+    "stop_uid": "HSZ298894",
+    "stop_id": "298894",
+    "stop_name": "美術館",
+    "position": {
+      "lat": 24.80638,
+      "lon": 120.96984
+    }
+  },
+  {
+    "stop_uid": "HSZ298897",
+    "stop_id": "298897",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.805606,
+      "lon": 120.96949
+    }
+  },
+  {
+    "stop_uid": "HSZ298898",
+    "stop_id": "298898",
+    "stop_name": "新竹車站",
+    "position": {
+      "lat": 24.803072,
+      "lon": 120.97111
+    }
+  },
+  {
+    "stop_uid": "HSZ298899",
+    "stop_id": "298899",
+    "stop_name": "新竹車站",
+    "position": {
+      "lat": 24.80377,
+      "lon": 120.97107
+    }
+  },
+  {
+    "stop_uid": "HSZ298900",
+    "stop_id": "298900",
+    "stop_name": "新竹下站",
+    "position": {
+      "lat": 24.80067,
+      "lon": 120.96925
+    }
+  },
+  {
+    "stop_uid": "HSZ298901",
+    "stop_id": "298901",
+    "stop_name": "新竹下站",
+    "position": {
+      "lat": 24.80047,
+      "lon": 120.96938
+    }
+  },
+  {
+    "stop_uid": "HSZ298902",
+    "stop_id": "298902",
+    "stop_name": "林森路口",
+    "position": {
+      "lat": 24.79697,
+      "lon": 120.96186
+    }
+  },
+  {
+    "stop_uid": "HSZ298903",
+    "stop_id": "298903",
+    "stop_name": "農會",
+    "position": {
+      "lat": 24.79658,
+      "lon": 120.95457
+    }
+  },
+  {
+    "stop_uid": "HSZ298904",
+    "stop_id": "298904",
+    "stop_name": "中埔",
+    "position": {
+      "lat": 24.794913,
+      "lon": 120.948043
+    }
+  },
+  {
+    "stop_uid": "HSZ298905",
+    "stop_id": "298905",
+    "stop_name": "中埔",
+    "position": {
+      "lat": 24.7954,
+      "lon": 120.94953
+    }
+  },
+  {
+    "stop_uid": "HSZ298906",
+    "stop_id": "298906",
+    "stop_name": "中埔口",
+    "position": {
+      "lat": 24.7938,
+      "lon": 120.94534
+    }
+  },
+  {
+    "stop_uid": "HSZ298907",
+    "stop_id": "298907",
+    "stop_name": "牛埔口",
+    "position": {
+      "lat": 24.79255,
+      "lon": 120.94212
+    }
+  },
+  {
+    "stop_uid": "HSZ298908",
+    "stop_id": "298908",
+    "stop_name": "牛埔口",
+    "position": {
+      "lat": 24.79215,
+      "lon": 120.94171
+    }
+  },
+  {
+    "stop_uid": "HSZ298909",
+    "stop_id": "298909",
+    "stop_name": "金正順診所",
+    "position": {
+      "lat": 24.789453,
+      "lon": 120.931801
+    }
+  },
+  {
+    "stop_uid": "HSZ298910",
+    "stop_id": "298910",
+    "stop_name": "金正順診所",
+    "position": {
+      "lat": 24.78944,
+      "lon": 120.93201
+    }
+  },
+  {
+    "stop_uid": "HSZ298911",
+    "stop_id": "298911",
+    "stop_name": "三姓橋火車站",
+    "position": {
+      "lat": 24.78633,
+      "lon": 120.92926
+    }
+  },
+  {
+    "stop_uid": "HSZ298912",
+    "stop_id": "298912",
+    "stop_name": "三姓橋火車站",
+    "position": {
+      "lat": 24.78656,
+      "lon": 120.92948
+    }
+  },
+  {
+    "stop_uid": "HSZ298913",
+    "stop_id": "298913",
+    "stop_name": "香山高中",
+    "position": {
+      "lat": 24.78518,
+      "lon": 120.9306
+    }
+  },
+  {
+    "stop_uid": "HSZ298914",
+    "stop_id": "298914",
+    "stop_name": "隘口",
+    "position": {
+      "lat": 24.78274,
+      "lon": 120.93298
+    }
+  },
+  {
+    "stop_uid": "HSZ298916",
+    "stop_id": "298916",
+    "stop_name": "韭菜坑",
+    "position": {
+      "lat": 24.76978,
+      "lon": 120.94722
+    }
+  },
+  {
+    "stop_uid": "HSZ298917",
+    "stop_id": "298917",
+    "stop_name": "韭菜坑",
+    "position": {
+      "lat": 24.76978,
+      "lon": 120.94731
+    }
+  },
+  {
+    "stop_uid": "HSZ298918",
+    "stop_id": "298918",
+    "stop_name": "茄苳湖",
+    "position": {
+      "lat": 24.75783,
+      "lon": 120.9482
+    }
+  },
+  {
+    "stop_uid": "HSZ298919",
+    "stop_id": "298919",
+    "stop_name": "中華大學宿舍",
+    "position": {
+      "lat": 24.7579,
+      "lon": 120.95015
+    }
+  },
+  {
+    "stop_uid": "HSZ298920",
+    "stop_id": "298920",
+    "stop_name": "中華大學宿舍",
+    "position": {
+      "lat": 24.7579,
+      "lon": 120.95015
+    }
+  },
+  {
+    "stop_uid": "HSZ298922",
+    "stop_id": "298922",
+    "stop_name": "香山轉運站",
+    "position": {
+      "lat": 24.75611,
+      "lon": 120.95331
+    }
+  },
+  {
+    "stop_uid": "HSZ299150",
+    "stop_id": "299150",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803419,
+      "lon": 120.971964
+    }
+  },
+  {
+    "stop_uid": "HSZ299152",
+    "stop_id": "299152",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803167,
+      "lon": 120.97187
+    }
+  },
+  {
+    "stop_uid": "HSZ299153",
+    "stop_id": "299153",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ299155",
+    "stop_id": "299155",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ299168",
+    "stop_id": "299168",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.80526927,
+      "lon": 120.9697621
+    }
+  },
+  {
+    "stop_uid": "HSZ299891",
+    "stop_id": "299891",
+    "stop_name": "龍山里",
+    "position": {
+      "lat": 24.789028,
+      "lon": 121.011831
+    }
+  },
+  {
+    "stop_uid": "HSZ300148",
+    "stop_id": "300148",
+    "stop_name": "東香南街口",
+    "position": {
+      "lat": 24.7620792,
+      "lon": 120.949791
+    }
+  },
+  {
+    "stop_uid": "HSZ300149",
+    "stop_id": "300149",
+    "stop_name": "東香南街口",
+    "position": {
+      "lat": 24.7620068,
+      "lon": 120.949913
+    }
+  },
+  {
+    "stop_uid": "HSZ300239",
+    "stop_id": "300239",
+    "stop_name": "三姓橋火車站",
+    "position": {
+      "lat": 24.78632878,
+      "lon": 120.9294585
+    }
+  },
+  {
+    "stop_uid": "HSZ300241",
+    "stop_id": "300241",
+    "stop_name": "三姓橋火車站",
+    "position": {
+      "lat": 24.78656,
+      "lon": 120.92948
+    }
+  },
+  {
+    "stop_uid": "HSZ300376",
+    "stop_id": "300376",
+    "stop_name": "榕樹下",
+    "position": {
+      "lat": 24.77227,
+      "lon": 120.94481
+    }
+  },
+  {
+    "stop_uid": "HSZ300377",
+    "stop_id": "300377",
+    "stop_name": "榕樹下",
+    "position": {
+      "lat": 24.77261,
+      "lon": 120.94478
+    }
+  },
+  {
+    "stop_uid": "HSZ300379",
+    "stop_id": "300379",
+    "stop_name": "茄苳湖",
+    "position": {
+      "lat": 24.75773,
+      "lon": 120.94813
+    }
+  },
+  {
+    "stop_uid": "HSZ300408",
+    "stop_id": "300408",
+    "stop_name": "大庄里活動中心",
+    "position": {
+      "lat": 24.79292674,
+      "lon": 120.9209036
+    }
+  },
+  {
+    "stop_uid": "HSZ300409",
+    "stop_id": "300409",
+    "stop_name": "大庄里活動中心",
+    "position": {
+      "lat": 24.7929866,
+      "lon": 120.920968
+    }
+  },
+  {
+    "stop_uid": "HSZ300480",
+    "stop_id": "300480",
+    "stop_name": "香山坑",
+    "position": {
+      "lat": 24.77841,
+      "lon": 120.93818
+    }
+  },
+  {
+    "stop_uid": "HSZ300481",
+    "stop_id": "300481",
+    "stop_name": "香山坑",
+    "position": {
+      "lat": 24.77847,
+      "lon": 120.9382
+    }
+  },
+  {
+    "stop_uid": "HSZ300502",
+    "stop_id": "300502",
+    "stop_name": "仙宮里",
+    "position": {
+      "lat": 24.78446879,
+      "lon": 120.9905488
+    }
+  },
+  {
+    "stop_uid": "HSZ300627",
+    "stop_id": "300627",
+    "stop_name": "獅頭橋",
+    "position": {
+      "lat": 24.77628,
+      "lon": 120.94333
+    }
+  },
+  {
+    "stop_uid": "HSZ300628",
+    "stop_id": "300628",
+    "stop_name": "獅頭橋",
+    "position": {
+      "lat": 24.77634,
+      "lon": 120.94354
+    }
+  },
+  {
+    "stop_uid": "HSZ300709",
+    "stop_id": "300709",
+    "stop_name": "老人大學",
+    "position": {
+      "lat": 24.80227,
+      "lon": 120.97838
+    }
+  },
+  {
+    "stop_uid": "HSZ300710",
+    "stop_id": "300710",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.80230994,
+      "lon": 120.9784069
+    }
+  },
+  {
+    "stop_uid": "HSZ301550",
+    "stop_id": "301550",
+    "stop_name": "新竹轉運站",
+    "position": {
+      "lat": 24.801228,
+      "lon": 120.972854
+    }
+  },
+  {
+    "stop_uid": "HSZ301659",
+    "stop_id": "301659",
+    "stop_name": "老人大學",
+    "position": {
+      "lat": 24.802238,
+      "lon": 120.978408
+    }
+  },
+  {
+    "stop_uid": "HSZ301919",
+    "stop_id": "301919",
+    "stop_name": "經國北大路口",
+    "position": {
+      "lat": 24.81288,
+      "lon": 120.97478
+    }
+  },
+  {
+    "stop_uid": "HSZ301949",
+    "stop_id": "301949",
+    "stop_name": "磐石高中",
+    "position": {
+      "lat": 24.81042,
+      "lon": 120.95614
+    }
+  },
+  {
+    "stop_uid": "HSZ301950",
+    "stop_id": "301950",
+    "stop_name": "竹光國中",
+    "position": {
+      "lat": 24.80756,
+      "lon": 120.95562
+    }
+  },
+  {
+    "stop_uid": "HSZ301951",
+    "stop_id": "301951",
+    "stop_name": "竹光國中",
+    "position": {
+      "lat": 24.80764,
+      "lon": 120.95585
+    }
+  },
+  {
+    "stop_uid": "HSZ301952",
+    "stop_id": "301952",
+    "stop_name": "經國西大路口",
+    "position": {
+      "lat": 24.80848,
+      "lon": 120.95933
+    }
+  },
+  {
+    "stop_uid": "HSZ301953",
+    "stop_id": "301953",
+    "stop_name": "經國西大路口",
+    "position": {
+      "lat": 24.80868,
+      "lon": 120.95917
+    }
+  },
+  {
+    "stop_uid": "HSZ302014",
+    "stop_id": "302014",
+    "stop_name": "竹光3站",
+    "position": {
+      "lat": 24.81166,
+      "lon": 120.95761
+    }
+  },
+  {
+    "stop_uid": "HSZ302067",
+    "stop_id": "302067",
+    "stop_name": "煙波庭",
+    "position": {
+      "lat": 24.78480082,
+      "lon": 120.980272
+    }
+  },
+  {
+    "stop_uid": "HSZ302068",
+    "stop_id": "302068",
+    "stop_name": "建華社區",
+    "position": {
+      "lat": 24.78804501,
+      "lon": 120.9754122
+    }
+  },
+  {
+    "stop_uid": "HSZ302069",
+    "stop_id": "302069",
+    "stop_name": "新竹轉運站",
+    "position": {
+      "lat": 24.801228,
+      "lon": 120.972854
+    }
+  },
+  {
+    "stop_uid": "HSZ302070",
+    "stop_id": "302070",
+    "stop_name": "大潤發2站",
+    "position": {
+      "lat": 24.805897,
+      "lon": 120.983924
+    }
+  },
+  {
+    "stop_uid": "HSZ302322",
+    "stop_id": "302322",
+    "stop_name": "香山行政大樓",
+    "position": {
+      "lat": 24.79411,
+      "lon": 120.94297
+    }
+  },
+  {
+    "stop_uid": "HSZ302323",
+    "stop_id": "302323",
+    "stop_name": "香山行政大樓",
+    "position": {
+      "lat": 24.79421,
+      "lon": 120.94293
+    }
+  },
+  {
+    "stop_uid": "HSZ302329",
+    "stop_id": "302329",
+    "stop_name": "千甲車站",
+    "position": {
+      "lat": 24.80737,
+      "lon": 121.00208
+    }
+  },
+  {
+    "stop_uid": "HSZ302510",
+    "stop_id": "302510",
+    "stop_name": "新竹區漁會",
+    "position": {
+      "lat": 24.84640576,
+      "lon": 120.9251656
+    }
+  },
+  {
+    "stop_uid": "HSZ302630",
+    "stop_id": "302630",
+    "stop_name": "湳雅公園(大潤發)",
+    "position": {
+      "lat": 24.81947,
+      "lon": 120.96889
+    }
+  },
+  {
+    "stop_uid": "HSZ302631",
+    "stop_id": "302631",
+    "stop_name": "湳雅公園(大潤發)",
+    "position": {
+      "lat": 24.8191097,
+      "lon": 120.9694255
+    }
+  },
+  {
+    "stop_uid": "HSZ302733",
+    "stop_id": "302733",
+    "stop_name": "千甲社區",
+    "position": {
+      "lat": 24.80762,
+      "lon": 121.0069
+    }
+  },
+  {
+    "stop_uid": "HSZ302734",
+    "stop_id": "302734",
+    "stop_name": "千甲社區",
+    "position": {
+      "lat": 24.80758,
+      "lon": 121.00665
+    }
+  },
+  {
+    "stop_uid": "HSZ302735",
+    "stop_id": "302735",
+    "stop_name": "北新竹後站",
+    "position": {
+      "lat": 24.80752,
+      "lon": 120.98456
+    }
+  },
+  {
+    "stop_uid": "HSZ302736",
+    "stop_id": "302736",
+    "stop_name": "金城一路站",
+    "position": {
+      "lat": 24.79501016,
+      "lon": 121.001952
+    }
+  },
+  {
+    "stop_uid": "HSZ302737",
+    "stop_id": "302737",
+    "stop_name": "金城一路站",
+    "position": {
+      "lat": 24.79490297,
+      "lon": 121.0020672
+    }
+  },
+  {
+    "stop_uid": "HSZ302780",
+    "stop_id": "302780",
+    "stop_name": "北新竹後站",
+    "position": {
+      "lat": 24.80737318,
+      "lon": 120.9846137
+    }
+  },
+  {
+    "stop_uid": "HSZ303432",
+    "stop_id": "303432",
+    "stop_name": "陽明清境",
+    "position": {
+      "lat": 24.77916502,
+      "lon": 120.9596573
+    }
+  },
+  {
+    "stop_uid": "HSZ303577",
+    "stop_id": "303577",
+    "stop_name": "北校門",
+    "position": {
+      "lat": 24.796231,
+      "lon": 120.99657
+    }
+  },
+  {
+    "stop_uid": "HSZ303578",
+    "stop_id": "303578",
+    "stop_name": "第二綜合大樓",
+    "position": {
+      "lat": 24.794003,
+      "lon": 120.993745
+    }
+  },
+  {
+    "stop_uid": "HSZ303579",
+    "stop_id": "303579",
+    "stop_name": "第二綜合大樓",
+    "position": {
+      "lat": 24.794098,
+      "lon": 120.993702
+    }
+  },
+  {
+    "stop_uid": "HSZ303580",
+    "stop_id": "303580",
+    "stop_name": "生科館(人社院)",
+    "position": {
+      "lat": 24.789329,
+      "lon": 120.989681
+    }
+  },
+  {
+    "stop_uid": "HSZ303581",
+    "stop_id": "303581",
+    "stop_name": "生科館(人社院)",
+    "position": {
+      "lat": 24.789443,
+      "lon": 120.989571
+    }
+  },
+  {
+    "stop_uid": "HSZ303582",
+    "stop_id": "303582",
+    "stop_name": "台積館",
+    "position": {
+      "lat": 24.786945,
+      "lon": 120.988559
+    }
+  },
+  {
+    "stop_uid": "HSZ303583",
+    "stop_id": "303583",
+    "stop_name": "台積館",
+    "position": {
+      "lat": 24.786894,
+      "lon": 120.988411
+    }
+  },
+  {
+    "stop_uid": "HSZ303586",
+    "stop_id": "303586",
+    "stop_name": "雞蛋面",
+    "position": {
+      "lat": 24.787007,
+      "lon": 120.986317
+    }
+  },
+  {
+    "stop_uid": "HSZ303587",
+    "stop_id": "303587",
+    "stop_name": "雞蛋面",
+    "position": {
+      "lat": 24.787355,
+      "lon": 120.985877
+    }
+  },
+  {
+    "stop_uid": "HSZ303588",
+    "stop_id": "303588",
+    "stop_name": "高峰植物園",
+    "position": {
+      "lat": 24.788347,
+      "lon": 120.981956
+    }
+  },
+  {
+    "stop_uid": "HSZ303589",
+    "stop_id": "303589",
+    "stop_name": "高峰植物園",
+    "position": {
+      "lat": 24.788586,
+      "lon": 120.981918
+    }
+  },
+  {
+    "stop_uid": "HSZ303590",
+    "stop_id": "303590",
+    "stop_name": "萬佛寺",
+    "position": {
+      "lat": 24.790131,
+      "lon": 120.977287
+    }
+  },
+  {
+    "stop_uid": "HSZ303591",
+    "stop_id": "303591",
+    "stop_name": "萬佛寺",
+    "position": {
+      "lat": 24.790455,
+      "lon": 120.977008
+    }
+  },
+  {
+    "stop_uid": "HSZ303592",
+    "stop_id": "303592",
+    "stop_name": "介壽山口",
+    "position": {
+      "lat": 24.792084,
+      "lon": 120.975476
+    }
+  },
+  {
+    "stop_uid": "HSZ303593",
+    "stop_id": "303593",
+    "stop_name": "介壽山口",
+    "position": {
+      "lat": 24.792088,
+      "lon": 120.975638
+    }
+  },
+  {
+    "stop_uid": "HSZ303594",
+    "stop_id": "303594",
+    "stop_name": "建華國中",
+    "position": {
+      "lat": 24.794329,
+      "lon": 120.976226
+    }
+  },
+  {
+    "stop_uid": "HSZ303595",
+    "stop_id": "303595",
+    "stop_name": "建華國中",
+    "position": {
+      "lat": 24.794028,
+      "lon": 120.9758
+    }
+  },
+  {
+    "stop_uid": "HSZ303596",
+    "stop_id": "303596",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.798576,
+      "lon": 120.977805
+    }
+  },
+  {
+    "stop_uid": "HSZ303597",
+    "stop_id": "303597",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.798593,
+      "lon": 120.978028
+    }
+  },
+  {
+    "stop_uid": "HSZ303598",
+    "stop_id": "303598",
+    "stop_name": "新竹轉運站",
+    "position": {
+      "lat": 24.80097212,
+      "lon": 120.9731062
+    }
+  },
+  {
+    "stop_uid": "HSZ303599",
+    "stop_id": "303599",
+    "stop_name": "新竹轉運站",
+    "position": {
+      "lat": 24.80097212,
+      "lon": 120.9731062
+    }
+  },
+  {
+    "stop_uid": "HSZ303600",
+    "stop_id": "303600",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.800468,
+      "lon": 120.974472
+    }
+  },
+  {
+    "stop_uid": "HSZ303601",
+    "stop_id": "303601",
+    "stop_name": "警察宿舍",
+    "position": {
+      "lat": 24.800769,
+      "lon": 120.974621
+    }
+  },
+  {
+    "stop_uid": "HSZ303602",
+    "stop_id": "303602",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.799345,
+      "lon": 120.972663
+    }
+  },
+  {
+    "stop_uid": "HSZ303603",
+    "stop_id": "303603",
+    "stop_name": "東南街口",
+    "position": {
+      "lat": 24.799485,
+      "lon": 120.972563
+    }
+  },
+  {
+    "stop_uid": "HSZ303604",
+    "stop_id": "303604",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.797392,
+      "lon": 120.969482
+    }
+  },
+  {
+    "stop_uid": "HSZ303605",
+    "stop_id": "303605",
+    "stop_name": "竹蓮街",
+    "position": {
+      "lat": 24.797913,
+      "lon": 120.970049
+    }
+  },
+  {
+    "stop_uid": "HSZ303606",
+    "stop_id": "303606",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.79686,
+      "lon": 120.968616
+    }
+  },
+  {
+    "stop_uid": "HSZ303607",
+    "stop_id": "303607",
+    "stop_name": "西大路口",
+    "position": {
+      "lat": 24.796987,
+      "lon": 120.968528
+    }
+  },
+  {
+    "stop_uid": "HSZ303608",
+    "stop_id": "303608",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.795882,
+      "lon": 120.967032
+    }
+  },
+  {
+    "stop_uid": "HSZ303609",
+    "stop_id": "303609",
+    "stop_name": "新竹國小",
+    "position": {
+      "lat": 24.795384,
+      "lon": 120.965884
+    }
+  },
+  {
+    "stop_uid": "HSZ303610",
+    "stop_id": "303610",
+    "stop_name": "清大南大校區",
+    "position": {
+      "lat": 24.793652,
+      "lon": 120.963513
+    }
+  },
+  {
+    "stop_uid": "HSZ303611",
+    "stop_id": "303611",
+    "stop_name": "清大南大校區",
+    "position": {
+      "lat": 24.794123,
+      "lon": 120.963953
+    }
+  },
+  {
+    "stop_uid": "HSZ303612",
+    "stop_id": "303612",
+    "stop_name": "成德路",
+    "position": {
+      "lat": 24.794162,
+      "lon": 120.957985
+    }
+  },
+  {
+    "stop_uid": "HSZ303613",
+    "stop_id": "303613",
+    "stop_name": "成德路",
+    "position": {
+      "lat": 24.794247,
+      "lon": 120.958148
+    }
+  },
+  {
+    "stop_uid": "HSZ303809",
+    "stop_id": "303809",
+    "stop_name": "古奇峰",
+    "position": {
+      "lat": 24.778906,
+      "lon": 120.979719
+    }
+  },
+  {
+    "stop_uid": "HSZ303810",
+    "stop_id": "303810",
+    "stop_name": "青峰路口",
+    "position": {
+      "lat": 24.779638,
+      "lon": 120.981327
+    }
+  },
+  {
+    "stop_uid": "HSZ303811",
+    "stop_id": "303811",
+    "stop_name": "土雞城",
+    "position": {
+      "lat": 24.77859,
+      "lon": 120.982063
+    }
+  },
+  {
+    "stop_uid": "HSZ303812",
+    "stop_id": "303812",
+    "stop_name": "高峰",
+    "position": {
+      "lat": 24.77739,
+      "lon": 120.983048
+    }
+  },
+  {
+    "stop_uid": "HSZ303813",
+    "stop_id": "303813",
+    "stop_name": "竹泰社區",
+    "position": {
+      "lat": 24.778716,
+      "lon": 120.985496
+    }
+  },
+  {
+    "stop_uid": "HSZ303814",
+    "stop_id": "303814",
+    "stop_name": "高翠",
+    "position": {
+      "lat": 24.779911,
+      "lon": 120.986951
+    }
+  },
+  {
+    "stop_uid": "HSZ303815",
+    "stop_id": "303815",
+    "stop_name": "下路北",
+    "position": {
+      "lat": 24.781531,
+      "lon": 120.988018
+    }
+  },
+  {
+    "stop_uid": "HSZ303816",
+    "stop_id": "303816",
+    "stop_name": "仙宮里活動中心",
+    "position": {
+      "lat": 24.783439,
+      "lon": 120.989704
+    }
+  },
+  {
+    "stop_uid": "HSZ303817",
+    "stop_id": "303817",
+    "stop_name": "仙宮里",
+    "position": {
+      "lat": 24.784424,
+      "lon": 120.990637
+    }
+  },
+  {
+    "stop_uid": "HSZ303818",
+    "stop_id": "303818",
+    "stop_name": "同步輻射中心",
+    "position": {
+      "lat": 24.783587,
+      "lon": 120.994429
+    }
+  },
+  {
+    "stop_uid": "HSZ303819",
+    "stop_id": "303819",
+    "stop_name": "陽明交大光復南門",
+    "position": {
+      "lat": 24.783376,
+      "lon": 120.996232
+    }
+  },
+  {
+    "stop_uid": "HSZ303820",
+    "stop_id": "303820",
+    "stop_name": "漢威光電",
+    "position": {
+      "lat": 24.783478,
+      "lon": 120.99987
+    }
+  },
+  {
+    "stop_uid": "HSZ303821",
+    "stop_id": "303821",
+    "stop_name": "同業公會",
+    "position": {
+      "lat": 24.782384,
+      "lon": 121.00184
+    }
+  },
+  {
+    "stop_uid": "HSZ303822",
+    "stop_id": "303822",
+    "stop_name": "新安站",
+    "position": {
+      "lat": 24.78112,
+      "lon": 121.004406
+    }
+  },
+  {
+    "stop_uid": "HSZ303823",
+    "stop_id": "303823",
+    "stop_name": "科技生活館",
+    "position": {
+      "lat": 24.78015,
+      "lon": 121.00521
+    }
+  },
+  {
+    "stop_uid": "HSZ303824",
+    "stop_id": "303824",
+    "stop_name": "實驗中學",
+    "position": {
+      "lat": 24.776485,
+      "lon": 121.017398
+    }
+  },
+  {
+    "stop_uid": "HSZ303825",
+    "stop_id": "303825",
+    "stop_name": "金山街口",
+    "position": {
+      "lat": 24.778051,
+      "lon": 121.019019
+    }
+  },
+  {
+    "stop_uid": "HSZ303826",
+    "stop_id": "303826",
+    "stop_name": "世界高中",
+    "position": {
+      "lat": 24.782252,
+      "lon": 121.020146
+    }
+  },
+  {
+    "stop_uid": "HSZ303827",
+    "stop_id": "303827",
+    "stop_name": "仙水",
+    "position": {
+      "lat": 24.782939,
+      "lon": 121.018562
+    }
+  },
+  {
+    "stop_uid": "HSZ303828",
+    "stop_id": "303828",
+    "stop_name": "關新公園",
+    "position": {
+      "lat": 24.78579,
+      "lon": 121.018911
+    }
+  },
+  {
+    "stop_uid": "HSZ303829",
+    "stop_id": "303829",
+    "stop_name": "新莊車站",
+    "position": {
+      "lat": 24.78798406,
+      "lon": 121.0210493
+    }
+  },
+  {
+    "stop_uid": "HSZ303830",
+    "stop_id": "303830",
+    "stop_name": "關新公園",
+    "position": {
+      "lat": 24.785827,
+      "lon": 121.018707
+    }
+  },
+  {
+    "stop_uid": "HSZ303831",
+    "stop_id": "303831",
+    "stop_name": "仙水",
+    "position": {
+      "lat": 24.782786,
+      "lon": 121.018486
+    }
+  },
+  {
+    "stop_uid": "HSZ303832",
+    "stop_id": "303832",
+    "stop_name": "世界高中",
+    "position": {
+      "lat": 24.782108,
+      "lon": 121.020082
+    }
+  },
+  {
+    "stop_uid": "HSZ303833",
+    "stop_id": "303833",
+    "stop_name": "金山街口",
+    "position": {
+      "lat": 24.778178,
+      "lon": 121.018622
+    }
+  },
+  {
+    "stop_uid": "HSZ303834",
+    "stop_id": "303834",
+    "stop_name": "實驗中學",
+    "position": {
+      "lat": 24.776614,
+      "lon": 121.016998
+    }
+  },
+  {
+    "stop_uid": "HSZ303835",
+    "stop_id": "303835",
+    "stop_name": "科技生活館",
+    "position": {
+      "lat": 24.78015,
+      "lon": 121.00521
+    }
+  },
+  {
+    "stop_uid": "HSZ303836",
+    "stop_id": "303836",
+    "stop_name": "同業公會",
+    "position": {
+      "lat": 24.782379,
+      "lon": 121.002049
+    }
+  },
+  {
+    "stop_uid": "HSZ303837",
+    "stop_id": "303837",
+    "stop_name": "漢威光電",
+    "position": {
+      "lat": 24.783477,
+      "lon": 120.99901
+    }
+  },
+  {
+    "stop_uid": "HSZ303838",
+    "stop_id": "303838",
+    "stop_name": "陽明交大光復南門",
+    "position": {
+      "lat": 24.783541,
+      "lon": 120.996392
+    }
+  },
+  {
+    "stop_uid": "HSZ303839",
+    "stop_id": "303839",
+    "stop_name": "同步輻射中心",
+    "position": {
+      "lat": 24.783838,
+      "lon": 120.994472
+    }
+  },
+  {
+    "stop_uid": "HSZ303840",
+    "stop_id": "303840",
+    "stop_name": "仙宮里",
+    "position": {
+      "lat": 24.784273,
+      "lon": 120.990529
+    }
+  },
+  {
+    "stop_uid": "HSZ303841",
+    "stop_id": "303841",
+    "stop_name": "仙宮里活動中心",
+    "position": {
+      "lat": 24.783535,
+      "lon": 120.989827
+    }
+  },
+  {
+    "stop_uid": "HSZ303842",
+    "stop_id": "303842",
+    "stop_name": "下路北",
+    "position": {
+      "lat": 24.781686,
+      "lon": 120.987838
+    }
+  },
+  {
+    "stop_uid": "HSZ303843",
+    "stop_id": "303843",
+    "stop_name": "高翠",
+    "position": {
+      "lat": 24.780284,
+      "lon": 120.986999
+    }
+  },
+  {
+    "stop_uid": "HSZ303844",
+    "stop_id": "303844",
+    "stop_name": "竹泰社區",
+    "position": {
+      "lat": 24.778966,
+      "lon": 120.985469
+    }
+  },
+  {
+    "stop_uid": "HSZ303845",
+    "stop_id": "303845",
+    "stop_name": "高峰",
+    "position": {
+      "lat": 24.777612,
+      "lon": 120.983096
+    }
+  },
+  {
+    "stop_uid": "HSZ303846",
+    "stop_id": "303846",
+    "stop_name": "土雞城",
+    "position": {
+      "lat": 24.778569,
+      "lon": 120.98222
+    }
+  },
+  {
+    "stop_uid": "HSZ303847",
+    "stop_id": "303847",
+    "stop_name": "青峰路口",
+    "position": {
+      "lat": 24.779665,
+      "lon": 120.981485
+    }
+  },
+  {
+    "stop_uid": "HSZ304247",
+    "stop_id": "304247",
+    "stop_name": "南大食品路口",
+    "position": {
+      "lat": 24.794376,
+      "lon": 120.965482
+    }
+  },
+  {
+    "stop_uid": "HSZ304248",
+    "stop_id": "304248",
+    "stop_name": "清大北校門",
+    "position": {
+      "lat": 24.796095,
+      "lon": 120.996544
+    }
+  },
+  {
+    "stop_uid": "HSZ304252",
+    "stop_id": "304252",
+    "stop_name": "聖公宮",
+    "position": {
+      "lat": 24.785256,
+      "lon": 120.918234
+    }
+  },
+  {
+    "stop_uid": "HSZ304255",
+    "stop_id": "304255",
+    "stop_name": "富群花園",
+    "position": {
+      "lat": 24.768719,
+      "lon": 120.958112
+    }
+  },
+  {
+    "stop_uid": "HSZ304256",
+    "stop_id": "304256",
+    "stop_name": "日月光飯店",
+    "position": {
+      "lat": 24.76915622,
+      "lon": 120.9569089
+    }
+  },
+  {
+    "stop_uid": "HSZ304257",
+    "stop_id": "304257",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.802294,
+      "lon": 120.978621
+    }
+  },
+  {
+    "stop_uid": "HSZ304259",
+    "stop_id": "304259",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803483,
+      "lon": 120.971034
+    }
+  },
+  {
+    "stop_uid": "HSZ304261",
+    "stop_id": "304261",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.80548662,
+      "lon": 120.9693406
+    }
+  },
+  {
+    "stop_uid": "HSZ304262",
+    "stop_id": "304262",
+    "stop_name": "東門市場",
+    "position": {
+      "lat": 24.80561,
+      "lon": 120.96954
+    }
+  },
+  {
+    "stop_uid": "HSZ304293",
+    "stop_id": "304293",
+    "stop_name": "順天宮",
+    "position": {
+      "lat": 24.81809,
+      "lon": 120.927869
+    }
+  },
+  {
+    "stop_uid": "HSZ304294",
+    "stop_id": "304294",
+    "stop_name": "順天宮",
+    "position": {
+      "lat": 24.81809,
+      "lon": 120.927869
+    }
+  },
+  {
+    "stop_uid": "HSZ304416",
+    "stop_id": "304416",
+    "stop_name": "親仁里",
+    "position": {
+      "lat": 24.8075400839645,
+      "lon": 120.971553936176
+    }
+  },
+  {
+    "stop_uid": "HSZ304417",
+    "stop_id": "304417",
+    "stop_name": "東門國小",
+    "position": {
+      "lat": 24.806479,
+      "lon": 120.9735377
+    }
+  },
+  {
+    "stop_uid": "HSZ304418",
+    "stop_id": "304418",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.801166,
+      "lon": 120.97655
+    }
+  },
+  {
+    "stop_uid": "HSZ304419",
+    "stop_id": "304419",
+    "stop_name": "公園",
+    "position": {
+      "lat": 24.802281,
+      "lon": 120.978639
+    }
+  },
+  {
+    "stop_uid": "HSZ304420",
+    "stop_id": "304420",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.7985932163607,
+      "lon": 120.977848017196
+    }
+  },
+  {
+    "stop_uid": "HSZ304421",
+    "stop_id": "304421",
+    "stop_name": "學園商場",
+    "position": {
+      "lat": 24.7985886921593,
+      "lon": 120.977929650297
+    }
+  },
+  {
+    "stop_uid": "HSZ304425",
+    "stop_id": "304425",
+    "stop_name": "和平",
+    "position": {
+      "lat": 24.78664,
+      "lon": 121.01083
+    }
+  },
+  {
+    "stop_uid": "HSZ307520",
+    "stop_id": "307520",
+    "stop_name": "香山國小",
+    "position": {
+      "lat": 24.79685,
+      "lon": 120.94561
+    }
+  },
+  {
+    "stop_uid": "HSZ307521",
+    "stop_id": "307521",
+    "stop_name": "香山區公所",
+    "position": {
+      "lat": 24.79699,
+      "lon": 120.94201
+    }
+  },
+  {
+    "stop_uid": "HSZ307522",
+    "stop_id": "307522",
+    "stop_name": "果菜市場",
+    "position": {
+      "lat": 24.8147,
+      "lon": 120.97887
+    }
+  },
+  {
+    "stop_uid": "HSZ309914",
+    "stop_id": "309914",
+    "stop_name": "天府站",
+    "position": {
+      "lat": 24.839546,
+      "lon": 120.932588
+    }
+  },
+  {
+    "stop_uid": "HSZ309915",
+    "stop_id": "309915",
+    "stop_name": "天府站",
+    "position": {
+      "lat": 24.839259,
+      "lon": 120.93315
+    }
+  },
+  {
+    "stop_uid": "HSZ309916",
+    "stop_id": "309916",
+    "stop_name": "蟹仔埔",
+    "position": {
+      "lat": 24.839818,
+      "lon": 120.930161
+    }
+  },
+  {
+    "stop_uid": "HSZ309917",
+    "stop_id": "309917",
+    "stop_name": "南華國中",
+    "position": {
+      "lat": 24.842594,
+      "lon": 120.928026
+    }
+  },
+  {
+    "stop_uid": "HSZ309918",
+    "stop_id": "309918",
+    "stop_name": "蟹仔埔公園",
+    "position": {
+      "lat": 24.839989,
+      "lon": 120.927579
+    }
+  },
+  {
+    "stop_uid": "HSZ310067",
+    "stop_id": "310067",
+    "stop_name": "成德高中",
+    "position": {
+      "lat": 24.793158,
+      "lon": 120.952857
+    }
+  },
+  {
+    "stop_uid": "HSZ310068",
+    "stop_id": "310068",
+    "stop_name": "成德高中",
+    "position": {
+      "lat": 24.79318373,
+      "lon": 120.9527208
+    }
+  },
+  {
+    "stop_uid": "HSZ310069",
+    "stop_id": "310069",
+    "stop_name": "榮民之家",
+    "position": {
+      "lat": 24.794887,
+      "lon": 120.955655
+    }
+  },
+  {
+    "stop_uid": "HSZ310070",
+    "stop_id": "310070",
+    "stop_name": "榮民之家",
+    "position": {
+      "lat": 24.794974,
+      "lon": 120.955482
+    }
+  },
+  {
+    "stop_uid": "HSZ310242",
+    "stop_id": "310242",
+    "stop_name": "神學院",
+    "position": {
+      "lat": 24.78915,
+      "lon": 121.00233
+    }
+  },
+  {
+    "stop_uid": "HSZ310243",
+    "stop_id": "310243",
+    "stop_name": "神學院",
+    "position": {
+      "lat": 24.7889,
+      "lon": 121.0025
+    }
+  },
+  {
+    "stop_uid": "HSZ310244",
+    "stop_id": "310244",
+    "stop_name": "梅竹山莊",
+    "position": {
+      "lat": 24.789447,
+      "lon": 121.000413
+    }
+  },
+  {
+    "stop_uid": "HSZ310245",
+    "stop_id": "310245",
+    "stop_name": "梅竹山莊",
+    "position": {
+      "lat": 24.789361,
+      "lon": 121.000422
+    }
+  },
+  {
+    "stop_uid": "HSZ310246",
+    "stop_id": "310246",
+    "stop_name": "竹湖會館",
+    "position": {
+      "lat": 24.788686,
+      "lon": 120.998945
+    }
+  },
+  {
+    "stop_uid": "HSZ310247",
+    "stop_id": "310247",
+    "stop_name": "竹湖",
+    "position": {
+      "lat": 24.788358,
+      "lon": 120.999432
+    }
+  },
+  {
+    "stop_uid": "HSZ310248",
+    "stop_id": "310248",
+    "stop_name": "體育館",
+    "position": {
+      "lat": 24.789528,
+      "lon": 120.995876
+    }
+  },
+  {
+    "stop_uid": "HSZ310249",
+    "stop_id": "310249",
+    "stop_name": "活動中心",
+    "position": {
+      "lat": 24.786463,
+      "lon": 121.000433
+    }
+  },
+  {
+    "stop_uid": "HSZ310250",
+    "stop_id": "310250",
+    "stop_name": "工程六館",
+    "position": {
+      "lat": 24.786228,
+      "lon": 120.99524
+    }
+  },
+  {
+    "stop_uid": "HSZ310251",
+    "stop_id": "310251",
+    "stop_name": "綜合一館",
+    "position": {
+      "lat": 24.783978,
+      "lon": 120.998111
+    }
+  },
+  {
+    "stop_uid": "HSZ310252",
+    "stop_id": "310252",
+    "stop_name": "陽明交大光復南門",
+    "position": {
+      "lat": 24.783569,
+      "lon": 120.996356
+    }
+  },
+  {
+    "stop_uid": "HSZ310253",
+    "stop_id": "310253",
+    "stop_name": "緯創資通",
+    "position": {
+      "lat": 24.782374,
+      "lon": 120.998977
+    }
+  },
+  {
+    "stop_uid": "HSZ310254",
+    "stop_id": "310254",
+    "stop_name": "科技生活館",
+    "position": {
+      "lat": 24.78015,
+      "lon": 121.00521
+    }
+  },
+  {
+    "stop_uid": "HSZ310255",
+    "stop_id": "310255",
+    "stop_name": "臺大生醫醫院",
+    "position": {
+      "lat": 24.805559,
+      "lon": 121.044036
+    }
+  },
+  {
+    "stop_uid": "HSZ310256",
+    "stop_id": "310256",
+    "stop_name": "台灣生醫材料",
+    "position": {
+      "lat": 24.808536,
+      "lon": 121.046278
+    }
+  },
+  {
+    "stop_uid": "HSZ310257",
+    "stop_id": "310257",
+    "stop_name": "研發中心大樓",
+    "position": {
+      "lat": 24.806824,
+      "lon": 121.047934
+    }
+  },
+  {
+    "stop_uid": "HSZ310258",
+    "stop_id": "310258",
+    "stop_name": "生技產業大樓",
+    "position": {
+      "lat": 24.80557,
+      "lon": 121.04859
+    }
+  },
+  {
+    "stop_uid": "HSZ310259",
+    "stop_id": "310259",
+    "stop_name": "北大教堂",
+    "position": {
+      "lat": 24.808597,
+      "lon": 120.967118
+    }
+  },
+  {
+    "stop_uid": "HSZ310266",
+    "stop_id": "310266",
+    "stop_name": "新竹火車站(中正路)",
+    "position": {
+      "lat": 24.80324,
+      "lon": 120.97124
+    }
+  },
+  {
+    "stop_uid": "HSZ310267",
+    "stop_id": "310267",
+    "stop_name": "新竹火車站(中正路)",
+    "position": {
+      "lat": 24.80332,
+      "lon": 120.9711
+    }
+  },
+  {
+    "stop_uid": "HSZ310676",
+    "stop_id": "310676",
+    "stop_name": "新竹榮家",
+    "position": {
+      "lat": 24.79364689,
+      "lon": 120.9548673
+    }
+  },
+  {
+    "stop_uid": "HSZ311499",
+    "stop_id": "311499",
+    "stop_name": "新莊車站",
+    "position": {
+      "lat": 24.788231,
+      "lon": 121.021488
+    }
+  },
+  {
+    "stop_uid": "HSZ311551",
+    "stop_id": "311551",
+    "stop_name": "新香街",
+    "position": {
+      "lat": 24.77494231,
+      "lon": 120.9605693
+    }
+  },
+  {
+    "stop_uid": "HSZ311552",
+    "stop_id": "311552",
+    "stop_name": "新香街",
+    "position": {
+      "lat": 24.77466183,
+      "lon": 120.9604429
+    }
+  },
+  {
+    "stop_uid": "HSZ311555",
+    "stop_id": "311555",
+    "stop_name": "火車站",
+    "position": {
+      "lat": 24.803581,
+      "lon": 120.970982
+    }
+  },
+  {
+    "stop_uid": "HSZ311836",
+    "stop_id": "311836",
+    "stop_name": "科學二站",
+    "position": {
+      "lat": 24.783365,
+      "lon": 121.011477
+    }
+  }
+]

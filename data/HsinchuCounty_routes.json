@@ -1,0 +1,532 @@
+[
+  {
+    "route_uid": "HSQ0006",
+    "route_id": "0006",
+    "route_name": "快捷7號",
+    "departure_stop": "竹北市公所站",
+    "destination_stop": "新竹高鐵站",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0022",
+    "route_id": "0022",
+    "route_name": "106",
+    "departure_stop": "小金剛商店站",
+    "destination_stop": "內灣大橋",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0023",
+    "route_id": "0023",
+    "route_name": "107",
+    "departure_stop": "下鎮西堡部落站",
+    "destination_stop": "內灣大橋",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0024",
+    "route_id": "0024",
+    "route_name": "108",
+    "departure_stop": "上養老部落",
+    "destination_stop": "內灣大橋",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0061",
+    "route_id": "0061",
+    "route_name": "快捷1號",
+    "departure_stop": "縣政府",
+    "destination_stop": "金山街",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0065",
+    "route_id": "0065",
+    "route_name": "快捷5號",
+    "departure_stop": "榮民講習所",
+    "destination_stop": "高鐵新竹站",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0066",
+    "route_id": "0066",
+    "route_name": "快捷6號",
+    "departure_stop": "竹東火車站",
+    "destination_stop": "內灣大橋",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0067",
+    "route_id": "0067",
+    "route_name": "0067",
+    "departure_stop": "婉琳的店",
+    "destination_stop": "原石商店",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0068",
+    "route_id": "0068",
+    "route_name": "0068",
+    "departure_stop": "北得拉曼營地",
+    "destination_stop": "尖石鄉公所站",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0069",
+    "route_id": "0069",
+    "route_name": "0069",
+    "departure_stop": "義興八、九鄰部落",
+    "destination_stop": "尖石鄉公所站",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0075",
+    "route_id": "0075",
+    "route_name": "醫專1號",
+    "departure_stop": "珊珠湖",
+    "destination_stop": "竹東",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0076",
+    "route_id": "0076",
+    "route_name": "醫專2號",
+    "departure_stop": "獅山",
+    "destination_stop": "竹東",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0079",
+    "route_id": "0079",
+    "route_name": "醫專6號",
+    "departure_stop": "清泉口",
+    "destination_stop": "臺大醫院竹東分院",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0080",
+    "route_id": "0080",
+    "route_name": "60",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0081",
+    "route_id": "0081",
+    "route_name": "61",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0082",
+    "route_id": "0082",
+    "route_name": "62",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0083",
+    "route_id": "0083",
+    "route_name": "63",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0085",
+    "route_id": "0085",
+    "route_name": "65",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0086",
+    "route_id": "0086",
+    "route_name": "66",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0109",
+    "route_id": "0109",
+    "route_name": "68路",
+    "departure_stop": "家樂福",
+    "destination_stop": "家樂福",
+    "operators": [
+      "科技之星交通"
+    ]
+  },
+  {
+    "route_uid": "HSQ0118",
+    "route_id": "0118",
+    "route_name": "觀光8號",
+    "departure_stop": "高鐵新竹站",
+    "destination_stop": "觀霧山莊",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0132",
+    "route_id": "0132",
+    "route_name": "花園線",
+    "departure_stop": "五峰鄉公所",
+    "destination_stop": "天湖",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0133",
+    "route_id": "0133",
+    "route_name": "桃山線",
+    "departure_stop": "五峰鄉公所",
+    "destination_stop": "迦南山莊",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0134",
+    "route_id": "0134",
+    "route_name": "竹林線",
+    "departure_stop": "五峰鄉公所",
+    "destination_stop": "五峰鄉公所",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0135",
+    "route_id": "0135",
+    "route_name": "隘蘭線",
+    "departure_stop": "五峰鄉公所",
+    "destination_stop": "涼山",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0151",
+    "route_id": "0151",
+    "route_name": "關六線",
+    "departure_stop": "人行廣場",
+    "destination_stop": "六曲窩",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0152",
+    "route_id": "0152",
+    "route_name": "關金線",
+    "departure_stop": "人行廣場",
+    "destination_stop": "金鳥樂園",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0153",
+    "route_id": "0153",
+    "route_name": "153",
+    "departure_stop": "人行廣場",
+    "destination_stop": "玉山",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0154",
+    "route_id": "0154",
+    "route_name": "關下線",
+    "departure_stop": "人行廣場",
+    "destination_stop": "下橫坑",
+    "operators": [
+      "捷乘交通有限公司"
+    ]
+  },
+  {
+    "route_uid": "HSQ0176",
+    "route_id": "0176",
+    "route_name": "114路前山觀光預約線",
+    "departure_stop": "內灣",
+    "destination_stop": "內灣",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0177",
+    "route_id": "0177",
+    "route_name": "芎林鄉幸福小黃",
+    "departure_stop": "敏實科大",
+    "destination_stop": "竹東車站",
+    "operators": [
+      "台一大車隊"
+    ]
+  },
+  {
+    "route_uid": "HSQ0178",
+    "route_id": "0178",
+    "route_name": "112",
+    "departure_stop": "那羅文學林",
+    "destination_stop": "抬耀十二鄰",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0199",
+    "route_id": "0199",
+    "route_name": "芎林鄉幸福小黃",
+    "departure_stop": "敏實科大",
+    "destination_stop": "高鐵新竹站",
+    "operators": [
+      "台一大車隊"
+    ]
+  },
+  {
+    "route_uid": "HSQ0223",
+    "route_id": "0223",
+    "route_name": "五指山平日線",
+    "departure_stop": "五指山遊客服務中心",
+    "destination_stop": "竹東火車站(北興路)",
+    "operators": [
+      "北埔鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0224",
+    "route_id": "0224",
+    "route_name": "北埔老街假日線",
+    "departure_stop": "北埔遊客中心/鄧南光影像紀念館",
+    "destination_stop": "北埔遊客中心/鄧南光影像紀念館",
+    "operators": [
+      "北埔鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0229",
+    "route_id": "0229",
+    "route_name": "113",
+    "departure_stop": "那羅文學林",
+    "destination_stop": "新光國小",
+    "operators": [
+      "尖石鄉公所"
+    ]
+  },
+  {
+    "route_uid": "HSQ0505",
+    "route_id": "0505",
+    "route_name": "0505",
+    "departure_stop": "沙湖壢藝術村",
+    "destination_stop": "馬偕醫院",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0506",
+    "route_id": "0506",
+    "route_name": "0506",
+    "departure_stop": "鄉公所",
+    "destination_stop": "果菜市場",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0507",
+    "route_id": "0507",
+    "route_name": "0507",
+    "departure_stop": "鄉公所",
+    "destination_stop": "臺大新竹分院",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0508",
+    "route_id": "0508",
+    "route_name": "0508",
+    "departure_stop": "新豐宮",
+    "destination_stop": "臺大新竹分院",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0535",
+    "route_id": "0535",
+    "route_name": "0535",
+    "departure_stop": "火車站",
+    "destination_stop": "三峰",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0536",
+    "route_id": "0536",
+    "route_name": "0536",
+    "departure_stop": "火車站",
+    "destination_stop": "新城",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0551",
+    "route_id": "0551",
+    "route_name": "0551",
+    "departure_stop": "新埔站",
+    "destination_stop": "芎林",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0552",
+    "route_id": "0552",
+    "route_name": "0552",
+    "departure_stop": "新埔站",
+    "destination_stop": "龍潭",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0553",
+    "route_id": "0553",
+    "route_name": "0553",
+    "departure_stop": "新埔站",
+    "destination_stop": "湖口火車站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0554",
+    "route_id": "0554",
+    "route_name": "0554",
+    "departure_stop": "新埔站",
+    "destination_stop": "楊梅站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0555",
+    "route_id": "0555",
+    "route_name": "0555",
+    "departure_stop": "楊梅站",
+    "destination_stop": "新埔站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0557",
+    "route_id": "0557",
+    "route_name": "0557",
+    "departure_stop": "新埔站",
+    "destination_stop": "高鐵新竹站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0747",
+    "route_id": "0747",
+    "route_name": "快捷8號",
+    "departure_stop": "台大竹東分院",
+    "destination_stop": "竹北火車站",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0748",
+    "route_id": "0748",
+    "route_name": "快捷8號支",
+    "departure_stop": "台大竹東分院",
+    "destination_stop": "竹北火車站",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0749",
+    "route_id": "0749",
+    "route_name": "觀光1號",
+    "departure_stop": "高鐵新竹站",
+    "destination_stop": "鴛鴦池口",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0756",
+    "route_id": "0756",
+    "route_name": "觀光2號",
+    "departure_stop": "高鐵新竹站",
+    "destination_stop": "六福村主題樂園",
+    "operators": [
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "HSQ0805",
+    "route_id": "0805",
+    "route_name": "快捷9號",
+    "departure_stop": "勝利八街總站",
+    "destination_stop": "陽明交大(博愛校區)",
+    "operators": [
+      "捷乘客運"
+    ]
+  }
+]
