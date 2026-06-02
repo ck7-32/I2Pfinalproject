@@ -100,21 +100,38 @@ def _tdx_get(path, cache, cache_key):
     return data
 
 
-def _fetch_city_eta(city):
-    """
-    查「整個城市」的即時到站預估（一次撈回全部路線）。
+def _intercity_route_filter(route_name):
+    """InterCity 端點以路線名 $filter 查單條路線。"""
+    return {"$filter": f"RouteName/Zh_tw eq '{route_name}'"}
 
-    為避免對每條路線分別請求而觸發 TDX 429 限流，這裡改用城市層級端點，
-    不論起訖點涉及幾條路線，每個城市每 60 秒只打 1 次 API（其餘走快取）。
+
+def _fetch_city_eta(city, route_name):
     """
+    查即時到站預估。
+
+    一般市區公車：用城市層級端點一次撈全城（每城每 60 秒打 1 次，其餘走快取）。
+    公路客運（InterCity）：端點不分城市，改以路線名逐條查（每路線各自快取）。
+    """
+    if city == config.INTERCITY_CITY:
+        return _tdx_get(
+            "EstimatedTimeOfArrival/InterCity",
+            _eta_cache, f"eta|intercity|{route_name}",
+            params=_intercity_route_filter(route_name),
+        )
     return _tdx_get(
         f"EstimatedTimeOfArrival/City/{city}",
         _eta_cache, f"eta|{city}",
     )
 
 
-def _fetch_city_schedule(city):
-    """查「整個城市」的班表（一次撈回全部路線，理由同上）。"""
+def _fetch_city_schedule(city, route_name):
+    """查班表。市區公車一次撈全城；公路客運（InterCity）以路線名逐條查。"""
+    if city == config.INTERCITY_CITY:
+        return _tdx_get(
+            "Schedule/InterCity",
+            _schedule_cache, f"sched|intercity|{route_name}",
+            params=_intercity_route_filter(route_name),
+        )
     return _tdx_get(
         f"Schedule/City/{city}",
         _schedule_cache, f"sched|{city}",
@@ -122,8 +139,8 @@ def _fetch_city_schedule(city):
 
 
 def _wait_from_realtime(city, route_name, stop_uid, direction):
-    """從整城即時預估中，篩出該路線該站該方向的等待分鐘數；無正常預估回傳 None。"""
-    for rec in _fetch_city_eta(city):
+    """從即時預估中，篩出該路線該站該方向的等待分鐘數；無正常預估回傳 None。"""
+    for rec in _fetch_city_eta(city, route_name):
         if rec.get("RouteName", {}).get("Zh_tw") != route_name:
             continue
         if rec.get("StopUID") != stop_uid or rec.get("Direction") != direction:

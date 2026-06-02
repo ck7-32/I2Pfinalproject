@@ -8,6 +8,7 @@
 """
 
 import os
+import re
 import time
 import json
 import requests
@@ -16,6 +17,11 @@ from dotenv import load_dotenv
 # TDX 預設的縣市代碼（City 路徑參數）
 #   新竹市 = Hsinchu，新竹縣 = HsinchuCounty
 DEFAULT_CITY = "Hsinchu"
+
+# 公路客運（InterCity）虛擬城市名稱與其路線清單來源檔
+INTERCITY_NAME = "InterCityHsinchu"
+EXTRA_ROUTE_MD = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "extra_route.md")
 
 # 資料輸出資料夾（相對於本檔案所在目錄）
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
@@ -109,6 +115,30 @@ class TDXClient:
         """
         time.sleep(13)  # 每分鐘最多 5 次 → 間隔約 12-13 秒才安全
         return self._get(f"S2STravelTime/City/{city}/{route_id}")
+
+    # ---- 公路客運（InterCity）：端點不分縣市，以路線名 $filter 篩選 ----
+
+    def _intercity_filter(self, endpoint, route_names):
+        """查 InterCity 端點，用 $filter 只取指定路線名（一次帶多條，以 or 串接）。"""
+        quoted = " or ".join(f"RouteName/Zh_tw eq '{n}'" for n in route_names)
+        return self._get(f"{endpoint}/InterCity", params={"$filter": quoted})
+
+    def get_intercity_routes(self, route_names):
+        """取得指定公路客運路線（含起訖站、業者）。"""
+        return self._intercity_filter("Route", route_names)
+
+    def get_intercity_stops_of_route(self, route_names):
+        """取得指定公路客運路線「依序」經過的站牌。"""
+        return self._intercity_filter("StopOfRoute", route_names)
+
+    def get_intercity_shapes(self, route_names):
+        """取得指定公路客運路線的道路形狀。"""
+        return self._intercity_filter("Shape", route_names)
+
+    def get_intercity_s2s_travel_time(self, route_id):
+        """取得指定公路客運路線的站間行駛時間（限流嚴，呼叫前先等）。"""
+        time.sleep(13)
+        return self._get(f"S2STravelTime/InterCity/{route_id}")
 
 
 def _clean_routes(raw_routes):
@@ -300,6 +330,81 @@ def download_s2s_travel_time(client, city):
         _save_json(f"{city}_s2s_travel_time.json", s2s_all)
 
 
+def _read_route_names_from_md(md_path):
+    """從 extra_route.md 解析出主路線編號清單（行首 4 位數字，如 5606）。"""
+    names = []
+    with open(md_path, "r", encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"^(\d{4})\s", line)
+            if m:
+                names.append(m.group(1))
+    return names
+
+
+def _stops_from_stops_of_route(stops_of_route):
+    """從『路線→依序站牌』導出不重複站牌清單（InterCity 無單獨的整城 Stop 端點）。"""
+    seen = {}
+    for route in stops_of_route:
+        for s in route["stops"]:
+            seen[s["stop_uid"]] = {
+                "stop_uid": s["stop_uid"],
+                "stop_id": s["stop_id"],
+                "stop_name": s["stop_name"],
+                "position": s["position"],
+            }
+    return list(seen.values())
+
+
+def download_intercity_routes(client, city, route_names):
+    """
+    下載指定公路客運路線，存成虛擬城市（如 InterCityHsinchu）的各份 JSON。
+
+    端點不分縣市、以路線名 $filter 篩選；站牌清單由 StopOfRoute 導出。
+    存檔格式與市區公車一致，故 bus_static / route_planner 可直接沿用。
+    """
+    print(f"\n[開始] 下載公路客運（{city}，共 {len(route_names)} 條指定路線）...")
+
+    routes = _clean_routes(client.get_intercity_routes(route_names))
+    _save_json(f"{city}_routes.json", routes)
+
+    stops_of_route = _clean_stops_of_route(client.get_intercity_stops_of_route(route_names))
+    _save_json(f"{city}_stops_of_route.json", stops_of_route)
+
+    # 站牌清單由站序資料導出（InterCity 無整城 Stop 端點）
+    _save_json(f"{city}_stops.json", _stops_from_stops_of_route(stops_of_route))
+
+    shapes = _clean_shapes(client.get_intercity_shapes(route_names))
+    _save_json(f"{city}_shapes.json", shapes)
+
+    download_intercity_s2s(client, city)
+
+    print(f"[結束] 公路客運（{city}）資料下載完成。\n")
+
+
+def download_intercity_s2s(client, city):
+    """下載 InterCity 各路線站間行駛時間（逐 route_id、可續傳），同 download_s2s_travel_time。"""
+    routes_path = os.path.join(DATA_DIR, f"{city}_routes.json")
+    with open(routes_path, "r", encoding="utf-8") as f:
+        routes = json.load(f)
+    route_ids = sorted({r["route_id"] for r in routes if r.get("route_id")})
+
+    out_path = os.path.join(DATA_DIR, f"{city}_s2s_travel_time.json")
+    s2s_all, done_ids = [], set()
+    if os.path.exists(out_path):
+        with open(out_path, "r", encoding="utf-8") as f:
+            s2s_all = json.load(f)
+        done_ids = {e["route_id"] for e in s2s_all}
+
+    remaining = [rid for rid in route_ids if rid not in done_ids]
+    print(f"[系統] 公路客運站間行駛時間：共 {len(route_ids)} 條，已完成 {len(done_ids)}，待下載 {len(remaining)}...")
+
+    for route_id in remaining:
+        raw = client.get_intercity_s2s_travel_time(route_id)
+        if raw:
+            s2s_all.extend(_clean_s2s_travel_time(raw))
+        _save_json(f"{city}_s2s_travel_time.json", s2s_all)
+
+
 if __name__ == "__main__":
     import sys
 
@@ -316,13 +421,24 @@ if __name__ == "__main__":
     #   範例：python download_bus_data.py Hsinchu HsinchuCounty
     #   加 --s2s-only 只下載站間行駛時間（其他資料已存在時，省 API 額度、可續傳）：
     #     python download_bus_data.py --s2s-only Hsinchu HsinchuCounty
+    #   加 --intercity 下載 extra_route.md 列出的公路客運路線（虛擬城市 InterCityHsinchu）：
+    #     python download_bus_data.py --intercity
     args = sys.argv[1:]
     s2s_only = "--s2s-only" in args
-    cities = [a for a in args if not a.startswith("--")] or [DEFAULT_CITY]
+    intercity = "--intercity" in args
+    cities = [a for a in args if not a.startswith("--")]
 
     tdx = TDXClient(client_id, client_secret)
-    for city in cities:
+
+    if intercity:
+        route_names = _read_route_names_from_md(EXTRA_ROUTE_MD)
         if s2s_only:
-            download_s2s_travel_time(tdx, city)
+            download_intercity_s2s(tdx, INTERCITY_NAME)
         else:
-            download_city_bus_data(tdx, city)
+            download_intercity_routes(tdx, INTERCITY_NAME, route_names)
+    else:
+        for city in cities or [DEFAULT_CITY]:
+            if s2s_only:
+                download_s2s_travel_time(tdx, city)
+            else:
+                download_city_bus_data(tdx, city)

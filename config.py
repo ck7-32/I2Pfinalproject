@@ -22,7 +22,11 @@ SERVER_PORT = int(os.getenv("PORT", "5001"))
 
 # ---- 服務範圍：要納入查詢的城市 ----
 # 對應 data/ 底下的 JSON 檔名前綴。新竹市 + 新竹縣一起查，才能涵蓋跨縣市路線。
-CITIES = ["Hsinchu", "HsinchuCounty"]
+# InterCityHsinchu 是「公路客運」虛擬城市（extra_route.md 列出、服務型態近似市區公車的路線）。
+CITIES = ["Hsinchu", "HsinchuCounty", "InterCityHsinchu"]
+
+# 公路客運虛擬城市：即時/班表查詢走 TDX 的 InterCity 端點（非 City 端點）
+INTERCITY_CITY = "InterCityHsinchu"
 
 # ---- TDX 運輸資料流通服務 ----
 TDX_CLIENT_ID = os.getenv("TDX_CLIENT_ID")

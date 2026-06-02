@@ -1,0 +1,284 @@
+[
+  {
+    "route_uid": "THB5606",
+    "route_id": "5606",
+    "route_name": "5606",
+    "departure_stop": "新竹站",
+    "destination_stop": "新庄子",
+    "operators": [
+      "亦捷科際",
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "THB5608",
+    "route_id": "5608",
+    "route_name": "5608",
+    "departure_stop": "新竹站",
+    "destination_stop": "下公館站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5609",
+    "route_id": "5609",
+    "route_name": "5609",
+    "departure_stop": "竹東",
+    "destination_stop": "珊珠湖",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5611",
+    "route_id": "5611",
+    "route_name": "5611",
+    "departure_stop": "新庄子",
+    "destination_stop": "湖口火車站",
+    "operators": [
+      "亦捷科際",
+      "金牌客運"
+    ]
+  },
+  {
+    "route_uid": "THB5612",
+    "route_id": "5612",
+    "route_name": "5612",
+    "departure_stop": "湖口火車站",
+    "destination_stop": "中正路",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5614",
+    "route_id": "5614",
+    "route_name": "5614",
+    "departure_stop": "新竹站",
+    "destination_stop": "九讚頭",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5615",
+    "route_id": "5615",
+    "route_name": "5615",
+    "departure_stop": "新竹站",
+    "destination_stop": "敏實科大",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5619",
+    "route_id": "5619",
+    "route_name": "5619",
+    "departure_stop": "新竹站",
+    "destination_stop": "關西",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5620",
+    "route_id": "5620",
+    "route_name": "5620",
+    "departure_stop": "新竹站",
+    "destination_stop": "中壢北站",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5621",
+    "route_id": "5621",
+    "route_name": "5621",
+    "departure_stop": "新竹站",
+    "destination_stop": "第一市場",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5625",
+    "route_id": "5625",
+    "route_name": "5625",
+    "departure_stop": "竹東",
+    "destination_stop": "那羅",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5626",
+    "route_id": "5626",
+    "route_name": "5626",
+    "departure_stop": "竹東",
+    "destination_stop": "獅山",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5627",
+    "route_id": "5627",
+    "route_name": "5627",
+    "departure_stop": "竹東",
+    "destination_stop": "小南坑",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5630",
+    "route_id": "5630",
+    "route_name": "5630",
+    "departure_stop": "竹東",
+    "destination_stop": "清泉",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5631",
+    "route_id": "5631",
+    "route_name": "5631",
+    "departure_stop": "竹東",
+    "destination_stop": "鳥嘴部落",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5633",
+    "route_id": "5633",
+    "route_name": "5633",
+    "departure_stop": "竹東",
+    "destination_stop": "芎林",
+    "operators": [
+      "亦捷科際"
+    ]
+  },
+  {
+    "route_uid": "THB5634",
+    "route_id": "5634",
+    "route_name": "5634",
+    "departure_stop": "竹東",
+    "destination_stop": "中壢北站",
+    "operators": [
+      "捷乘客運"
+    ]
+  },
+  {
+    "route_uid": "THB5635",
+    "route_id": "5635",
+    "route_name": "5635",
+    "departure_stop": "竹東",
+    "destination_stop": "頭份林",
+    "operators": [
+      "新竹客運"
+    ]
+  },
+  {
+    "route_uid": "THB5655",
+    "route_id": "5655",
+    "route_name": "5655",
+    "departure_stop": "大湖",
+    "destination_stop": "卓蘭高中",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5656",
+    "route_id": "5656",
+    "route_name": "5656",
+    "departure_stop": "苗栗",
+    "destination_stop": "大湖",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5657",
+    "route_id": "5657",
+    "route_name": "5657",
+    "departure_stop": "苗栗",
+    "destination_stop": "獅潭",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5658",
+    "route_id": "5658",
+    "route_name": "5658",
+    "departure_stop": "苗栗",
+    "destination_stop": "新雞隆",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5659",
+    "route_id": "5659",
+    "route_name": "5659",
+    "departure_stop": "苗栗",
+    "destination_stop": "北河活動中心",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5661",
+    "route_id": "5661",
+    "route_name": "5661",
+    "departure_stop": "大湖",
+    "destination_stop": "中興",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5663",
+    "route_id": "5663",
+    "route_name": "5663",
+    "departure_stop": "大湖",
+    "destination_stop": "卓蘭高中",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5664",
+    "route_id": "5664",
+    "route_name": "5664",
+    "departure_stop": "苗栗",
+    "destination_stop": "三義",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5669",
+    "route_id": "5669",
+    "route_name": "5669",
+    "departure_stop": "苗栗",
+    "destination_stop": "後龍",
+    "operators": [
+      "苗栗客運"
+    ]
+  },
+  {
+    "route_uid": "THB5673",
+    "route_id": "5673",
+    "route_name": "5673",
+    "departure_stop": "下公館站",
+    "destination_stop": "中正路",
+    "operators": [
+      "捷乘客運"
+    ]
+  }
+]
