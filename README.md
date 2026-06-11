@@ -30,6 +30,10 @@ pip install -r requirements.txt
 #        中斷後重跑會自動續傳。若只想補抓 S2S：加 --s2s-only。
 python download_bus_data.py Hsinchu HsinchuCounty
 
+#    另外下載「公路客運」路線（extra_route.md 列出、服務型態近似市區公車者，
+#    存成虛擬城市 InterCityHsinchu，可涵蓋市區公車到不了的地點如關西、竹東山區）：
+python download_bus_data.py --intercity
+
 # 4. 啟動網站
 python app.py
 # 瀏覽器開 http://127.0.0.1:5001

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>即時公車導航與步行時間最佳化</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css', v='20260611') }}">
 </head>
 <body>
   <header>
@@ -18,17 +18,57 @@
       <form id="search-form">
         <label>
           起點
-          <input type="text" id="origin" placeholder="例如：清華大學" required>
+          <div class="input-row">
+            <input type="text" id="origin" placeholder="例如：清華大學" required>
+            <button type="button" class="pick-btn" data-target="origin"
+                    title="在地圖上點選起點">📍 點地圖</button>
+          </div>
         </label>
         <label>
           終點
-          <input type="text" id="dest" placeholder="例如：新竹火車站" required>
+          <div class="input-row">
+            <input type="text" id="dest" placeholder="例如：新竹火車站" required>
+            <button type="button" class="pick-btn" data-target="dest"
+                    title="在地圖上點選終點">📍 點地圖</button>
+          </div>
         </label>
         <button type="submit" id="search-btn">查詢路線</button>
       </form>
+      <!-- 點「點地圖」後的提示 -->
+      <div id="pick-hint" class="pick-hint"></div>
+
+      <!-- 出發時間模式開關 -->
+      <div class="mode-toggle">
+        <span class="mode-label">時間顯示：</span>
+        <label class="switch-opt">
+          <input type="radio" name="time-mode" value="now" checked>
+          現在出門總時長
+        </label>
+        <label class="switch-opt">
+          <input type="radio" name="time-mode" value="latest">
+          最晚幾點出門
+        </label>
+        <div class="mode-note" id="mode-note">顯示從現在出發到抵達的總花費時間。</div>
+      </div>
+
+      <!-- 分頁：方案 / 歷史 / 最愛 -->
+      <div class="tabs">
+        <button class="tab active" data-tab="plans-tab">方案</button>
+        <button class="tab" data-tab="history-tab">歷史</button>
+        <button class="tab" data-tab="favorites-tab">★ 最愛</button>
+      </div>
 
       <div id="status" class="status"></div>
-      <ol id="plans" class="plans"></ol>
+
+      <div id="plans-tab" class="tab-panel active">
+        <ol id="plans" class="plans"></ol>
+      </div>
+      <div id="history-tab" class="tab-panel">
+        <ul id="history-list" class="pair-list"></ul>
+      </div>
+      <div id="favorites-tab" class="tab-panel">
+        <ul id="favorites-list" class="pair-list"></ul>
+      </div>
     </section>
 
     <!-- 右側：Folium 互動地圖（以 iframe 嵌入避免樣式衝突） -->
@@ -37,6 +77,6 @@
     </section>
   </main>
 
-  <script src="{{ url_for('static', filename='app.js') }}"></script>
+  <script src="{{ url_for('static', filename='app.js', v='20260611') }}"></script>
 </body>
 </html>

@@ -123,13 +123,16 @@ def find_nearby_stops(lat, lon, radius_m=None):
     return nearby
 
 
-def _pick_nearest_valid_pair(board_candidates, alight_candidates, origin_pos, dest_pos):
+def _pick_nearest_valid_pair(board_candidates, alight_candidates, origin_pos,
+                             dest_pos, total_stops=None):
     """
-    在「上車站序 < 下車站序」的合法組合中，挑直線步行距離總和最小的 (board, alight)。
+    在「方向正確且不繞大圈」的組合中，挑直線步行距離總和最小的 (board, alight)。
 
-    先試最快路徑：各取離起點/終點直線最近的站，若方向已正確就直接用；
-    否則退回 O(n×m) 逐組搜尋（候選站通常很少，成本可忽略）。
-    找不到任何合法組合則回傳 None。
+    選站主要看步行距離（最直覺）；唯一額外限制是「排除明顯繞圈」的組合 ——
+    環狀線或同名站重複的路線（如藍線1區的「火車站」出現在序1與序56），
+    若上下車站序相差超過「全線站數的一半」，幾乎一定是繞了一大圈，直接剔除。
+
+    候選站通常很少，直接 O(n×m) 逐組評分；找不到合法組合回傳 None。
     """
     def dist_to_origin(s):
         return haversine_m(origin_pos["lat"], origin_pos["lon"],
@@ -139,19 +142,17 @@ def _pick_nearest_valid_pair(board_candidates, alight_candidates, origin_pos, de
         return haversine_m(dest_pos["lat"], dest_pos["lon"],
                           s["position"]["lat"], s["position"]["lon"])
 
-    # 快速路徑：各自最近的站
-    nearest_board = min(board_candidates, key=dist_to_origin)
-    nearest_alight = min(alight_candidates, key=dist_to_dest)
-    if nearest_board["stop_sequence"] < nearest_alight["stop_sequence"]:
-        return nearest_board, nearest_alight
+    # 繞圈門檻：坐超過「全線一半站數」視為繞圈（total_stops 未知時不設限）
+    max_ride = total_stops / 2 if total_stops else float("inf")
 
-    # 退回路徑：逐組找「方向正確且步行總距離最小」的組合
     best_pair = None
     best_dist = None
     for b in board_candidates:
         for a in alight_candidates:
             if b["stop_sequence"] >= a["stop_sequence"]:
-                continue
+                continue  # 方向不對（要正向搭）
+            if a["stop_sequence"] - b["stop_sequence"] > max_ride:
+                continue  # 明顯繞大圈，排除
             total = dist_to_origin(b) + dist_to_dest(a)
             if best_dist is None or total < best_dist:
                 best_dist = total
@@ -191,11 +192,11 @@ def find_connections(origin_stop_uids, dest_stop_uids, origin_pos, dest_pos):
         if not board_candidates or not alight_candidates:
             continue
 
-        # 在所有「方向正確」的上下車組合中，挑步行距離總和最小的那組。
-        # 先各自算到起點/終點的直線距離，挑最近的上車站、最近的下車站，
-        # 若兩者方向不對（上車站序 ≥ 下車站序）再退回逐組搜尋合法且最近的組合。
+        # 在「方向正確且不繞大圈」的上下車組合中，挑步行距離總和最小的那組。
+        # 傳入全線站數，讓環狀線能排除「繞超過半圈」的不合理組合。
         best = _pick_nearest_valid_pair(
-            board_candidates, alight_candidates, origin_pos, dest_pos)
+            board_candidates, alight_candidates, origin_pos, dest_pos,
+            total_stops=len(stops))
         if best is None:
             continue
         board, alight = best
@@ -260,6 +261,15 @@ def get_route_shape(city, route_name, direction):
     """
     _ensure_loaded()
     return _shape_index.get((city, route_name, direction), [])
+
+
+def get_city_route_names(city):
+    """回傳某城市（含虛擬城市）所有不重複的路線名清單。"""
+    _ensure_loaded()
+    return sorted({
+        r["route_name"] for r in _stops_of_route
+        if r["city"] == city and r.get("route_name")
+    })
 
 
 def _pick_s2s_window(windows, now):

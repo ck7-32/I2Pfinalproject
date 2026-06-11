@@ -14,3 +14,7 @@ venv/
 
 # 臨時測試腳本（功能已整合進正式模組）
 test.py
+
+# 使用者執行階段產生的歷史記錄與最愛（非靜態資料）
+data/history.json
+data/favorites.json

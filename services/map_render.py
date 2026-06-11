@@ -12,6 +12,8 @@
 前端會為每個方案各取得一張地圖 HTML（見 render_maps），點方案卡片即切換顯示。
 """
 
+import re
+
 import folium
 
 
@@ -61,13 +63,13 @@ def render_map(plan_result, plan_index=0):
     if plans and 0 <= plan_index < len(plans):
         _draw_plan(fmap, plans[plan_index])
 
-    # 回傳完整 HTML（含 Leaflet 所需的 JS/CSS）
-    return fmap.get_root().render()
+    # 回傳完整 HTML（含 Leaflet 所需的 JS/CSS），並注入點擊回報腳本
+    return _inject_click_reporter(fmap.get_root().render())
 
 
 # 路線顏色：搭乘區段（深藍）、未搭乘區段（淺藍）
-_RIDDEN_COLOR = "#2563eb"
-_UNRIDDEN_COLOR = "#bcd2f7"
+_RIDDEN_COLOR = "#2563eb"    # 實際搭乘區段：深藍
+_UNRIDDEN_COLOR = "#7da7e8"  # 未搭乘區段：中藍（明顯但仍比深藍淺）
 
 
 def _nearest_shape_index(shape, lat, lon):
@@ -104,8 +106,8 @@ def _draw_route_shape(fmap, shape, board_stop, alight_stop):
         folium.PolyLine(
             coords,
             color=_RIDDEN_COLOR if ridden else _UNRIDDEN_COLOR,
-            weight=5 if ridden else 3,
-            opacity=0.9 if ridden else 0.55,
+            weight=6 if ridden else 4,
+            opacity=0.9 if ridden else 0.8,
         ).add_to(fmap)
 
 
@@ -126,8 +128,8 @@ def _draw_plan(fmap, plan):
             folium.PolyLine(
                 [[prev["lat"], prev["lon"]], [curr["lat"], curr["lon"]]],
                 color=_RIDDEN_COLOR if ridden else _UNRIDDEN_COLOR,
-                weight=5 if ridden else 3,
-                opacity=0.9 if ridden else 0.6,
+                weight=6 if ridden else 4,
+                opacity=0.9 if ridden else 0.8,
             ).add_to(fmap)
 
     # 2) 每個停靠站一個白色圓點（搭乘區段的點描深藍框、其餘描淺藍框）
@@ -184,4 +186,72 @@ def render_empty_map(center=None):
     """查無方案時的備援：回傳一張只有中心點的空白地圖 HTML。"""
     center = center or [24.8016, 120.9717]  # 預設新竹火車站
     fmap = folium.Map(location=center, zoom_start=13, tiles="OpenStreetMap")
-    return fmap.get_root().render()
+    return _inject_click_reporter(fmap.get_root().render())
+
+
+def _inject_click_reporter(html):
+    """
+    在 Folium 產生的地圖 HTML 注入互動腳本：點地圖會落一個「可拖拽圖釘」，
+    點擊或拖動圖釘都會透過 postMessage 把座標回報給外層頁面（供「點地圖選位」用）。
+
+    Folium 把地圖命名為全域變數 map_xxxx，其宣告位於 HTML 尾端的 <script> 內，
+    故本腳本附加在整份 HTML 最後，並以 window[varName] + 輪詢等待，避免時序問題。
+    """
+    m = re.search(r"var (map_\w+) = L\.map", html)
+    if not m:
+        return html  # 找不到地圖變數就原樣返回（功能降級，不影響顯示）
+    map_var = m.group(1)
+    script = f"""
+<script>
+(function() {{
+  function hook() {{
+    var map = window["{map_var}"];
+    if (!map || typeof L === 'undefined') {{ setTimeout(hook, 100); return; }}
+
+    // 起點(綠)、終點(紅)各維護一個可拖拽圖釘；activeTarget 由外層指定目前要設哪個。
+    var markers = {{origin: null, dest: null}};
+    var colors = {{origin: 'green', dest: 'red'}};
+    var activeTarget = null;
+
+    function report(target, latlng) {{
+      // 回報時帶上 target，外層據此填對應輸入框（起點/終點）
+      window.parent.postMessage(
+        {{type: 'map-click', target: target, lat: latlng.lat, lon: latlng.lng}}, '*');
+    }}
+
+    function setMarker(target, latlng) {{
+      if (markers[target]) {{
+        markers[target].setLatLng(latlng);
+      }} else {{
+        var icon = new L.Icon({{
+          iconUrl: 'https://cdn.jsdelivr.net/gh/pointhi/leaflet-color-markers@master/img/marker-icon-' + colors[target] + '.png',
+          shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+          iconSize: [25, 41], iconAnchor: [12, 41]
+        }});
+        var mk = L.marker(latlng, {{draggable: true, icon: icon}}).addTo(map);
+        // 拖動該圖釘 → 回報「該圖釘對應的目標」新座標
+        mk.on('dragend', function() {{ report(target, mk.getLatLng()); }});
+        markers[target] = mk;
+      }}
+    }}
+
+    // 外層告知「現在要設哪個目標」（點了起點或終點的『點地圖』按鈕）
+    window.addEventListener('message', function(e) {{
+      if (e.data && e.data.type === 'set-pick-target') {{
+        activeTarget = e.data.target; // 'origin' | 'destination' | null
+      }}
+    }});
+
+    // 點地圖：落下/移動「目前作用中目標」的圖釘並回報
+    map.on('click', function(e) {{
+      if (!activeTarget) return; // 未進入選位模式則不反應
+      setMarker(activeTarget, e.latlng);
+      report(activeTarget, e.latlng);
+    }});
+  }}
+  hook();
+}})();
+</script>
+"""
+    # 附加在最尾端，確保 Folium 定義地圖的 <script> 已先執行
+    return html + script

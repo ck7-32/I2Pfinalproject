@@ -135,9 +135,13 @@ def _dedup_connections(connections):
     return unique
 
 
-def plan_routes(origin_keyword, dest_keyword):
+def plan_routes(origin_keyword, dest_keyword, on_progress=None):
     """
     主要入口：輸入起點與終點關鍵字，回傳前 N 名最快搭乘方案。
+
+    參數：
+      on_progress：可選的進度回報 callback，簽名 on_progress(message)。
+        會在各階段被呼叫（地理編碼、找站、算時間…），供前端即時顯示後台進度。
 
     回傳 dict：
       {
@@ -147,7 +151,12 @@ def plan_routes(origin_keyword, dest_keyword):
       }
     若起點或終點無法解析，plans 為空並附帶 error 訊息。
     """
+    def progress(msg):
+        if on_progress:
+            on_progress(msg)
+
     # 1) 地理編碼：關鍵字 → 座標
+    progress(f"解析地點「{origin_keyword}」與「{dest_keyword}」座標…")
     origin = geocoding.geocode_best(origin_keyword)
     destination = geocoding.geocode_best(dest_keyword)
     if not origin or not destination:
@@ -159,6 +168,7 @@ def plan_routes(origin_keyword, dest_keyword):
         }
 
     # 2) 找起訖點周邊可步行抵達的站牌（本機資料）
+    progress("搜尋起訖點周邊的公車站牌…")
     origin_stops = bus_static.find_nearby_stops(origin["lat"], origin["lon"])
     dest_stops = bus_static.find_nearby_stops(destination["lat"], destination["lon"])
 
@@ -169,15 +179,19 @@ def plan_routes(origin_keyword, dest_keyword):
         origin, destination,
     )
     connections = _dedup_connections(connections)
+    progress(f"找到 {len(connections)} 條可直達路線，計算各方案時間…")
 
     # 4) 對每個候選方案算完整四段時間（先查等待、可搭才用 OSRM 算步行）
     plans = []
-    for conn in connections:
+    for idx, conn in enumerate(connections, 1):
+        progress(f"計算路線時間（{idx}/{len(connections)}）：{conn['route_name']} 線"
+                 "　查即時動態與步行路徑…")
         plan = _plan_one(conn, origin, destination)
         if plan is not None:
             plans.append(plan)
 
     # 5) 依總耗時排序 → 每條路線只留最快的一個 → 剔除荒謬過長者 → 取前 N 名
+    progress("彙整並排序最快的方案…")
     plans.sort(key=lambda p: p["total_min"])
     plans = _keep_fastest_per_route(plans)
     if plans:

@@ -10,11 +10,16 @@
   - 搜尋範圍用 viewbox 限制在新竹一帶，避免同名地點解析到外縣市。
 """
 
+import re
+
 import requests
 
 import config
 from utils.cache import TTLCache
 from utils.rate_limiter import RateLimiter
+
+# 「@緯度,經度」格式（使用者直接在地圖上點選位置時用），可跳過 Nominatim 查詢
+_COORD_PATTERN = re.compile(r"^\s*@?\s*(-?\d+\.?\d*)\s*,\s*(-?\d+\.?\d*)\s*$")
 
 # 模組層級的限流器與快取（整個程式共用一份）
 _limiter = RateLimiter(config.NOMINATIM_RATE_LIMIT_SECONDS)
@@ -70,7 +75,32 @@ def geocode(keyword, limit=5):
     return results
 
 
+def _parse_coordinate(text):
+    """
+    若輸入是「@緯度,經度」或「緯度,經度」格式（地圖點選），直接解析為座標 dict，
+    跳過 Nominatim 查詢。否則回傳 None（代表是一般地名關鍵字）。
+    """
+    m = _COORD_PATTERN.match(text or "")
+    if not m:
+        return None
+    lat, lon = float(m.group(1)), float(m.group(2))
+    # 粗略合理範圍檢查（台灣一帶），避免把「12,34」之類誤判為座標
+    if not (21 <= lat <= 26 and 119 <= lon <= 122):
+        return None
+    return {
+        "display_name": f"地圖選點（{lat:.5f}, {lon:.5f}）",
+        "lat": lat,
+        "lon": lon,
+    }
+
+
 def geocode_best(keyword):
-    """便利函式：只取最佳（第一筆）候選座標，回傳 dict 或 None。"""
+    """
+    便利函式：把輸入解析為最佳座標，回傳 dict 或 None。
+    支援兩種輸入：地圖點選的「@緯度,經度」座標（直接解析）、或一般地名關鍵字（查 Nominatim）。
+    """
+    coord = _parse_coordinate(keyword)
+    if coord:
+        return coord
     results = geocode(keyword, limit=1)
     return results[0] if results else None
